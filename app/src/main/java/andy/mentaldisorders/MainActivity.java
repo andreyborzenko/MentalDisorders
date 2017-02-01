@@ -8,6 +8,7 @@ import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -15,6 +16,9 @@ import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.graphics.drawable.*;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -34,17 +38,48 @@ public class MainActivity extends AppCompatActivity
         ListView listView = (ListView) findViewById(R.id.mainListView1);
         listView.setAdapter(adapter);
 
+		
+		final ViewGroup actionBarLayout = (ViewGroup) getLayoutInflater().inflate(
+            R.layout.action_bar,
+            null);
+
+		// Set up your ActionBar
+		final ActionBar actionBar = getActionBar();
+		actionBar.setDisplayShowHomeEnabled(false);
+		actionBar.setDisplayShowTitleEnabled(false);
+		actionBar.setDisplayShowCustomEnabled(true);
+		actionBar.setCustomView(actionBarLayout);
+
+		// You customization
+		final int actionBarColor = getResources().getColor(R.color.action_bar);
+		actionBar.setBackgroundDrawable(new ColorDrawable(actionBarColor));
+
+		final Button actionBarTitle = (Button) findViewById(R.id.action_bar_title);
+		actionBarTitle.setText("Index(2)");
+
+		final Button actionBarSent = (Button) findViewById(R.id.action_bar_sent);
+		actionBarSent.setText("Sent");
+
+		final Button actionBarStaff = (Button) findViewById(R.id.action_bar_staff);
+		actionBarStaff.setText("Staff");
+
+		final Button actionBarLocations = (Button) findViewById(R.id.action_bar_locations);
+		actionBarLocations.setText("HIPPA Locations");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
+       
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -66,6 +101,11 @@ public class MainActivity extends AppCompatActivity
         }
     }
 
+	
+	
+	
+	
+	
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
