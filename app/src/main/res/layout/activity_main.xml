@@ -14,12 +14,63 @@
         android:layout_height="match_parent" />
 
     <android.support.design.widget.NavigationView
-        android:id="@+id/nav_view"
+        android:id="@+id/navigation"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:fitsSystemWindows="true"
-        app:headerLayout="@layout/nav_header_main"
-        app:menu="@menu/activity_main_drawer" />
+        android:fitsSystemWindows="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <include layout="@layout/nav_header_main" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+                <Button
+                    android:text="-"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/button_minus" />
+
+                <Button
+                    android:text="+"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/button_plus" />
+
+                <TextView
+                    android:text="Change Text Size"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView2"
+                    android:layout_weight="1" />
+
+
+            </LinearLayout>
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:id="@+id/spinner"
+                android:spinnerMode="dropdown"
+                android:entries="@array/country_arrays"
+                android:layout_weight="0.10" />
+
+            <ImageButton
+                android:text="-"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/button_like"
+                android:background="@drawable/like"
+                />
+        </LinearLayout>
+    </android.support.design.widget.NavigationView>
 
 </android.support.v4.widget.DrawerLayout>
