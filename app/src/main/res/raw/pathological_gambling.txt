@@ -1,0 +1,165 @@
+
+<b>Problem gambling</b> (or <b>ludomania</b>, but usually referred to as "<b>gambling addiction</b>" or "<b>compulsive gambling</b>") is an urge to gamble continuously despite harmful negative consequences or a desire to stop. Problem gambling is often defined by whether harm is experienced by the gambler or others, rather than by the gambler's behavior. Severe problem gambling may be diagnosed as clinical pathological gambling if the gambler meets certain criteria. Pathological gambling is a common disorder that is associated with both social and family costs.<p></p>
+The <i>DSM-5</i> has re-classified the condition as an addictive disorder, with sufferers exhibiting many similarities to those who have substance addictions. The term <i>gambling addiction</i> has long been used in the recovery movement. Pathological gambling was long considered by the American Psychiatric Association to be an impulse control disorder rather than an addiction. However, data suggest a closer relationship between pathological gambling and substance use disorders than exists between PG and obsessive-compulsive disorder, largely because the behaviors in problem gambling and most primary substance use disorders (<i>i.e.</i>, those not resulting from a desire to "self-medicate" for another condition such as depression) seek to activate the brain's reward mechanisms while the behaviors characterizing obsessive-compulsive disorder are prompted by overactive and misplaced signals from the brain's fear mechanisms.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Definition</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Mechanism and biology</span>
+<ul>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">2.1</span> <span class="toctext">Relation to other problems</span>
+<ul>
+<li class="toclevel-3 tocsection-4"><span class="tocnumber">2.1.1</span> <span class="toctext">Suicide rates</span></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">3</span> <span class="toctext">Psychological mechanisms</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">4</span> <span class="toctext">Diagnosis</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">5</span> <span class="toctext">Treatment</span>
+<ul>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">5.1</span> <span class="toctext">Step-based programs</span></li>
+<li class="toclevel-2 tocsection-9"><span class="tocnumber">5.2</span> <span class="toctext">Motivational interviewing</span></li>
+<li class="toclevel-2 tocsection-10"><span class="tocnumber">5.3</span> <span class="toctext">Peer support</span></li>
+<li class="toclevel-2 tocsection-11"><span class="tocnumber">5.4</span> <span class="toctext">Self-help</span></li>
+<li class="toclevel-2 tocsection-12"><span class="tocnumber">5.5</span> <span class="toctext">Impact (Australia)</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">6</span> <span class="toctext">Prevalence</span>
+<ul>
+<li class="toclevel-2 tocsection-14"><span class="tocnumber">6.1</span> <span class="toctext">Europe</span></li>
+<li class="toclevel-2 tocsection-15"><span class="tocnumber">6.2</span> <span class="toctext">North America</span></li>
+<li class="toclevel-2 tocsection-16"><span class="tocnumber">6.3</span> <span class="toctext">Oceania (Australia)</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><span class="tocnumber">7</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-18"><span class="tocnumber">8</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-19"><span class="tocnumber">9</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span></h2>
+<table width="400" align="right" class="toccolours" style="margin-left: 0.5em;" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr>
+<th style="background: rgb(255, 204, 102); text-align: center;">Addiction and dependence glossary</th>
+</tr>
+<tr>
+<td>• <b>addiction</b> – a brain disorder characterized by compulsive engagement in rewarding stimuli despite adverse consequences</td>
+</tr>
+<tr>
+<td>• <b>addictive behavior</b> – a behavior that is both rewarding and reinforcing</td>
+</tr>
+<tr>
+<td>• <b>addictive drug</b> – a drug that is both rewarding and reinforcing</td>
+</tr>
+<tr>
+<td>• <b>dependence</b> – an adaptive state associated with a withdrawal syndrome upon cessation of repeated exposure to a stimulus (e.g., drug intake)</td>
+</tr>
+<tr>
+<td>• <b>drug sensitization</b> or <b>reverse tolerance</b> – the escalating effect of a drug resulting from repeated administration at a given dose</td>
+</tr>
+<tr>
+<td>• <b>drug withdrawal</b> – symptoms that occur upon cessation of repeated drug use</td>
+</tr>
+<tr>
+<td>• <b>physical dependence</b> – dependence that involves persistent physical–somatic withdrawal symptoms (e.g., fatigue and delirium tremens)</td>
+</tr>
+<tr>
+<td>• <b>psychological dependence</b> – dependence that involves emotional–motivational withdrawal symptoms (e.g., dysphoria and anhedonia)</td>
+</tr>
+<tr>
+<td>• <b>reinforcing stimuli</b> – stimuli that increase the probability of repeating behaviors paired with them</td>
+</tr>
+<tr>
+<td>• <b>rewarding stimuli</b> – stimuli that the brain interprets as intrinsically positive or as something to be approached</td>
+</tr>
+<tr>
+<td>• <b>sensitization</b> – an amplified response to a stimulus resulting from repeated exposure to it</td>
+</tr>
+<tr>
+<td>• <b>substance use disorder</b> - a condition in which the use of substances leads to clinically and functionally significant impairment or distress</td>
+</tr>
+<tr>
+<td>• <b>tolerance</b> – the diminishing effect of a drug resulting from repeated administration at a given dose</td>
+</tr>
+<tr>
+<td style="text-align: right;"><small class="editlink noprint plainlinksneverexpand">(edit | history)</small></td>
+</tr>
+</tbody></table>
+Research by governments in Australia led to a universal definition for that country which appears to be the only research-based definition not to use diagnostic criteria: "Problem gambling is characterized by many difficulties in limiting money and/or time spent on gambling which leads to adverse consequences for the gambler, others, or for the community." The University of Maryland Medical Center defines pathological gambling as "being unable to resist impulses to gamble, which can lead to severe personal or social consequences".<p></p>
+Most other definitions of problem gambling can usually be simplified to any gambling that causes harm to the gambler or someone else in any way; however, these definitions are usually coupled with descriptions of the type of harm or the use of diagnostic criteria. The <i>DSM-V</i> has since reclassified pathological gambling as "gambling disorder" and has listed the disorder under substance-related and addictive disorders rather than impulse-control disorders. This is due to the symptomatology of the disorder resembling an addiction not dissimilar to that of substance-abuse. There are both environmental and genetic factors that can influence on gambler and cause some type of addiction. In order to be diagnosed, an individual must have at least four of the following symptoms in a 12-month period:<p></p>
+<ul>
+<li>Needs to gamble with increasing amounts of money in order to achieve the desired excitement</li>
+<li>Is restless or irritable when attempting to cut down or stop gambling</li>
+<li>Has made repeated unsuccessful efforts to control, cut back, or stop gambling</li>
+<li>Is often preoccupied with gambling (e.g., having persistent thoughts of reliving past gambling experiences, handicapping or planning the next venture, thinking of ways to get money with which to gamble)</li>
+<li>Often gambles when feeling distressed (e.g., helpless, guilty, anxious, depressed)</li>
+<li>After losing money gambling, often returns another day to get even ("chasing" one's losses)</li>
+<li>Lies to conceal the extent of involvement with gambling</li>
+<li>Has jeopardized or lost a significant relationship, job, education or career opportunity because of gambling</li>
+<li>Relies on others to provide money to relieve desperate financial situations caused by gambling</li>
+</ul>
+<h2><span class="mw-headline" id="Mechanism_and_biology">Mechanism and biology</span></h2>
+According to the Illinois Institute for Addiction Recovery, evidence indicates that pathological gambling is an addiction similar to chemical addiction. It has been observed that some pathological gamblers have lower levels of norepinephrine than normal gamblers. According to a study conducted by Alec Roy, formerly at the National Institute on Alcohol Abuse and Alcoholism, norepinephrine is secreted under stress, arousal, or thrill, so pathological gamblers gamble to make up for their under-dosage.<p></p>
+According to a report from Harvard Medical School's division on addictions, there was an experiment constructed where test subjects were presented with situations where they could win, lose, or break even in a casino-like environment. Subjects' reactions were measured using fMRI, a neuroimaging technique. And according to Hans Breiter, co-director of the Motivation and Emotion Neuroscience Center at Massachusetts General Hospital, "monetary reward in a gambling-like experiment produces brain activation very similar to that observed in a cocaine addict receiving an infusion of cocaine." Studies have compared pathological gamblers to substance addicts, concluding that addicted gamblers display more physical symptoms during withdrawal.<p></p>
+Deficiencies in serotonin might also contribute to compulsive behavior, including a gambling addiction. There are three importat points discovered after these antidepressant studies:<p></p>
+<ol>
+<li>Antidepressants can reduce pathological gambling in case when there is an effect on serotonergic reuptake inhibitors and 5-HT1/5-HT2 receptor antagonists.</li>
+<li>Pathological gambling, as the part of obsessive-compulsive disorder, requires the higher doses of antidepressants as it usually required for depressive disorders.</li>
+<li>In cases where participants do not have or have minimal symptoms of anxiety or depression, antidepressants still have those effect.</li>
+</ol>
+A limited study was presented at a conference in Berlin, suggesting opioid release differs in problem gamblers form the general population, but in a very different way from alcoholics or other substance abusers.<p></p>
+The findings in one review indicated the sensitization theory is responsible. Dopamine dysregulation syndrome has been observed in the aforementioned theory in people with regards to such activities as gambling.<p></p>
+Some medical authors suggest that the biomedical model of problem gambling may be unhelpful because it focuses only on individuals. These authors point out that social factors may be a far more important determinant of gambling behaviour than brain chemicals and they suggest that a social model may be more useful in understanding the issue. For example, an apparent increase in problem gambling in the UK may be better understood as a consequence of changes in legislation which came into force in 2007 and enabled casinos, bookmakers, and online betting sites to advertise on TV and radio for the first time and which eased restrictions on the opening of betting shops and online gambling sites.<p></p>
+<h3><span class="mw-headline" id="Relation_to_other_problems">Relation to other problems</span></h3>
+Pathological gambling is similar to many other impulse control disorders such as kleptomania. According to evidence from both community- and clinic-based studies, individuals who are pathological gamblers are highly likely to exhibit other psychiatric problems concurrently, including substance use disorders, mood and anxiety disorders, or personality disorders.<p></p>
+Pathological gambling shows several similarities with substance abuse. There is a partial overlap in diagnostic criteria; pathological gamblers are also likely to abuse alcohol and other drugs. The "telescoping phenomenon" reflects the rapid development from initial to problematic behavior in women compared with men. This phenomenon was initially described for alcoholism, but it has also been applied to pathological gambling. Also biological data provide a support for a relationship between pathological gambling and substance abuse.<p></p>
+In a 1995 survey of 184 Gamblers Anonymous members in Illinois, Illinois State professor Henry Lesieur found that 56 percent admitted to some illegal act to obtain money to gamble. Fifty-eight percent admitted they wrote bad checks, while 44 percent said they stole or embezzled money from their employer. Compulsive gambling can affect personal relationships. In a 1991 study of relationships of American men, it was found that 10% of compulsive gamblers had been married more than twice. Only 2% of men who did not gamble were married more than twice. According to statistics by the BGM (British Medical Journal), families of problem gamblers are more likely to experience child abuse or other forms of domestic violence. According to John A. Cunningham, Joanne Cordingley, David C. Higgins and Tony Toneatto a survey based In Canada shows that gambling abuse was best seen as a form of "disease or illness" , "wrongdoing", "habit not disease" and an "addiction similar to drug addiction".<p></p>
+<h4><span class="mw-headline" id="Suicide_rates">Suicide rates</span></h4>
+A gambler who does not receive treatment for pathological gambling when in his or her desperation phase may contemplate suicide. Problem gambling is often associated with increased suicidal ideation and attempts compared to the general population.<p></p>
+Early onset of problem gambling increases the lifetime risk of suicide. However, gambling-related suicide attempts are usually made by older people with problem gambling. Both comorbid substance use and comorbid mental disorders increase the risk of suicide in people with problem gambling. A 2010 Australian hospital study found that 17% of suicidal patients admitted to the Alfred Hospital's emergency department were problem gamblers. In the United States, a report by the National Council on Problem Gambling showed approximately one in five pathological gamblers attempt suicide. The council also said that suicide rates among pathological gamblers were higher than any other addictive disorder.<p></p>
+David Phillips, a sociologist from the University of California-San Diego, found "visitors to and residents of gaming communities experience significantly elevated suicide levels". According to him, Las Vegas, the largest gaming market in the United States, "displays the highest levels of suicide in the nation, both for residents of Las Vegas and for visitors to that setting". In Atlantic City, the second-largest gaming market, he found "abnormally high suicide levels for visitors and residents appeared only after gambling casinos were opened".<p></p>
+<h2><span class="mw-headline" id="Psychological_mechanisms">Psychological mechanisms</span></h2>
+Several psychological mechanisms are thought to be implicated in the development and maintenance of problem gambling. First, reward processing seems to be less sensitive with problem gamblers. Second, some individuals use problem gambling as an escape from the problems in their lives (an example of negative reinforcement). Third, personality factors play a role, such as narcissism, risk-seeking, sensation-seeking and impulsivity. Fourth, problem gamblers suffer from a number of cognitive biases, including the illusion of control, unrealistic optimism, overcon?dence and the gambler's fallacy (the incorrect belief that a series of random events tends to self-correct so that the absolute frequencies of each of various outcomes balance each other out). Fifth, problem gamblers represent a chronic state of a behavioral spin process, a gambling spin, as described by the criminal spin theory.<p></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+The most common instrument used to screen for "probable pathological gambling" behavior is the South Oaks Gambling Screen (SOGS) developed by Lesieur and Blume (1987) at the South Oaks Hospital in New York City. In recent years the use of SOGS has declined due to a number of criticisms, including that it overestimates false positives (Battersby, Tolchard, Thomas &amp; Esterman, 2002).<p></p>
+The <i>DSM-IV</i> diagnostic criteria presented as a checklist is an alternative to SOGS, it focuses on the psychological motivations underpinning problem gambling and was developed by the American Psychiatric Association. It consists of ten diagnostic criteria. One frequently used screening measure based upon the DSM-IV criteria is the National Opinion Research Center DSM Screen for Gambling Problems (NODS). The Canadian Problem Gambling Inventory (CPGI) and the Victorian Gambling Screen (VGS) are newer assessment measures. The Problem Gambling Severity Index, which focuses on the harms associated with problem gambling, is composed of nine items from the longer CPGI. The VGS is also harm based and includes 15 items. The VGS has proven validity and reliability in population studies as well as Adolescents and clinic gamblers.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+Most treatment for problem gambling involves counseling, step-based programs, self-help, peer-support, medication, or a combination of these. However, no one treatment is considered to be most efficacious and no medications have been approved for the treatment of pathological gambling by the U.S. Food and Drug Administration (FDA). Only one treatment facility has been given a license to officially treat gambling as an addiction, and that was by the State of Virginia.<p></p>
+Gamblers Anonymous (GA) is a commonly used treatment for gambling problems. Modeled after Alcoholics Anonymous, GA uses a 12-step model that emphasizes a mutual-support approach. There are three in-patient treatment centers in North America. One form of counseling, cognitive behavioral therapy (CBT) has been shown to reduce symptoms and gambling-related urges. This type of therapy focuses on the identification of gambling-related thought processes, mood and cognitive distortions that increase one's vulnerability to out-of-control gambling. Additionally, CBT approaches frequently utilize skill-building techniques geared toward relapse prevention, assertiveness and gambling refusal, problem solving and reinforcement of gambling-inconsistent activities and interests.<p></p>
+As to behavioral treatment, some recent research supports the use of both activity scheduling and desensitization in the treatment of gambling problems. In general, behavior analytic research in this area is growing  There is evidence that the SSRI paroxetine is efficient in the treatment of pathological gambling. Additionally, for patients suffering from both pathological gambling and a comorbid bipolar spectrum condition, sustained release lithium has shown efficacy in a preliminary trial. The opioid antagonist drug nalmefene has also been trialled quite successfully for the treatment of compulsive gambling.<p></p>
+<h3><span class="mw-headline" id="Step-based_programs">Step-based programs</span></h3>
+Other step-based programs are specific to gambling and generic to healing addiction, creating financial health, and improving mental wellness. Commercial alternatives that are designed for clinical intervention, using the best of health science and applied education practices, have been used as patient-centered tools for intervention since 2007. They include measured efficacy and resulting recovery metrics.<p></p>
+<h3><span class="mw-headline" id="Motivational_interviewing">Motivational interviewing</span></h3>
+Motivational interviewing is one of the treatments of compulsive gambling. The motivational interviewing's basic goal is promoting readiness to change through thinking and resolving mixed feelings. Avoiding aggressive confrontation, argument, labeling, blaming, and direct persuasion, the interviewer supplies empathy and advice to compulsive gamblers who define their own goal. The focus is on promoting freedom of choice and encouraging confidence in the ability to change.<p></p>
+<h3><span class="mw-headline" id="Peer_support">Peer support</span></h3>
+A growing method of treatment is peer support. With the advancement of online gambling, many gamblers experiencing issues use various online peer-support groups to aid their recovery. This protects their anonymity while allowing them to attempt recovery on their own, often without having to disclose their issues to loved ones.<p></p>
+<h3><span class="mw-headline" id="Self-help">Self-help</span></h3>
+Research into self-help for problem gamblers has shown benefits. A study by Wendy Slutske of the University of Missouri concluded one-third of pathological gamblers overcome it by natural recovery.<p></p>
+<h3><span class="mw-headline" id="Impact_.28Australia.29">Impact (Australia)</span></h3>
+According to the Productivity Commission's 2010 final report into gambling, the social cost of problem gambling is close to 4.7 billion dollars a year. Some of the harms resulting from problem gambling include depression, suicide, lower work productivity, job loss, relationship breakdown, crime and bankruptcy. A survey conducted in 2008 found that the most common motivation for fraud was problem gambling, with each incident averaging a loss of $1.1 million. According to Darren R. Christensen. Nicki A. Dowling, Alun C. Jackson and Shane A.Thomas a survey done from 1994-2008 in Tasmania gave results that gambling participation rates have risen rather than fallen over this period.<p></p>
+<h2><span class="mw-headline" id="Prevalence">Prevalence</span></h2>
+<h3><span class="mw-headline" id="Europe">Europe</span></h3>
+In Europe, the rate of problem gambling is typically 0.5 to 3 percent. The "British Gambling Prevalence Survey 2007", conducted by the United Kingdom Gambling Commission, found approximately 0.6 percent of the adult population had problem gambling issues—the same percentage as in 1999. The highest prevalence of problem gambling was found among those who participated in spread betting (14.7%), fixed odds betting terminals (11.2%) and betting exchanges (9.8%). In Norway, a December 2007 study showed the amount of present problem gamblers was 0.7 percent.<p></p>
+<h3><span class="mw-headline" id="North_America">North America</span></h3>
+In the United States, the percentage of pathological gamblers was 0.6 percent, and the percentage of problem gamblers was 2.3 percent in 2008. Studies commissioned by the National Gambling Impact Study Commission Act has shown the prevalence rate ranges from 0.1 percent to 0.6 percent. Nevada has the highest percentage of pathological gambling; a 2002 report estimated 2.2 to 3.6 percent of Nevada residents over the age of 18 could be called problem gamblers. Also, 2.7 to 4.3 percent could be called probable pathological gamblers.<p></p>
+According to a 1997 meta-analysis by Harvard Medical School's division on addictions, 1.1 percent of the adult population of the United States and Canada could be called pathological gamblers. A 1996 study estimated 1.2 to 1.9 percent of adults in Canada were pathological. In Ontario, a 2006 report showed 2.6 percent of residents experienced "moderate gambling problems" and 0.8 percent had "severe gambling problems". In Quebec, an estimated 0.8 percent of the adult population were pathological gamblers in 2002. Although most who gamble do so without harm, approximately 6 million American adults are addicted to gambling.<p></p>
+Signs of a gambling problem include:<p></p>
+<ul>
+<li>Using income or savings to gamble while letting bills go unpaid</li>
+<li>Repeated, unsuccessful attempts to stop gambling</li>
+<li>Chasing losses</li>
+<li>Losing sleep over thoughts of gambling</li>
+<li>Arguing with friends or family about gambling behavior</li>
+<li>Feeling depressed or suicidal because of gambling losses</li>
+</ul>
+<h3><span class="mw-headline" id="Oceania_.28Australia.29">Oceania (Australia)</span></h3>
+Both casinos and poker machines in pubs and clubs facilitate problem gambling in Australia. The building of new hotels and casinos has been described as "one of the most active construction markets in Australia"; for example, AUD$860 million was allocated to rebuild and expand the Star Complex in Sydney.<p></p>
+A 2010 study, conducted in the Northern Territory by researchers from the Australian National University (ANU) and Southern Cross University (SCU), found that the proximity of a person's residence to a gambling venue is significant in terms of prevalence. Harmful gambling in the study was prevalent among those living within 100 metres of any gambling venue, and was over 50% higher than among those living ten kilometres from a venue. The study's data stated:<p></p>
+<blockquote>
+</blockquote>"Specifically, people who lived 100 metres from their favourite venue visited an estimated average of 3.4 times per month. This compared to an average of 2.8 times per month for people living one kilometre away, and 2.2 times per month for people living ten kilometres away".<p></p>
+
+According to the Productivity Commission's 2010 report into gambling, 0.5% to 1% (80,000 to 160,000) of the Australian adult population suffered with significant problems resulting from gambling. A further 1.4% to 2.1% (230 000 to 350 000) of the Australian adult population experienced moderate risks making them likely to be vulnerable to problem gambling. Estimates show that problem gamblers account for an average of 41% of the total gaming machine spending.<p></p><p></p>  

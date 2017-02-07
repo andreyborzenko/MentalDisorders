@@ -1,0 +1,102 @@
+
+<b>Binge eating disorder</b> (<b>BED</b>) is an eating disorder characterized by frequent and recurrent binge eating episodes with associated negative psychological and social problems, but without subsequent purging episodes (e.g. vomiting).<p></p>
+BED is a recently described condition, which was required to distinguish binge eating similar to that seen bulimia nervosa but without characteristic purging. Individuals who are diagnosed with bulimia nervosa and binge eating disorder exhibit similar patterns of compulsive overeating, neurobiological features of dysfunctional cognitive control and food addiction, and biological and environmental risk factors. Indeed, some consider BED a milder version of bulimia nervosa, and that the conditions are on the same spectrum.<p></p>
+Binge eating is one of the most prevalent eating disorders among adults, though there tends to be less media coverage and research about the disorder in comparison to anorexia nervosa and bulimia nervosa.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Causes</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">3.1</span> <span class="toctext">International Statistical Classification of Diseases and Related Health Problems</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">3.2</span> <span class="toctext">Diagnostic and Statistical Manual of Mental Disorders</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">4</span> <span class="toctext">Treatment</span>
+<ul>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">4.1</span> <span class="toctext">Counselling</span></li>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">4.2</span> <span class="toctext">Medication</span></li>
+<li class="toclevel-2 tocsection-9"><span class="tocnumber">4.3</span> <span class="toctext">Surgery</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><span class="tocnumber">5</span> <span class="toctext">Prognosis</span></li>
+<li class="toclevel-1 tocsection-11"><span class="tocnumber">6</span> <span class="toctext">Epidemiology</span></li>
+<li class="toclevel-1 tocsection-12"><span class="tocnumber">7</span> <span class="toctext">History, society and culture</span></li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">8</span> <span class="toctext">References</span>
+<ul>
+<li class="toclevel-2 tocsection-14"><span class="tocnumber">8.1</span> <span class="toctext">Bibliography</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">9</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span></h2>
+Binge eating is the core symptom of BED; however, not everyone who binge eats has BED. An individual may occasionally binge eat without experiencing many of the negative physical, psychological, or social effects of BED. This example may be considered an eating problem (or not), rather than a disorder. Precisely defining binge eating can be problematic, however binge eating episodes in BED are generally described as having the following potential features:<p></p>
+<ul>
+<li>Eating much faster than normal during a binge perhaps in a short space of time</li>
+<li>Eating until feeling uncomfortably full</li>
+<li>Eating a large amount when not hungry</li>
+<li>Subjective loss of control over how much or what is eaten</li>
+<li>Binges may be planned in advance, involving the purchase of special binge foods, and the allocation of specific time for binging, sometimes at night</li>
+<li>Eating alone or secretly due to embarrassment over the amount of food consumed</li>
+<li>There may be a dazed mental state during the binge</li>
+<li>Not being able to remember what was eaten after the binge</li>
+<li>Feelings of guilt, shame or disgust following a food binge</li>
+</ul>
+In contrast to bulimia nervosa, binge eating episodes are not regularly followed by activities intended to prevent weight gain, such as self-induced vomiting, laxative or enema misuse, or strenuous exercise. BED is characterized more by overeating than dietary restriction and over concern about body shape. Obesity is common in persons with BED, as are depressive features, low self-esteem, stress and boredom.<p></p>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+As with other eating disorders, binge eating is an "expressive disorder"—a disorder that is an expression of deeper psychological problems. People who suffer from binge eating disorder have been found to have higher weight bias internalization, which includes low self-esteem, unhealthy eating patterns, and general body dissatisfaction. Binge eating disorder commonly develops as a result or side effect of depression, as it is common for people to turn to comfort foods when they are feeling down.<p></p>
+There was resistance to give binge eating disorder the status of a fully fledged eating disorder because many perceived binge eating disorder to be caused by individual choices. Previous research has focused on the relationship between body image and eating disorders, and concludes that disordered eating might be linked to rigid dieting practices. In the majority of cases of anorexia, extreme and inflexible restriction of dietary intake leads at some point to the development of binge eating, weight regain, bulimia nervosa, or a mixed form of eating disorder not otherwise specified. Binge eating may begin when individuals recover from an adoption of rigid eating habits. When under a strict diet that mimics the effects of starvation, the body may be preparing for a new type of behavior pattern, one that consumes a large amount of food in a relatively short period of time.<p></p>
+However, other research suggests that binge eating disorder can also be caused by environmental factors and the impact of traumatic events. One study showed that women with binge eating disorder experienced more adverse life events in the year prior to the onset of the development of the disorder, and that binge eating disorder was positively associated with how frequently negative events occur. Additionally, the research found that individuals who had binge eating disorder were more likely to have experienced physical abuse, perceived risk of physical abuse, stress, and body criticism. Other risk factors may include childhood obesity, critical comments about weight, low self-esteem, depression, and physical or sexual abuse in childhood. A few studies have suggested that there could be a genetic component to binge eating disorder, though other studies have shown more ambiguous results. Studies have shown that binge eating tends to run in families and a twin study by Bulik, Sullivan, and Kendler has shown a, "moderate heritability for binge eating" at 41 percent. More research must be done before any firm conclusions can be drawn regarding the heritability of binge eating disorder. Studies have also shown that eating disorders such as anorexia and bulimia reduce coping abilities, which makes it more likely for those suffering to turn to binge eating as a coping strategy.<p></p>
+A correlation between dietary restraint and the occurrence of binge eating has been shown in some research. While binge eaters are often believed to be lacking in self-control, the root of such behavior might instead be linked to rigid dieting practices. The relationship between strict dieting and binge eating is characterized by a vicious circle. Binge eating is more likely to occur after dieting, and vice versa. Several forms of dieting include delay in eating (e.g., not eating during the day), restriction of overall calorie intake (e.g., setting calorie limit to 1,000 calories per day), and avoidance of certain types of food (e.g., "forbidden" food, such as sugar, carbohydrates, etc.)  Strict and extreme dieting differs from ordinary dieting. Some evidence suggests the effectiveness of moderate calorie restriction in decreasing binge eating episodes among overweight individuals with binge eating disorder, at least in the short-term.<p></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+<h3><span class="mw-headline" id="International_Statistical_Classification_of_Diseases_and_Related_Health_Problems">International Statistical Classification of Diseases and Related Health Problems</span></h3>
+ICD-10 does not mention BED, although ICD-11 may contain a dedicated entry (6B62), defining BED as frequent, recurrent episodes of binge eating (once a week or more over a period of several months) which are not regularly followed by inappropriate compensatory behaviours aimed at preventing weight gain.<p></p>
+<h3><span class="mw-headline" id="Diagnostic_and_Statistical_Manual_of_Mental_Disorders">Diagnostic and Statistical Manual of Mental Disorders</span></h3>
+Previously considered a topic for further research exploration, binge eating disorder was included in the <i>Diagnostic and Statistical Manual of Mental Disorders</i> in 2013. Until 2013, binge eating disorder was categorized as an Eating Disorder Not Otherwise Specified, an umbrella category for eating disorders that don't fall under the categories for anorexia nervosa or bulimia nervosa. Because it was not a recognized psychiatric disorder in the <i>DSM-IV</i> until 2013, it has been difficult to obtain insurance reimbursement for treatments. The disorder now has its own category under <i>DSM-5</i>, which outlines the signs and symptoms that must be present to classify a person's behavior as binge eating disorder. Studies have confirmed the high predictive value of these criteria for diagnosing BED.<p></p>
+According to DSM-5, the following criteria must be present to make a diagnosis of binge eating disorder. Studies have confirmed the high predictive value of these criteria for diagnosing BED.<br>
+A. Recurrent episodes of binge eating. An episode of binge eating is characterized by both of the following:<p></p>
+<ol>
+<li>Eating, in a discrete period of time (e.g., within any 2-hour period), an amount of food that is definitely larger than what most people would eat in a similar period of time under similar circumstances.</li>
+<li>A sense of lack of control over eating during the episode (e.g., a feeling that one cannot stop eating or control what or how much one is eating).</li>
+</ol>
+B. The binge-eating episodes are associated with three (or more) of the following:<p></p>
+<ol>
+<li>Eating much more rapidly than normal.</li>
+<li>Eating until feeling uncomfortably full.</li>
+<li>Eating large amounts of food when not feeling physically hungry.</li>
+<li>Eating alone because of feeling embarrassed by how much one is eating.</li>
+<li>Feeling disgusted with oneself, depressed, or very guilty afterward.</li>
+</ol>
+C. Marked distress regarding binge eating is present.<br>
+D. The binge eating occurs, on average, at least once a week for 3 months.<br>
+E. The binge eating is not associated with the recurrent use of inappropriate compensatory behavior as in bulimia nervosa and does not occur exclusively during the course of bulimia nervosa or anorexia nervosa.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+Counselling and certain medication, such as lisdexamfetamine and selective serotonin reuptake inhibitor (SSRIs), may help. Some recommend a multidisciplinary approach in the treatment of the disorder.<p></p>
+<h3><span class="mw-headline" id="Counselling">Counselling</span></h3>
+Cognitive behavioral therapy (CBT) treatment has been demonstrated as a more effective form of treatment for BED than behavioral weight loss programs. 50 percent of BED individuals achieve complete remission from binge eating. CBT has also been shown to be an effective method to address self-image issues and psychiatric comorbidities (e.g., depression) associated with the disorder. Recent reviews have concluded that psychological interventions such as psychotherapy and behavioral interventions are more effective than pharmacological interventions for the treatment of binge eating disorder. There is the 12-step Overeaters Anonymous or Food Addicts in Recovery Anonymous.<p></p>
+<h3><span class="mw-headline" id="Medication">Medication</span></h3>
+Three other classes of medications are also used in the treatment of binge eating disorder: antidepressants, anticonvulsants, and anti-obesity medications. Antidepressant medications of the selective serotonin reuptake inhibitor (SSRI) class such as fluoxetine, fluvoxamine, or sertraline have been found to effectively reduce episodes of binge eating and reduce weight. Similarly, anticonvulsant medications such as topiramate and zonisamide may be able to effectively suppress appetite. The long-term effectiveness of medication for binge eating disorder is currently unknown.<p></p>
+Trials of antidepressants, anticonvulsants, and anti-obesity medications suggest that these medications are superior to placebo in reducing binge eating. Medications are not considered the treatment of choice because psychotherapeutic approaches, such as CBT, are more effective than medications for binge eating disorder. Medications also do not increase the effectiveness of psychotherapy, though some patients may benefit from anticonvulsant and anti-obesity medications for weight loss.<p></p>
+As of January 2015, lisdexamfetamine was the only drug approved by the Food and Drug Administration in the United States specifically for the treatment of binge eating.<p></p>
+<h3><span class="mw-headline" id="Surgery">Surgery</span></h3>
+Bariatric surgery has also been proposed as another approach to treat BED and a recent meta-analysis showed that approximately two-thirds of individuals who seek this type of surgery for weight loss purposes have BED. Bariatric surgery recipients who had BED prior to receiving the surgery tend to have poorer weight-loss outcomes and are more likely to continue to exhibit eating behaviors characteristic of BED.<p></p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span></h2>
+Individuals suffering from BED often have a lower overall quality of life and commonly experience social difficulties. Early behavior change is an accurate prediction of remission of symptoms later.<p></p>
+Individuals who have BED commonly have other comorbidities such as major depressive disorder, personality disorder, bipolar disorder, substance abuse, body dysmorphic disorder, kleptomania, irritable bowel syndrome, fibromyalgia, or an anxiety disorder. There may also be panic attacks and a history of attempted suicide.<p></p>
+While people of a healthy weight may overeat occasionally, an ongoing habit of consuming large amounts of food in a short period of time may ultimately lead to weight gain and obesity. Binging episodes usually include foods that are high in fat, sugar, and/or salt, but low in vitamins and minerals, as these types of foods tend to trigger greatest emotional reward. The main physical health consequences of this type of eating disorder are brought on by the weight gain resulting from the binging episodes. Up to 70% of individuals with BED may also be obese, and therefore obesity-associated morbidities such as high blood pressure and coronary artery disease type 2 diabetes mellitus gastrointestinal issues (e.g., gallbladder disease), high cholesterol levels, musculoskeletal problems and obstructive sleep apnea may also be present.<p></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span></h2>
+The prevalence of BED in the general population is approximately 1-3%.<p></p>
+Binge eating disorder is the most common eating disorder in adults.<p></p>
+The limited amount of research that has been done on BED shows that rates of binge eating disorder are fairly comparable among men and women. The lifetime prevalence of binge eating disorder has been observed in studies to be 2.0 percent for men and 3.5 percent for women, higher than that of the commonly recognized eating disorders anorexia nervosa and bulimia nervosa.<p></p>
+Rates of binge eating disorder have also been found to be similar among black women, white women, and white men, while some studies have shown that binge eating disorder is more common among black women than among white women.<p></p>
+Though the research on binge eating disorders tends to be concentrated in North America, the disorder occurs across cultures, In the USA, BED is present in 0.8% of male adults and 1.6% of female adults in a given year.<p></p>
+Additionally, 30 to 40 percent of individuals seeking treatment for weight-loss can be diagnosed with binge eating disorder.<p></p>
+<h2><span class="mw-headline" id="History.2C_society_and_culture">History, society and culture</span></h2>
+The disorder was first described in 1959 by psychiatrist and researcher Albert Stunkard as "night eating syndrome" (NES). The term "binge eating" was coined to describe the same binging-type eating behavior but without the exclusive nocturnal component.<p></p>
+There is generally less research on binge eating disorder in comparison to anorexia nervosa and bulimia nervosa.<p></p><p></p>  

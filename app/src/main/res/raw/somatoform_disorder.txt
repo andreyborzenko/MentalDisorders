@@ -1,0 +1,61 @@
+
+A <b>somatic symptom disorder</b>, formerly known as a <b>somatoform disorder</b>, is a category of mental disorder included in a number of diagnostic schemes of mental illness, including the <i>Diagnostic and Statistical Manual of Mental Disorders</i>, (latest version <i>DSM-5</i>) used by most mental health professionals in the United States. (Before DSM-5 this disorder was split into <i>somatization disorder</i> (Briquet's syndrome) and <i>undifferentiated somatoform disorder</i>.) The diagnosis requires physical symptoms that suggest physical illness or injury – symptoms that cannot be explained fully by a general medical condition or by the direct effect of a substance, and are not attributable to another mental disorder (e.g., panic disorder).<p></p>
+In people who have been diagnosed with a somatic symptom disorder, medical test results are either normal or do not explain the person's symptoms, and history and physical examination do not indicate the presence of a known medical condition that could cause them, though it is important to note that the DSM-5 cautions that this alone is not sufficient for diagnosis. The patient must also be excessively worried about their symptoms, and this worry must be judged to be out of proportion to the severity of the physical complaints themselves. A diagnosis of somatic symptom disorder requires that the subject have recurring somatic complaints for at least six months.<p></p>
+Symptoms are sometimes similar to those of other illnesses and may last for years. Usually, the symptoms begin appearing during adolescence, and patients are diagnosed before the age of 30 years. Symptoms may occur across cultures and gender. Other common symptoms include anxiety and depression. However, since anxiety and depression are also very common in persons with confirmed medical illnesses, it remains possible that such symptoms are a consequence of the physical impairment, rather than a cause. Somatic symptom disorders are not the result of conscious malingering (fabricating or exaggerating symptoms for secondary motives) or factitious disorders (deliberately producing, feigning, or exaggerating symptoms). Somatic symptom disorder is difficult to diagnose and treat. Some advocates of the diagnosis believe this is because proper diagnosis and treatment requires psychiatrists to work with neurologists on patients with this disorder.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Types</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Proposed disorders</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">2</span> <span class="toctext">Diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">2.1</span> <span class="toctext">Controversy</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">2.2</span> <span class="toctext">Misdiagnosis</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">3</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">4</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-8"><span class="tocnumber">5</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types">Types</span></h2>
+Somatic symptom disorders are a group of disorders, all of which fit the definition of physical symptoms similar to those observed in physical disease or injury for which there is no identifiable physical cause. As such, they are a diagnosis of exclusion. They are recognized in the Diagnostic and Statistical Manual of Mental Disorders of the American Psychiatric Association as the following:<p></p>
+<ul>
+<li>Conversion disorder: A somatic symptom disorder involving the actual loss of bodily function such as blindness, paralysis, and numbness due to excessive anxiety</li>
+<li>Illness anxiety disorder: A somatic symptom disorder involving persistent and excessive worry about developing a serious illness. This disorder has recently gone under review and has been altered into three different classifications.</li>
+<li>Body dysmorphic disorder: wherein the afflicted individual is concerned with body image, and is manifested as excessive concern about and preoccupation with a perceived defect of their physical appearance.</li>
+<li>Pain disorder</li>
+<li>Undifferentiated somatic symptom disorder – only one unexplained symptom is required for at least 6 months.</li>
+</ul>
+Included among these disorders are false pregnancy, psychogenic urinary retention, and mass psychogenic illness (so-called mass hysteria).<p></p>
+<ul>
+<li>Somatoform disorder Not Otherwise Specified (NOS)</li>
+</ul>
+The ICD-10 classifies conversion disorder as a dissociative disorder.<p></p>
+Somatization disorder as a mental disorder was recognized in the DSM-IV-TR classification system, but in the latest version DSM-5, it was combined with undifferentiated somatoform disorder to become <i>somatic symptom disorder</i>, a diagnosis which no longer requires a specific number of somatic symptoms. Still, ICD-10, the latest version of the International Statistical Classification of Diseases and Related Health Problems, still includes somatization syndrome.<p></p>
+<h3><span class="mw-headline" id="Proposed_disorders">Proposed disorders</span></h3>
+Additional proposed somatic symptom disorders are:<p></p>
+<ul>
+<li>Abridged somatization disorder – at least 4 unexplained somatic complaints in men and 6 in women</li>
+<li>Multisomatoform disorder – at least 3 unexplained somatic complaints from the PRIME-MD scale for at least 2 years of active symptoms</li>
+</ul>
+These disorders have been proposed because the recognized somatic symptom disorders are either too restrictive or too broad. In a study of 119 primary care patients, the following prevalences were found:<p></p>
+<ul>
+<li>Somatization disorder – 1%</li>
+<li>Abridged somatization disorder – 6%</li>
+<li>Multisomatoform disorder – 24%</li>
+<li>Undifferentiated somatoform disorder – 69%</li>
+</ul>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+Each of the specific somatic symptom disorders has its own diagnostic criteria.<p></p>
+<h3><span class="mw-headline" id="Controversy">Controversy</span></h3>
+Somatic symptom disorder has been a controversial diagnosis, since it was historically based primarily on negative criteria - that is, the absence of a medical explanation for the presenting physical complaints. Consequently, any person suffering from a poorly understood illness can potentially fulfill the criteria for this psychiatric diagnosis, even if they exhibit no psychiatric symptoms in the conventional sense. In 2013-4, there were several widely publicized cases of individuals being involuntarily admitted to psychiatric wards on the basis of this diagnosis alone. This has raised concerns about the consequences of potential misuse of this diagnostic category.<p></p>
+<h3><span class="mw-headline" id="Misdiagnosis">Misdiagnosis</span></h3>
+In the opinion of Allen Frances, chair of the DSM-IV task force, the DSM-5's somatic symptom disorder brings with it a risk of mislabeling a sizable proportion of the population as mentally ill. “Millions of people could be mislabeled, with the burden falling disproportionately on women, because they are more likely to be casually dismissed as ‘catastrophizers’ when presenting with physical symptoms.”<p></p><p></p>  

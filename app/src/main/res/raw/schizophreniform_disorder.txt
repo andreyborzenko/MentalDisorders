@@ -1,0 +1,62 @@
+
+<b>Schizophreniform disorder</b> is a mental disorder diagnosed when symptoms of schizophrenia are present for a significant portion of the time within a one-month period, but signs of disruption are not present for the full six months required for the diagnosis of schizophrenia.<p></p>
+The symptoms of both disorders can include delusions, hallucinations, disorganized speech, disorganized or catatonic behavior, and social withdrawal. While impairment in social, occupational, or academic functioning is required for the diagnosis of schizophrenia, in schizophreniform disorder an individual's level of functioning may or may not be affected. While the onset of schizophrenia is often gradual over a number of months or years, the onset of schizophreniform disorder can be relatively rapid.<p></p>
+Like schizophrenia, schizophreniform disorder is often treated with antipsychotic medications, especially the atypicals, along with a variety of social supports (such as individual psychotherapy, family therapy, occupational therapy, etc.) designed to reduce the social and emotional impact of the illness. The prognosis varies depending upon the nature, severity, and duration of the symptoms, but about two-thirds of individuals diagnosed with schizophreniform disorder go on to develop schizophrenia.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Symptoms and diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Prognosis</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">2</span> <span class="toctext">Etiology</span></li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">3</span> <span class="toctext">Prevalence</span></li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">5</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">6</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Symptoms_and_diagnosis">Symptoms and diagnosis</span></h2>
+Schizophreniform disorder is a type of mental illness that is characterized by psychosis and closely related to schizophrenia. Both schizophrenia and schizophreniform disorder, as defined by the <i>Diagnostic and Statistical Manual of Mental Disorders</i> (DSM-IV-TR), have the same symptoms and essential features except for two differences: the level of functional impairment and the duration of symptoms. Impairment in social, occupational, or academic functioning is usually present in schizophrenia, particularly near the time of first diagnosis, but such impairment may or may not be present in schizophreniform disorder. In schizophreniform disorder, the symptoms (including prodromal, active, and residual phases) must last at least 1 month but not more than 6 months, while in schizophrenia the symptoms must be present for a minimum of 6 months.<p></p>
+If the symptoms have persisted for at least one month, a provisional diagnosis of schizophreniform disorder can be made while waiting to see if recovery occurs. If the symptoms resolve within 6 months of onset, the provisional qualifier is removed from the diagnosis. However, if the symptoms persist for 6 months or more, the diagnosis of schizophreniform disorder must be revised. The diagnosis of brief psychotic disorder may be considered when the duration of symptoms is less than one month.<p></p>
+The main symptoms of both schizophreniform disorder and schizophrenia may include:<p></p>
+<ul>
+<li>delusions,</li>
+<li>hallucinations,</li>
+<li>disorganized speech resulting from formal thought disorder,</li>
+<li>disorganized or catatonic behavior, and negative symptoms, such as</li>
+<li>an inability to feel a range of emotions (flat affect),</li>
+<li>an inability to experience pleasure (anhedonia),</li>
+<li>impaired or decreased speech (aphasia),</li>
+<li>a lack of desire to form relationships (asociality), and</li>
+<li>a lack of motivation (avolition).</li>
+</ul>
+<h3><span class="mw-headline" id="Prognosis">Prognosis</span></h3>
+The following specifiers for schizophreniform disorder may be used to indicate the presence or absence of features that may be associated with a better prognosis:<p></p>
+<ul>
+<li>With Good Prognostic Features, used if at least two of the following features are present:
+<ul>
+<li>onset of prominent psychotic symptoms within 4 weeks of the first noticeable change in usual behavior or functioning,</li>
+<li>confusion or perplexity at the height of the psychotic episode,</li>
+<li>good premorbid social and occupational functioning, and</li>
+<li>absence of blunted or flat affect.</li>
+</ul>
+</li>
+<li>Without Good Prognostic Features, used if two or more of the above features have not been present.</li>
+</ul>
+The presence of negative symptoms and poor eye contact both appear to be prognostic of a poor outcome. Many of the anatomic and functional changes seen in the brains of patients with schizophrenia also occur in patients with schizophreniform disorder. However, at present there is no consensus among scientists regarding whether or not ventricular enlargement, which is a poor prognostic factor in schizophrenia, has any prognostic value in patients with schizophreniform disorder. According to the American Psychiatric Association, approximately two-thirds of patients diagnosed with schizophreniform disorder are subsequently diagnosed with schizophrenia.<p></p>
+<h2><span class="mw-headline" id="Etiology">Etiology</span></h2>
+The exact etiology of the disorder remains unknown, and relatively few studies have focused exclusively on the etiology of schizophreniform disorder. Like other psychotic disorders, a diathesis–stress model has been proposed, suggesting that some individuals have an underlying multifactorial genetic vulnerability to the disorder that can be triggered by certain environmental factors. Schizophreniform disorder is more likely to occur in people with family members who have schizophrenia or bipolar disorder.<p></p>
+<h2><span class="mw-headline" id="Prevalence">Prevalence</span></h2>
+Schizophreniform disorder is equally prevalent among men and women. The most common ages of onset are 18–24 for men and 18–35 for women. While the symptoms of schizophrenia often develop gradually over a period of years, the diagnostic criteria for schizophreniform disorder require a much more rapid onset.<p></p>
+Available evidence suggests variations in incidence across sociocultural settings. In the United States and other developed countries, the incidence is low, possibly fivefold less than that of schizophrenia. In developing countries, the incidence is substantially higher, especially for the subtype "With Good Prognostic Features". In some of these settings schizophreniform disorder may be as common as schizophrenia.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+Various modalities of treatment, including pharmacotherapy, psychotherapy, and various other psychosocial and educational interventions, are used in the treatment of schizophreniform disorder. Pharmacotherapy is the most commonly used treatment modality as psychiatric medications can act quickly to both reduce the severity of symptoms and shorten their duration. The medications used are largely the same as those used to treat schizophrenia, with an atypical antipsychotic as the usual drug of choice. Patients who do not respond to the initial atypical antipsychotic may benefit from being switched to another atypical antipsychotic, the addition of a mood stabilizer such as lithium or an anticonvulsant, or being switched to a typical antipsychotic.<p></p>
+Treatment of schizophreniform disorder can occur in inpatient, outpatient, and partial hospitalization settings. In selecting the treatment setting, the primary aims are to minimize the psychosocial consequences for the patient and maintain the safety of the patient and others. While the need to quickly stabilize the patient's symptoms almost always exists, consideration of the patient's severity of symptoms, family support, and perceived likelihood of compliance with outpatient treatment can help determine if stabilization can occur in the outpatient setting. Patients who receive inpatient treatment may benefit from a structured intermediate environment, such as a sub-acute unit, step-down unit, partial hospital, or day hospital, during the initial phases of returning to the community.<p></p>
+As improvement progresses during treatment, help with coping skills, problem-solving techniques, psychoeducational approaches, and eventually occupational therapy and vocational assessments are often very helpful for patients and their families. Virtually all types of individual psychotherapy are used in the treatment of schizophreniform disorder, except for insight-oriented therapies as patients often have limited insight as a symptom of their illness.<p></p>
+Since schizophreniform disorder has such rapid onset of severe symptoms, patients are sometimes in denial about their illness, which also would limit the efficacy of insight-oriented therapies. Supportive forms of psychotherapy such as interpersonal psychotherapy, supportive psychotherapy, and cognitive behavior therapy are particularly well suited for the treatment of the disorder. Group psychotherapy is usually not indicated for patients with schizophreniform disorder because they may be distressed by the symptoms of patients with more advanced psychotic disorders.<p></p><p></p>  

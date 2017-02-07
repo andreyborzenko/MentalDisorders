@@ -1,0 +1,58 @@
+
+<b>Cotard delusion</b> is a rare mental illness in which the affected person holds the delusional belief that they are already dead, do not exist, are putrefying, or have lost their blood or internal organs. Statistical analysis of a hundred-patient cohort indicates that the denial of self-existence is a symptom present in 69% of the cases of Cotard's syndrome; yet, paradoxically, 55% of the patients present delusions of immortality.<p></p>
+In 1880, the neurologist Jules Cotard described the condition as <i>Le délire des négations</i> ("The Delirium of Negation"), a psychiatric syndrome of varied severity. A mild case is characterized by despair and self-loathing, while a severe case is characterized by intense delusions of negation and chronic psychiatric depression. The case of Mademoiselle X describes a woman who denied the existence of parts of her body and of her need to eat. She said that she was condemned to eternal damnation and therefore could not die a natural death. In the course of suffering "The Delirium of Negation", Mademoiselle X died of starvation.<p></p>
+The Cotard delusion is mentioned in neither the <i>Diagnostic and Statistical Manual of Mental Disorders</i> (DSM) nor the tenth edition of the <i>International Statistical Classification of Diseases and Related Health Problems</i> (ICD-10) of the World Health Organization.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Distorted reality</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">2</span> <span class="toctext">Pathophysiology</span></li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">3</span> <span class="toctext">Diagnostic criteria</span></li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">5</span> <span class="toctext">Case studies</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">6</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-8"><span class="tocnumber">7</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span></h2>
+The delusion of negation is the central symptom in Cotard's syndrome. The patient afflicted with this mental illness usually denies their existence, the existence of a certain body part, or the existence of a portion of their body. Cotard's syndrome exists in three stages: (i) Germination stage—the symptoms of psychotic depression and of hypochondria appear; (ii) Blooming stage—the full development of the syndrome and the delusions of negation; and (iii) Chronic stage—continued, severe delusions along with chronic psychiatric depression.<p></p>
+The Cotard syndrome withdraws the afflicted person from other people due to the neglect of their personal hygiene and physical health. The delusion of negation of self prevents the patient from making sense of external reality, which then produces a distorted view of the external world. Such a delusion of negation is usually found in the psychotic patient who also presents with schizophrenia. Although a diagnosis of Cotard's syndrome does not require the patient's having had hallucinations, the strong delusions of negation are comparable to those found in schizophrenic patients.<p></p>
+<h3><span class="mw-headline" id="Distorted_reality">Distorted reality</span></h3>
+The article <i>Betwixt Life and Death: Case Studies of the Cotard Delusion</i> (1996) describes a contemporary case of Cotard delusion, which occurred in a Scotsman whose brain was damaged in a motorcycle accident:<p></p>
+<blockquote class="templatequote">
+</blockquote>[The patient's] symptoms occurred in the context of more general feelings of unreality and [of] being dead. In January 1990, after his discharge from hospital in Edinburgh, his mother took him to South Africa. He was convinced that he had been taken to Hell (which was confirmed by the heat), and that he had died of septicaemia (which had been a risk early in his recovery), or perhaps from AIDS (he had read a story in <i>The Scotsman</i> about someone with AIDS who died from septicaemia), or from an overdose of a yellow fever injection. He thought he had "borrowed [his] mother's spirit to show [him] around hell", and that she was asleep in Scotland.<p></p>
+
+The article <i>Recurrent Postictal Depression with Cotard Delusion</i> (2005) describes the case of a fourteen-year-old epileptic boy whose distorted perception of reality resulted from Cotard syndrome. His mental health history was of a boy expressing themes of death, chronic sadness, decreased physical activity in playtime, social withdrawal, and disturbed biological functions. About twice a year, the boy suffered episodes that lasted between three weeks and three months. In the course of each episode, he said that everyone and everything was dead, (including trees), described himself as a dead body, and warned that the world would be destroyed within hours. Throughout the episode, the boy showed no response to pleasurable stimuli and had no interest in social activities.<p></p>
+<h2><span class="mw-headline" id="Pathophysiology">Pathophysiology</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width: 222px;"><img width="220" height="128" class="thumbimage" alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gray727_fusiform_gyrus.png/220px-Gray727_fusiform_gyrus.png" data-file-height="598" data-file-width="1025" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gray727_fusiform_gyrus.png/330px-Gray727_fusiform_gyrus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gray727_fusiform_gyrus.png/440px-Gray727_fusiform_gyrus.png 2x">
+<div class="thumbcaption">
+<div class="magnify"></div>
+Neural misfiring in the fusiform face area, in the fusiform gyrus (orange), might be a cause of the Cotard delusion.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width: 222px;"><img width="220" height="188" class="thumbimage" alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BrainLobesLabelled.jpg/220px-BrainLobesLabelled.jpg" data-file-height="512" data-file-width="600" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BrainLobesLabelled.jpg/330px-BrainLobesLabelled.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BrainLobesLabelled.jpg/440px-BrainLobesLabelled.jpg 2x">
+<div class="thumbcaption">
+<div class="magnify"></div>
+In the cerebrum, organic lesions in the parietal lobe might cause the Cotard delusion.</div>
+</div>
+</div>
+The underlying neurophysiology and psychopathology of Cotard syndrome might be related to problems of delusional misidentification. Neurologically, the Cotard delusion (negation of the Self) is thought to be related to the Capgras delusion (people replaced by impostors); each type of delusion is thought to result from neural misfiring in the fusiform face area of the brain (which recognizes faces) and in the amygdalae (which associate emotions to a recognized face).<p></p>
+The neural disconnection creates in the patient a sense that the face they are observing is not the face of the person to whom it belongs; therefore, that face lacks the familiarity (recognition) normally associated with it. This results in derealization, or a disconnection from the environment. If the observed face is that of a person known to the patient, they experience that face as the face of an impostor (the Capgras delusion). If the patient sees their own face, they might perceive no association between the face and their own sense of Self—which results in the patient believing that they do not exist (the Cotard delusion).<p></p>
+Cotard's syndrome is usually encountered in people afflicted with a psychosis (e.g., schizophrenia), neurological illness, mental illness, clinical depression, derealization, and with migraine headache. The medical literature indicate that the occurrence of Cotard's delusion is associated with lesions in the parietal lobe. As such, the Cotard-delusion patient presents a greater incidence of brain atrophy—especially of the median frontal lobe—than do the people in the control groups.<p></p>
+The Cotard delusion also has resulted from a patient's adverse physiological response to a drug (e.g., aciclovir) and to its prodrug precursor (e.g., valaciclovir). The occurrence of Cotard delusion symptoms was associated with a high serum-concentration of 9-Carboxymethoxymethylguanine (CMMG), the principal metabolite of the drug aciclovir. As such, the patient with weak kidneys (impaired renal function) continued risking the occurrence of delusional symptoms, despite the reduction of the dose of aciclovir. Hemodialysis resolved the patient's delusions (of negating the Self) within hours of treatment, which suggests that the occurrence of Cotard-delusion symptoms might not always be cause for psychiatric hospitalization of the patient.<p></p>
+<h2><span class="mw-headline" id="Diagnostic_criteria">Diagnostic criteria</span></h2>
+According to the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5th Edition), Cotard delusion falls under the category of somatic delusions, those that involve bodily functions or sensations. (Citation needed. DSM-5 does not specifically reference Cotard syndrome.)<p></p>
+There are no further diagnostic criteria for Cotard syndrome within the DSM-5, and identification of the syndrome relies heavily on clinical interpretation.<p></p>
+Cotard delusion should not be confused with Delusional Disorders as defined by the DSM-5, which involve a different spectrum of symptoms that are less severe and have lesser detrimental effect on functioning.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+The article <i>Cotard's syndrome: A Review</i> (2010) reports successful pharmacological treatments (mono-therapeutic and multi-therapeutic) using antidepressant, antipsychotic, and mood stabilizing drugs; likewise, with the depressed patient, electroconvulsive therapy (ECT) is more effective than pharmacotherapy. Cotard syndrome resulting from an adverse drug reaction to valacyclovir is attributed to elevated serum concentration of one of valacyclovir's metabolites, 9-carboxymethoxymethylguanine (CMMG). Successful treatment warrants cessation of the drug, valacyclovir. Hemodialysis was associated with timely clearance of CMMG and resolution of symptoms.<p></p><p></p>  

@@ -1,0 +1,200 @@
+
+<b>Mood disorder</b> is a group of diagnoses in the <i>Diagnostic and Statistical Manual of Mental Disorders</i> (DSM) classification system where a disturbance in the person's mood is hypothesized to be the main underlying feature. The classification is known as <b>mood (affective) disorders</b> in International Classification of Diseases (ICD).<p></p>
+English psychiatrist Henry Maudsley proposed an overarching category of <i>affective disorder</i>. The term was then replaced by <i>mood disorder</i>, as the latter term refers to the underlying or longitudinal emotional state, whereas the former refers to the external expression observed by others.<p></p>
+Mood disorders fall into the basic groups of elevated mood, such as mania or hypomania; depressed mood, of which the best-known and most researched is major depressive disorder (MDD) (commonly called clinical depression, unipolar depression, or major depression); and moods which cycle between mania and depression, known as bipolar disorder (BD) (formerly known as manic depression). There are several sub-types of depressive disorders or psychiatric syndromes featuring less severe symptoms such as dysthymic disorder (similar to but milder than MDD) and cyclothymic disorder (similar to but milder than BD). Mood disorders may also be substance-induced or occur in response to a medical condition.<p></p>
+<div class="toclimit-3">
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Classification</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Depressive disorders</span></li>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">1.2</span> <span class="toctext">Bipolar disorders</span></li>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">1.3</span> <span class="toctext">Substance-induced</span>
+<ul>
+<li class="toclevel-3 tocsection-5"><span class="tocnumber">1.3.1</span> <span class="toctext">Alcohol-induced</span></li>
+<li class="toclevel-3 tocsection-6"><span class="tocnumber">1.3.2</span> <span class="toctext">Benzodiazepine-induced</span></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">1.4</span> <span class="toctext">Due to another medical condition</span></li>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">1.5</span> <span class="toctext">Not otherwise specified</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><span class="tocnumber">2</span> <span class="toctext">Cause</span></li>
+<li class="toclevel-1 tocsection-10"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-11"><span class="tocnumber">3.1</span> <span class="toctext">DSM-5</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">5</span> <span class="toctext">Epidemiology</span></li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">6</span> <span class="toctext">Research</span></li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">7</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Classification">Classification</span></h2>
+<h3><span class="mw-headline" id="Depressive_disorders">Depressive disorders</span></h3>
+<ul>
+<li>Major depressive disorder (MDD), commonly called major depression, unipolar depression, or clinical depression, wherein a person has one or more major depressive episodes. After a single episode, Major Depressive Disorder (single episode) would be diagnosed. After more than one episode, the diagnosis becomes Major Depressive Disorder (Recurrent). Depression without periods of mania is sometimes referred to as <i>unipolar depression</i> because the mood remains at the bottom "pole" and does not climb to the higher, manic "pole" as in bipolar disorder.</li>
+</ul>
+<dl>
+<dd>Individuals with a major depressive episode or major depressive disorder are at increased risk for suicide. Seeking help and treatment from a health professional dramatically reduces the individual's risk for suicide. Studies have demonstrated that asking if a depressed friend or family member has thought of committing suicide is an effective way of identifying those at risk, and it does not "plant" the idea or increase an individual's risk for suicide in any way. Epidemiological studies carried out in Europe suggest that, at this moment, roughly 8.5 percent of the world's population are suffering from a depressive disorder. No age group seems to be exempt from depression, and studies have found that depression appears in infants as young as 6 months old who have been separated from their mothers.</dd>
+</dl>
+<ul>
+<li>Depressive disorder is frequent in primary care and general hospital practice but is often undetected. Unrecognized depressive disorder may slow recovery and worsen prognosis in physical illness, therefore it is important that all doctors be able to recognize the condition, treat the less severe cases, and identify those requiring specialist care.</li>
+</ul>
+<dl>
+<dd>Diagnosticians recognize several subtypes or course specifiers:</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Atypical depression</i> (<i>AD</i>) is characterized by mood reactivity (paradoxical anhedonia) and positivity, significant weight gain or increased appetite ("comfort eating"), excessive sleep or somnolence (hypersomnia), a sensation of heaviness in limbs known as leaden paralysis, and significant social impairment as a consequence of hypersensitivity to perceived interpersonal rejection. Difficulties in measuring this subtype have led to questions of its validity and prevalence.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Melancholic depression</i> is characterized by a loss of pleasure (anhedonia) in most or all activities, a failure of reactivity to pleasurable stimuli, a quality of depressed mood more pronounced than that of grief or loss, a worsening of symptoms in the morning hours, early-morning waking, psychomotor retardation, excessive weight loss (not to be confused with anorexia nervosa), or excessive guilt.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Psychotic major depression</i> (<i>PMD</i>), or simply psychotic depression, is the term for a major depressive episode, in particular of melancholic nature, wherein the patient experiences psychotic symptoms such as delusions or, less commonly, hallucinations. These are most commonly mood-congruent (content coincident with depressive themes).</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Catatonic depression</i> is a rare and severe form of major depression involving disturbances of motor behavior and other symptoms. Here, the person is mute and almost stuporose, and either is immobile or exhibits purposeless or even bizarre movements. Catatonic symptoms can also occur in schizophrenia or a manic episode, or can be due to neuroleptic malignant syndrome.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Postpartum depression</i> (<i>PPD</i>) is listed as a course specifier in DSM-IV-TR; it refers to the intense, sustained and sometimes disabling depression experienced by women after giving birth. Postpartum depression, which affects 10–15% of women, typically sets in within three months of labor, and lasts as long as three months. It is quite common for women to experience a short-term feeling of tiredness and sadness in the first few weeks after giving birth; however, postpartum depression is different because it can cause significant hardship and impaired functioning at home, work, or school as well as, possibly, difficulty in relationships with family members, spouses, or friends, or even problems bonding with the newborn. In the treatment of postpartum major depressive disorders and other unipolar depressions in women who are breastfeeding, nortriptyline, paroxetine (Paxil), and sertraline (Zoloft) are in general considered to be the preferred medications. Women with personal or family histories of mood disorders are at particularly high risk of developing postpartum depression.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Seasonal affective disorder</i> (<i>SAD</i>), also known as "winter depression" or "winter blues", is a specifier. Some people have a seasonal pattern, with depressive episodes coming on in the autumn or winter, and resolving in spring. The diagnosis is made if at least two episodes have occurred in colder months with none at other times over a two-year period or longer. It is commonly hypothesised that people who live at higher latitudes tend to have less sunlight exposure in the winter and therefore experience higher rates of SAD, but the epidemiological support for this proposition is not strong (and latitude is not the only determinant of the amount of sunlight reaching the eyes in winter). SAD is also more prevalent in people who are younger and typically affects more females than males.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Dysthymia</i> is a condition related to unipolar depression, where the same physical and cognitive problems are evident, but they are not as severe and tend to last longer (usually at least 2 years). The treatment of dysthymia is largely the same as for major depression, including antidepressant medications and psychotherapy.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Double depression</i> can be defined as a fairly depressed mood (dysthymia) that lasts for at least two years and is punctuated by periods of major depression.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Depressive Disorder Not Otherwise Specified</i> (DD-NOS) is designated by the code <i>311</i> for depressive disorders that are impairing but do not fit any of the officially specified diagnoses. According to the DSM-IV, DD-NOS encompasses <i>"any depressive disorder that does not meet the criteria for a specific disorder."</i> It includes the research diagnoses of <i>recurrent brief depression</i>, and <i>minor depressive disorder</i> listed below.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Depressive personality disorder</i> (DPD) is a controversial psychiatric diagnosis that denotes a personality disorder with depressive features. Originally included in the DSM-II, depressive personality disorder was removed from the DSM-III and DSM-III-R. Recently, it has been reconsidered for reinstatement as a diagnosis. Depressive personality disorder is currently described in Appendix B in the DSM-IV-TR as worthy of further study.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Recurrent brief depression</i> (<i>RBD</i>), distinguished from major depressive disorder primarily by differences in duration. People with RBD have depressive episodes about once per month, with individual episodes lasting less than two weeks and typically less than 2–3 days. Diagnosis of RBD requires that the episodes occur over the span of at least one year and, in female patients, independently of the menstrual cycle. People with clinical depression can develop RBD, and vice versa, and both illnesses have similar risks.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li><i>Minor depressive disorder</i>, or simply minor depression, which refers to a depression that does not meet full criteria for major depression but in which at least two symptoms are present for two weeks.</li>
+</ul>
+</dd>
+</dl>
+<h3><span class="mw-headline" id="Bipolar_disorders">Bipolar disorders</span></h3>
+<ul>
+<li>Bipolar disorder (BD) (also called Manic Depression or Manic-Depressive Disorder), an unstable emotional condition characterized by cycles of abnormal, persistent high mood (mania) and low mood (depression), which was formerly known as "manic depression" (and in some cases rapid cycling, mixed states, and psychotic symptoms). Subtypes include:</li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li><i>Bipolar I</i> is distinguished by the presence or history of one or more manic episodes or mixed episodes with or without major depressive episodes. A depressive episode is not required for the diagnosis of Bipolar I Disorder, but depressive episodes are usually part of the course of the illness.</li>
+<li><i>Bipolar II</i> consisting of recurrent intermittent hypomanic and depressive episodes or mixed episodes.</li>
+<li><i>Cyclothymia</i> is a form of bipolar disorder, consisting of recurrent hypomanic and dysthymic episodes, but no full manic episodes or full major depressive episodes.</li>
+<li><i>Bipolar Disorder Not Otherwise Specified</i> (<i>BD-NOS</i>), sometimes called "sub-threshold" bipolar, indicates that the patient suffers from some symptoms in the bipolar spectrum (e.g., manic and depressive symptoms) but does not fully qualify for any of the three formal bipolar DSM-IV diagnoses mentioned above.</li>
+</ul>
+</dd>
+<dd>It is estimated that roughly 1% of the adult population suffers from bipolar I, a further 1% suffers from bipolar II or cyclothymia, and somewhere between 2% and 5% percent suffer from "sub-threshold" forms of bipolar disorder. Furthermore the possibility of getting bipolar disorder when one parent is diagnosed with it is 15-30%. Risk when both parents have it is 50-75%. Also, while with bipolar siblings the risk is 15-25%, with identical twins it is about 70%.</dd>
+</dl>
+A minority of people with bipolar disorder have high creativity, artistry or a particular gifted talent. Before the mania phase becomes too extreme, its energy, ambition, enthusiasm and grandiosity often bring people with this type of mood disorder life's masterpieces.<p></p>
+<h3><span class="mw-headline" id="Substance-induced">Substance-induced</span></h3>
+A mood disorder can be classified as substance-induced if its etiology can be traced to the direct physiologic effects of a psychoactive drug or other chemical substance, or if the development of the mood disorder occurred contemporaneously with substance intoxication or withdrawal. Also, an individual may have a mood disorder coexisting with a substance abuse disorder. Substance-induced mood disorders can have features of a manic, hypomanic, mixed, or depressive episode. Most substances can induce a variety of mood disorders. For example, stimulants such as amphetamine, methamphetamine, and cocaine can cause manic, hypomanic, mixed, and depressive episodes.<p></p>
+<h4><span class="mw-headline" id="Alcohol-induced">Alcohol-induced</span></h4>
+High rates of major depressive disorder occur in heavy drinkers and those with alcoholism. Controversy has previously surrounded whether those who abused alcohol and developed depression were self-medicating their pre-existing depression. But recent research has concluded that, while this may be true in some cases, alcohol misuse directly causes the development of depression in a significant number of heavy drinkers. Participants studied were also assessed during stressful events in their lives and measured on a <i>Feeling Bad Scale.</i> Likewise, they were also assessed on their affiliation with <i>deviant</i> peers, unemployment, and their partner’s substance use and criminal offending. High rates of suicide also occur in those who have alcohol-related problems. It is usually possible to differentiate between alcohol-related depression and depression that is not related to alcohol intake by taking a careful history of the patient. Depression and other mental health problems associated with alcohol misuse may be due to distortion of brain chemistry, as they tend to improve on their own after a period of abstinence.<p></p>
+<h4><span class="mw-headline" id="Benzodiazepine-induced">Benzodiazepine-induced</span></h4>
+Benzodiazepines, such as alprazolam, clonazepam, lorazepam and diazepam, can cause both depression and mania.<p></p>
+Benzodiazepines are a class of medication commonly used to treat anxiety, panic attacks and insomnia, and are also commonly misused and abused. Those with anxiety, panic and sleep problems commonly have negative emotions and thoughts, depression, suicidal ideations, and often have comorbid depressive disorders. While the anxiolytic and hypnotic effects of benzodiazepines disappear as tolerance develops, depression and impulsivity with high suicidal risk commonly persist. Unfortunately, these symptoms are “often interpreted as an exacerbation or as a natural evolution of previous disorders and the chronic use of sedatives is overlooked.” Benzodiazepines do not prevent the development of depression, can exacerbate preexisting depression, can cause depression in those with no history of it, and can lead to suicide attempts. Risk factors for attempted and completed suicide while using benzodiazepines include high dose prescriptions (even in those not misusing the medications), benzodiazepine intoxication, and underlying depression.<p></p>
+The long-term use of benzodiazepines may have a similar effect on the brain as alcohol, and are also implicated in depression. As with alcohol, the effects of benzodiazepine on neurochemistry, such as decreased levels of serotonin and norepinephrine, are believed to be responsible for the increased depression. Additionally, benzodiazepines can indirectly worsen mood by worsening sleep (i.e., benzodiazepine-induced sleep disorder). Like alcohol, benzodiazepines can put people to sleep but, while asleep, they disrupt sleep architecture: decreasing sleep time, delaying time to REM sleep, and decreasing deep sleep (the most restorative part of sleep for both energy and mood). Just as some antidepressants can cause or worsen anxiety in some patients due to being activating, benzodiazepines can cause or worsen depression due to being a central nervous system depressant—worsening thinking, concentration and problem solving (i.e., benzodiazepine-induced neurocognitive disorder). However, unlike antidepressants, in which the activating effects usually improve with continued treatment, benzodiazepine-induced depression is unlikely to improve until after stopping the medication.<p></p>
+In a long-term follow-up study of patients dependent on benzodiazepines, it was found that 10 people (20%) had taken drug overdoses while on chronic benzodiazepine medication despite only two people ever having had any pre-existing depressive disorder. A year after a gradual withdrawal program, no patients had taken any further overdoses.<p></p>
+Just as with intoxication and chronic use, benzodiazepine withdrawal can also cause depression. While benzodiazepine-induced depressive disorder may be exacerbated immediately after discontinuation of benzodiazepines, evidence suggests that mood significantly improves after the acute withdrawal period to levels better than during use. Depression resulting from withdrawal from benzodiazepines usually subsides after a few months but in some cases may persist for 6–12 months.<p></p>
+<h3><span class="mw-headline" id="Due_to_another_medical_condition">Due to another medical condition</span></h3>
+"Mood disorder due to a general medical condition" is used to describe manic or depressive episodes which occur secondary to a medical condition. There are many medical conditions that can trigger mood episodes, including neurological disorders (e.g. dementias), metabolic disorders (e.g. electrolyte disturbances), gastrointestinal diseases (e.g. cirrhosis), endocrine disease (e.g. thyroid abnormalities), cardiovascular disease (e.g. heart attack), pulmonary disease (e.g. chronic obstructive pulmonary disease), cancer, and autoimmune diseases (e.g. rheumatoid arthritis).<p></p>
+<h3><span class="mw-headline" id="Not_otherwise_specified">Not otherwise specified</span></h3>
+
+Mood disorder not otherwise specified (MD-NOS) is a mood disorder that is impairing but does not fit in with any of the other officially specified diagnoses. In the DSM-IV MD-NOS is described as "any mood disorder that does not meet the criteria for a specific disorder." MD-NOS is not used as a clinical description but as a statistical concept for filing purposes.<p></p>
+Most cases of MD-NOS represent hybrids between mood and anxiety disorders, such as mixed anxiety-depressive disorder or atypical depression. An example of an instance of MD-NOS is being in minor depression frequently during various intervals, such as once every month or once in three days. There is a risk for MD-NOS not to get noticed, and for that reason not to get treated.<p></p>
+<h2><span class="mw-headline" id="Cause">Cause</span></h2>
+Meta-analyses show that high scores on the personality domain neuroticism is a strong predictor for the development of mood disorders. A number of authors have also suggested that mood disorders are an evolutionary adaptation. A low or depressed mood can increase an individual's ability to cope with situations in which the effort to pursue a major goal could result in danger, loss, or wasted effort. In such situations, low motivation may give an advantage by inhibiting certain actions. This theory helps to explain why negative life incidents precede depression in around 80 percent of cases, and why they so often strike people during their peak reproductive years. These characteristics would be difficult to understand if depression were a dysfunction.<p></p>
+A depressed mood is a predictable response to certain types of life occurrences, such as loss of status, divorce, or death of a child or spouse. These are events that signal a loss of reproductive ability or potential, or that did so in humans' ancestral environment. A depressed mood can be seen as an adaptive response, in the sense that it causes an individual to turn away from the earlier (and reproductively unsuccessful) modes of behavior.<p></p>
+A depressed mood is common during illnesses, such as influenza. It has been argued that this is an evolved mechanism that assists the individual in recovering by limiting his/her physical activity. The occurrence of low-level depression during the winter months, or seasonal affective disorder, may have been adaptive in the past, by limiting physical activity at times when food was scarce. It is argued that humans have retained the instinct to experience low mood during the winter months, even if the availability of food is no longer determined by the weather.<p></p>
+Much of what we know about the genetic influence of clinical depression is based upon research that has been done with identical twins. Identical twins both have exactly the same genetic code. It has been found that when one identical twin becomes depressed the other will also develop clinical depression approximately 76% of the time. When identical twins are raised apart from each other, they will both become depressed about 67% of the time. Because both twins become depressed at such a high rate, the implication is that there is a strong genetic influence. If it happened that when one twin becomes clinically depressed the other always develops depression, then clinical depression would likely be entirely genetic.<p></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+<h3><span class="mw-headline" id="DSM-5">DSM-5</span></h3>
+The DSM-5, released in May 2013, separates the mood disorder chapter from the DSM-TR-IV into two sections: Depressive and Related Disorders and Bipolar and Related Disorders. Bipolar Disorders falls in between Depressive Disorders and Schizophrenia Spectrum and Related Disorders “in recognition of their place as a bridge between the two diagnostic classes in terms of symptomatology, family history and genetics” (Ref. 1, p 123). Bipolar Disorders underwent a few changes in the DSM-5, most notably the addition of more specific symptomology related to hypomanic and mixed manic states. Depressive Disorders underwent the most changes, the addition of three new disorders: disruptive mood dysregulation disorder, persistent depressive disorder (previously dysthymia), and premenstrual dysphoric disorder (previously in Appendix B, the section for disorders needing further research). Disruptive mood dysregulation disorder is meant as a diagnosis for children and adolescents who would normally be diagnosed with bipolar disorder as a way to limit the bipolar diagnosis in this age cohort. Major depressive disorder (MDD) also underwent a notable change, in that the bereavement clause has been removed. Those previously exempt from a diagnosis of MDD due to bereavement are now candidates for the MDD diagnosis.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+There are different types of treatments available for mood disorders, such as therapy and medications. Behaviour therapy, cognitive behaviour therapy and interpersonal therapy have all shown to potentially beneficial in depression. Major depressive disorder medications usually include antidepressants, while bipolar disorder medications can consist of antipsychotics, mood stabilizers and/or lithium.<p></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span></h2>
+According to a substantial amount of epidemiology studies conducted, women are twice as likely to develop certain mood disorders, such as major depression. Although there is an equal number of men and women diagnosed with bipolar II disorder, women have a slightly higher frequency of the disorder.<p></p>
+In 2011, mood disorders were the most common reason for hospitalization among children aged 1–17 years in the United States, with approximately 112,000 stays. Mood disorders were top principal diagnosis for Medicaid super-utilizers in the United States in 2012. Further, a study of 18 States found that mood disorders accounted for the highest number of hospital readmissions among Medicaid patients and the uninsured, with 41,600 Medicaid patients and 12,200 uninsured patients being readmitted within 30 days of their index stay—a readmission rate of 19.8 per 100 admissions and 12.7 per 100 admissions, respectively. In 2012, mood and other behavioral health disorders were the most common diagnoses for Medicaid-covered and uninsured hospital stays in the United States (6.1% of Medicaid stays and 5.2% of uninsured stays).<p></p>
+A study conducted in 1988 to 1994 amongst young American adults involved a selection of demographic and health characteristics. A population-based sample of 8,602 men and women ages 17–39 years participated. Lifetime prevalence were estimated based on six mood measures:<p></p>
+<ol>
+<li>major depressive episode (MDE) 8.6%,</li>
+<li>major depressive disorder with severity (MDE-s) 7.7%,</li>
+<li>dysthymia 6.2%,</li>
+<li>MDE-s with dysthymia 3.4%,</li>
+<li>any bipolar disorder 1.6%, and</li>
+<li>any mood disorder 11.5%.</li>
+</ol>
+<h2><span class="mw-headline" id="Research">Research</span></h2>
+Kay Redfield Jamison and others have explored the possible links between mood disorders — especially bipolar disorder — and creativity. It has been proposed that a "ruminating personality type may contribute to both [mood disorders] and art."<p></p>
+Jane Collingwood notes an Oregon State University study that<p></p>
+<dl>
+<dd>“looked at the occupational status of a large group of typical patients and found that ‘those with bipolar illness appear to be disproportionately concentrated in the most creative occupational category.’ They also found that the likelihood of ‘engaging in creative activities on the job’ is significantly higher for bipolar than nonbipolar workers.”</dd>
+</dl>
+In Liz Paterek’s article "Bipolar Disorder and the Creative Mind" she wrote<p></p>
+<dl>
+<dd>“Memory and creativity are related to mania. Clinical studies have shown that those in a manic state will rhyme, find synonyms, and use alliteration more than controls. This mental fluidity could contribute to an increase in creativity. Moreover, mania creates increases in productivity and energy. Those in a manic state are more emotionally sensitive and show less inhibition about attitudes, which could create greater expression. Studies performed at Harvard looked into the amount of original thinking in solving creative tasks. Bipolar individuals, whose disorder was not severe, tended to show greater degrees of creativity.”</dd>
+</dl>
+The relationship between depression and creativity appears to be especially strong among poets.<p></p><p></p>  

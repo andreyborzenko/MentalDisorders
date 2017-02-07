@@ -1,0 +1,151 @@
+ 
+
+
+<b>Avoidant personality disorder</b> (<b>AvPD</b>) is a Cluster C personality disorder. Those affected display a pattern of social inhibition, feelings of inadequacy and inferiority, extreme sensitivity to negative evaluation, and avoidance of social interaction despite a strong desire to be close to others. Individuals with the disorder tend to describe themselves as uneasy, anxious, lonely, unwanted and isolated from others. The behavior typically begins by early adulthood, and occurs across a variety of situations.<p></p>
+People with avoidant personality disorder often consider themselves to be socially inept or personally unappealing and avoid social interaction for fear of being ridiculed, humiliated, rejected, or disliked. As the name suggests, the main coping mechanism of those with avoidant personality disorder is avoidance of feared stimuli. Avoidant personality disorder is usually first noticed in early adulthood, with both childhood emotional neglect (in particular, the rejection of a child by one or both parents) and peer group rejection being associated with an increased risk for its development. While some scientists claim the exact causes for the disorder are unknown, others found that "parents of avoidant children seemed to have difficulty with their own negative emotions."<p></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Causes</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">Subtypes</span>
+<ul>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">3.1</span> <span class="toctext">Millon's subtypes</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">3.2</span> <span class="toctext">Other</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">4</span> <span class="toctext">Diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">4.1</span> <span class="toctext">WHO</span></li>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">4.2</span> <span class="toctext">APA</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><span class="tocnumber">5</span> <span class="toctext">Differential diagnosis</span></li>
+<li class="toclevel-1 tocsection-10"><span class="tocnumber">6</span> <span class="toctext">Comorbidity</span></li>
+<li class="toclevel-1 tocsection-11"><span class="tocnumber">7</span> <span class="toctext">Treatment</span></li>
+<li class="toclevel-1 tocsection-12"><span class="tocnumber">8</span> <span class="toctext">Prognosis</span></li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">9</span> <span class="toctext">Controversy</span></li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">10</span> <span class="toctext">Epidemiology</span></li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">11</span> <span class="toctext">History</span></li>
+<li class="toclevel-1 tocsection-16"><span class="tocnumber">12</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-17"><span class="tocnumber">13</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span></h2>
+Those with this disorder may often choose jobs of isolation so that they do not have to interact with the public regularly, due to their anxiety and fear of embarrassing themselves in front of others. Some with this disorder may fantasize about idealized, accepting, and affectionate relationships, due to their desire to belong. They often feel themselves unworthy of the relationships they desire, so they shame themselves from ever attempting the relationship.<p></p>
+People with avoidant personality disorder are preoccupied with their own shortcomings and form relationships with others only if they believe they will not be rejected. Loss and social rejection are so painful that these individuals will choose to be alone rather than risk trying to connect with others (see rejection sensitivity). They often view themselves with contempt, while showing an increased inability to identify traits within themselves that are generally considered as positive within their societies.<p></p>
+<ul>
+<li>Hypersensitivity to rejection and criticism</li>
+<li>Self-imposed social isolation</li>
+<li>Extreme shyness or anxiety in social situations, though the person feels a strong desire for close relationships</li>
+<li>Avoids physical contact because it has been associated with an unpleasant or painful stimulus</li>
+<li>Feelings of inadequacy</li>
+<li>Drastically-reduced or absent self-esteem</li>
+<li>Self-loathing, autophobia or self-harm</li>
+<li>Mistrust of others or oneself; exhibits heightened self-doubt</li>
+<li>Emotional distancing related to intimacy</li>
+<li>Highly self-conscious</li>
+<li>Self-critical about their problems relating to others</li>
+<li>Problems in occupational functioning</li>
+<li>Lonely self-perception, although others may find the relationship with them meaningful</li>
+<li>Feeling inferior to others</li>
+<li>In some extreme cases, agoraphobia</li>
+<li>Uses fantasy as a form of escapism to interrupt painful thoughts</li>
+</ul>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+Causes of avoidant personality disorder are not clearly defined and may be influenced by a combination of social, genetic, and psychological factors. The disorder may be related to temperamental factors that are inherited. Specifically, various anxiety disorders in childhood and adolescence have been associated with a temperament characterized by behavioral inhibition, including features of being shy, fearful, and withdrawn in new situations. These inherited characteristics may give an individual a genetic predisposition towards avoidant personality disorder. Childhood emotional neglect and peer group rejection are both associated with an increased risk for the development of avoidant personality disorder.<p></p>
+<h2><span class="mw-headline" id="Subtypes">Subtypes</span></h2>
+<h3><span class="mw-headline" id="Millon.27s_subtypes">Millon's subtypes</span></h3>
+Psychologist Theodore Millon notes that because most patients present a mixed picture of symptoms, their personality disorder tends to be a blend of a major personality disorder type with one or more secondary personality disorder types. He identified four adult subtypes of avoidant personality disorder.<p></p>
+<table class="wikitable">
+<tbody><tr>
+<th>Subtype</th>
+<th>Features</th>
+</tr>
+<tr>
+<td><b>Phobic</b> (including dependent features)</td>
+<td>General apprehensiveness displaced with avoidable tangible precipitant; qualms and disquietude symbolized by repugnant and specific dreadful object or circumstances.</td>
+</tr>
+<tr>
+<td><b>Conflicted</b> (including negativistic features)</td>
+<td>Internal discord and dissension; fears dependence; unsettled; unreconciled within self; hesitating, confused, tormented, paroxysmic, embittered; unresolvable angst.</td>
+</tr>
+<tr>
+<td><b>Hypersensitive</b> (including paranoid features)</td>
+<td>Intensely wary and suspicious; alternately panicky, terrified, edgy, and timorous, then thin-skinned, high-strung, petulant, and prickly.</td>
+</tr>
+<tr>
+<td><b>Self-deserting</b> (including depressive features)</td>
+<td>Blocks or fragments self awareness; discards painful images and memories; casts away untenable thoughts and impulses; ultimately jettisons self (suicidal).</td>
+</tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Other">Other</span></h3>
+In 1993, Alden and Capreol found two other subtypes of avoidant personality disorder:<p></p>
+<ul>
+<li><i>"cold-avoidant":</i> Characterised by an inability to experience and express positive emotion towards others.</li>
+<li><i>"exploitable-avoidant":</i> Characterised by an inability to express anger towards others or to resist coercion from others. May be at risk for abuse by others.</li>
+</ul>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+<h3><span class="mw-headline" id="WHO">WHO</span></h3>
+The World Health Organization's ICD-10 lists avoidant personality disorder as <i>anxious (avoidant) personality disorder (F60.6)</i>. It is characterized by at least four of the following:<p></p>
+<ol>
+<li>persistent and pervasive feelings of tension and apprehension;</li>
+<li>belief that one is socially inept, personally unappealing, or inferior to others;</li>
+<li>excessive preoccupation with being criticized or rejected in social situations;</li>
+<li>unwillingness to become involved with people unless certain of being liked;</li>
+<li>restrictions in lifestyle because of need to have physical security;</li>
+<li>avoidance of social or occupational activities that involve significant interpersonal contact because of fear of criticism, disapproval, or rejection.</li>
+</ol>
+<dl>
+<dd>Associated features may include hypersensitivity to rejection and criticism.</dd>
+</dl>
+It is a requirement of ICD-10 that a diagnosis of any specific personality disorder also satisfy a set of general personality disorder criteria.<p></p>
+<h3><span class="mw-headline" id="APA">APA</span></h3>
+The DSM-5 of the APA also has an Avoidant Personality Disorder diagnosis. It refers to a widespread pattern of inhibition around people, feeling inadequate and being very sensitive to negative evaluation. Symptoms begin by early adulthood and occur in a range of situations. Four of seven specific symptoms should be present, which are the following:<p></p>
+<ol>
+<li>Avoids occupational activities that involve significant interpersonal contact, because of fears of criticism, disapproval, or rejection</li>
+<li>Is unwilling to get involved with people unless certain of being liked</li>
+<li>Shows restraint within intimate relationships because of the fear of being shamed or ridiculed</li>
+<li>Is preoccupied with being criticized or rejected in social situations</li>
+<li>Is inhibited in new interpersonal situations because of feelings of inadequacy</li>
+<li>Views self as socially inept, personally unappealing, or inferior to others</li>
+<li>Is unusually reluctant to take personal risk or to engage in any new activities because they may prove embarrassing</li>
+</ol>
+<h2><span class="mw-headline" id="Differential_diagnosis">Differential diagnosis</span></h2>
+In contrast to social anxiety disorder, a diagnosis of avoidant personality disorder also requires that the general criteria for a personality disorder are met.<p></p>
+According to the Diagnostic and Statistical Manual of Mental Disorders, avoidant personality disorder must be differentiated from dependent, paranoid, schizoid, and schizotypal personality disorders. There is, however, an overlap between avoidant and schizoid personality traits (see Schizoid avoidant behavior) and AVPD may have a relationship to the Schizophrenia spectrum.<p></p>
+<h2><span class="mw-headline" id="Comorbidity">Comorbidity</span></h2>
+Avoidant personality disorder is reported to be especially prevalent in people with anxiety disorders, although estimates of comorbidity vary widely due to differences in (among others) diagnostic instruments. Research suggests that approximately 10–50% of people who have panic disorder with agoraphobia have avoidant personality disorder, as well as about 20–40% of people who have social anxiety disorder. In addition to this, avoidant personality disorder is more prevalent in persons who have comorbid social anxiety disorder and generalised anxiety disorder than in those who have only one of the aforementioned conditions.<p></p>
+Some studies report prevalence rates of up to 45% among people with generalized anxiety disorder and up to 56% of those with obsessive-compulsive disorder.<p></p>
+Earlier theorists proposed a personality disorder with a combination of features from borderline personality disorder and avoidant personality disorder, called "avoidant-borderline mixed personality" (AvPD/BPD).<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+Treatment of avoidant personality disorder can employ various techniques, such as social skills training, cognitive therapy, and exposure treatment to gradually increase social contacts, group therapy for practicing social skills, and sometimes drug therapy. A key issue in treatment is gaining and keeping the patient's trust, since people with avoidant personality disorder will often start to avoid treatment sessions if they distrust the therapist or fear rejection. The primary purpose of both individual therapy and social skills group training is for individuals with avoidant personality disorder to begin challenging their exaggerated negative beliefs about themselves.<p></p>
+Significant improvement in the symptoms of personality disorders is possible, with the help of treatment and individual effort.<p></p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span></h2>
+Being a personality disorder, which are usually chronic and long-lasting mental conditions, avoidant personality disorder is not expected to improve with time without treatment. It is a poorly studied personality disorder and in light of prevalence rates, societal costs, and the current state of research, AVPD qualifies as a neglected disorder.<p></p>
+<h2><span class="mw-headline" id="Controversy">Controversy</span></h2>
+There is controversy as to whether avoidant personality disorder is a distinct disorder from generalized social anxiety disorder, and it is contended by some that they are merely different conceptualisations of the same disorder, where avoidant personality disorder may represent the more severe form. In particular, in addition to having more severe social phobia symptoms, patients with avoidant personality disorder are more depressed and have more functional impairment than patients with only generalized social phobia but show no differences in social skills or performance on an impromptu speech. Another difference is that social phobia is the <i>fear of social circumstances</i> whereas AvPD is better described as an <i>aversion to intimacy</i> in relationships.<p></p>
+Generalized social anxiety disorder and avoidant personality disorder have similar diagnostic criteria and may share a similar causation, subjective experience, course and treatment and identical underlying personality features, such as shyness.<p></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span></h2>
+Data from the 2001–02 National Epidemiologic Survey on Alcohol and Related Conditions indicates a prevalence rate of 2.36% in the American general population. It appears to occur with equal frequency in males and females. In one study, it was seen in 14.7% of psychiatric outpatients.<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+The avoidant personality has been described in several sources as far back as the early 1900s, although it was not so named for some time. Swiss psychiatrist Eugen Bleuler described patients who exhibited signs of avoidant personality disorder in his 1911 work <i>Dementia Praecox: Or the Group of Schizophrenias</i>. Avoidant and schizoid patterns were frequently confused or referred to synonymously until Kretschmer (1921), in providing the first relatively complete description, developed a distinction.<p></p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/28px-Psi2.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/42px-Psi2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/56px-Psi2.svg.png 2x" data-file-width="100" data-file-height="100"></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle">Psychology portal</span></li>
+</ul>
+</div>
+<ul>
+<li>Attachment theory</li>
+<li>Counterphobic attitude</li>
+<li>Highly sensitive person</li>
+<li>Inferiority complex</li>
+<li>Experiential avoidance</li>
+<li>Avoidance coping</li>
+</ul>
+<b>Social:</b><p></p><p></p> 

@@ -1,0 +1,254 @@
+ 
+
+<b>Insomnia</b>, also known as <b>sleeplessness</b>, is a sleep disorder where people have trouble sleeping. They may have difficulty falling asleep, or staying asleep as long as desired. Insomnia is typically followed by daytime sleepiness, low energy, irritability, and a depressed mood. It may result in an increased risk of motor vehicle collisions, as well as problems focusing and learning. Insomnia can be short term, lasting for days or weeks, or long term, lasting more than a month.<p></p>
+Insomnia can occur independently or as a result of another problem. Conditions that can result in insomnia include psychological stress, chronic pain, heart failure, hyperthyroidism, heartburn, restless leg syndrome, menopause, certain medications, and drugs such as caffeine, nicotine, and alcohol. Other risk factors include working night shifts and sleep apnea. Diagnosis is based on sleep habits and an examination to look for underlying causes. A sleep study may be done to look for underlying sleep disorders. Screening may be done with two questions: "do you experience difficulty sleeping?" and "do you have difficulty falling or staying asleep?"<p></p>
+Sleep hygiene and lifestyle changes are typically the first treatment for insomnia. Sleep hygiene includes a consistent bedtime, exposure to sunlight, a quiet and dark room, and regular exercise. Cognitive behavioral therapy may be added to this. While sleeping pills may help, they are associated with injuries, dementia, and addiction. Medications are not recommended for more than four or five weeks. The effectiveness and safety of alternative medicine is unclear.<p></p>
+Between 10% and 30% of adults have insomnia at any given point in time and up to half of people have insomnia in a given year. About 6% of people have insomnia that is not due to another problem and lasts for more than a month. People over the age of 65 are affected more often than younger people. Females are more often affected than males. Descriptions of insomnia occur at least as far back as ancient Greece.<p></p>
+<div class="toclimit-3">
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Classification</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">DSM-5 criteria</span></li>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">1.2</span> <span class="toctext">Types</span></li>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">1.3</span> <span class="toctext">Patterns</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">1.4</span> <span class="toctext">Poor sleep quality</span></li>
+<li class="toclevel-2 tocsection-6"><span class="tocnumber">1.5</span> <span class="toctext">Subjectivity</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">2</span> <span class="toctext">Causes</span>
+<ul>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">2.1</span> <span class="toctext">Substance-induced</span>
+<ul>
+<li class="toclevel-3 tocsection-9"><span class="tocnumber">2.1.1</span> <span class="toctext">Alcohol-induced</span></li>
+<li class="toclevel-3 tocsection-10"><span class="tocnumber">2.1.2</span> <span class="toctext">Benzodiazepine-induced</span></li>
+<li class="toclevel-3 tocsection-11"><span class="tocnumber">2.1.3</span> <span class="toctext">Opioid-induced</span></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><span class="tocnumber">2.2</span> <span class="toctext">Risk factors</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">3</span> <span class="toctext">Mechanism</span></li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">4</span> <span class="toctext">Diagnosis</span></li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">5</span> <span class="toctext">Prevention</span></li>
+<li class="toclevel-1 tocsection-16"><span class="tocnumber">6</span> <span class="toctext">Treatment</span>
+<ul>
+<li class="toclevel-2 tocsection-17"><span class="tocnumber">6.1</span> <span class="toctext">Non-pharmacological</span>
+<ul>
+<li class="toclevel-3 tocsection-18"><span class="tocnumber">6.1.1</span> <span class="toctext">Sleep hygiene</span></li>
+<li class="toclevel-3 tocsection-19"><span class="tocnumber">6.1.2</span> <span class="toctext">Cognitive behavioral therapy</span></li>
+<li class="toclevel-3 tocsection-20"><span class="tocnumber">6.1.3</span> <span class="toctext">Internet interventions</span></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><span class="tocnumber">6.2</span> <span class="toctext">Medications</span>
+<ul>
+<li class="toclevel-3 tocsection-22"><span class="tocnumber">6.2.1</span> <span class="toctext">Antihistamines</span></li>
+<li class="toclevel-3 tocsection-23"><span class="tocnumber">6.2.2</span> <span class="toctext">Melatonin</span></li>
+<li class="toclevel-3 tocsection-24"><span class="tocnumber">6.2.3</span> <span class="toctext">Antidepressants</span></li>
+<li class="toclevel-3 tocsection-25"><span class="tocnumber">6.2.4</span> <span class="toctext">Benzodiazepines</span></li>
+<li class="toclevel-3 tocsection-26"><span class="tocnumber">6.2.5</span> <span class="toctext">Benzodiazepine-like medications</span></li>
+<li class="toclevel-3 tocsection-27"><span class="tocnumber">6.2.6</span> <span class="toctext">Antipsychotics</span></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><span class="tocnumber">6.3</span> <span class="toctext">Alternative medicine</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><span class="tocnumber">7</span> <span class="toctext">Prognosis</span></li>
+<li class="toclevel-1 tocsection-30"><span class="tocnumber">8</span> <span class="toctext">Epidemiology</span></li>
+<li class="toclevel-1 tocsection-31"><span class="tocnumber">9</span> <span class="toctext">Society and culture</span></li>
+<li class="toclevel-1 tocsection-32"><span class="tocnumber">10</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-33"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Classification">Classification</span></h2>
+<h3><span class="mw-headline" id="DSM-5_criteria">DSM-5 criteria</span></h3>
+The DSM-5 criteria for insomnia include the following:<p></p>
+Predominant complaint of dissatisfaction with sleep quantity or quality, associated with one (or more) of the following symptoms:<p></p>
+<ul>
+<li>Difficulty initiating sleep. (In children, this may manifest as difficulty initiating sleep without caregiver intervention.)</li>
+<li>Difficulty maintaining sleep, characterized by frequent awakenings or problems returning to sleep after awakenings. (In children, this may manifest as difficulty returning to sleep without caregiver intervention.)</li>
+<li>Early-morning awakening with inability to return to sleep.</li>
+</ul>
+In addition,<p></p>
+<ul>
+<li>The sleep disturbance causes clinically significant distress or impairment in social, occupational, educational, academic, behavioral, or other important areas of functioning.</li>
+<li>The sleep difficulty occurs at least 3 nights per week.</li>
+<li>The sleep difficulty is present for at least 3 months.</li>
+<li>The sleep difficulty occurs despite adequate opportunity for sleep.</li>
+<li>The insomnia is not better explained by and does not occur exclusively during the course of another sleep-wake disorder (e.g., narcolepsy, a breathing-related sleep disorder, a circadian rhythm sleep-wake disorder, a parasomnia).</li>
+<li>The insomnia is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication).</li>
+<li>Coexisting mental disorders and medical conditions do not adequately explain the predominant complaint of insomnia.</li>
+</ul>
+<h3><span class="mw-headline" id="Types">Types</span></h3>
+Insomnia can be classified as transient, acute, or chronic.<p></p>
+<ol>
+<li><b>Transient insomnia</b> lasts for less than a week. It can be caused by another disorder, by changes in the sleep environment, by the timing of sleep, severe depression, or by stress. Its consequences&nbsp;– sleepiness and impaired psychomotor performance&nbsp;– are similar to those of sleep deprivation.</li>
+<li><b>Acute insomnia</b> is the inability to consistently sleep well for a period of less than a month. Insomnia is present when there is difficulty initiating or maintaining sleep or when the sleep that is obtained is non-refreshing or of poor quality. These problems occur despite adequate opportunity and circumstances for sleep and they must result in problems with daytime function. Acute insomnia is also known as short term insomnia or stress related insomnia.</li>
+<li><b>Chronic insomnia</b> lasts for longer than a month. It can be caused by another disorder, or it can be a primary disorder. People with high levels of stress hormones or shifts in the levels of cytokines are more likely than others to have chronic insomnia. Its effects can vary according to its causes. They might include muscular weariness, hallucinations, and/or mental fatigue. Chronic insomnia can cause double vision.</li>
+</ol>
+<h3><span class="mw-headline" id="Patterns">Patterns</span></h3>
+Symptoms of insomnia:<p></p>
+<ul>
+<li>difficulty falling asleep, including difficulty finding a comfortable sleeping position</li>
+<li>waking during the night and being unable to return to sleep</li>
+<li>feeling unrefreshed upon waking</li>
+<li>daytime sleepiness, irritability or anxiety</li>
+</ul>
+Sleep-onset insomnia is difficulty falling asleep at the beginning of the night, often a symptom of anxiety disorders. Delayed sleep phase disorder can be misdiagnosed as insomnia, as sleep onset is delayed to much later than normal while awakening spills over into daylight hours.<p></p>
+It is common for patients who have difficulty falling asleep to also have nocturnal awakenings with difficulty returning to sleep. Two-thirds of these patients wake up in the middle of the night, with more than half having trouble falling back to sleep after a middle-of-the-night awakening.<p></p>
+Early morning awakening is an awakening occurring earlier (more than 30 minutes) than desired with an inability to go back to sleep, and before total sleep time reaches 6.5 hours. Early morning awakening is often a characteristic of depression.<p></p>
+<h3><span class="mw-headline" id="Poor_sleep_quality">Poor sleep quality</span></h3>
+Poor sleep quality can occur as a result of, for example, restless legs, sleep apnea or major depression. Poor sleep quality is caused by the individual not reaching stage 3 or delta sleep which has restorative properties.<p></p>
+Major depression leads to alterations in the function of the hypothalamic-pituitary-adrenal axis, causing excessive release of cortisol which can lead to poor sleep quality.<p></p>
+Nocturnal polyuria, excessive nighttime urination, can be very disturbing to sleep.<p></p>
+<h3><span class="mw-headline" id="Subjectivity">Subjectivity</span></h3>
+
+Some cases of insomnia are not really insomnia in the traditional sense. People experiencing sleep state misperception often sleep for normal durations, yet overestimate the time taken to fall and remain asleep.<p></p>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width: 312px;"><img width="310" height="277" class="thumbimage" alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Complications_of_insomnia.svg/310px-Complications_of_insomnia.svg.png" data-file-height="1029" data-file-width="1150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Complications_of_insomnia.svg/465px-Complications_of_insomnia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Complications_of_insomnia.svg/620px-Complications_of_insomnia.svg.png 2x">
+<div class="thumbcaption">
+<div class="magnify"></div>
+Potential complications of insomnia.</div>
+</div>
+</div>
+Symptoms of insomnia can be caused by or be associated with:<p></p>
+<ul>
+<li>Use of psychoactive drugs (such as stimulants), including certain medications, herbs, caffeine, nicotine, cocaine, amphetamines, methylphenidate, aripiprazole, MDMA, modafinil, or excessive alcohol intake.</li>
+<li>Use of or withdrawal from alcohol and other sedatives, such as anti-anxiety and sleep drugs like benzodiazepines.</li>
+<li>Use of or withdrawal from pain-relievers such as opioids.</li>
+<li>Previous thoracic surgery.</li>
+<li>Heart disease.</li>
+<li>Deviated nasal septum and nocturnal breathing disorders.</li>
+<li>Restless legs syndrome, which can cause sleep onset insomnia due to the discomforting sensations felt and the need to move the legs or other body parts to relieve these sensations.</li>
+<li>Periodic limb movement disorder (PLMD), which occurs during sleep and can cause arousals of which the sleeper is unaware.</li>
+<li>Pain, an injury or condition that causes pain can preclude an individual from finding a comfortable position in which to fall asleep, and can in addition cause awakening.</li>
+<li>Hormone shifts such as those that precede menstruation and those during menopause.</li>
+<li>Life events such as fear, stress, anxiety, emotional or mental tension, work problems, financial stress, birth of a child and bereavement.</li>
+<li>Gastrointestinal issues such as heartburn or constipation.</li>
+<li>Mental disorders such as bipolar disorder, clinical depression, generalized anxiety disorder, post traumatic stress disorder, schizophrenia, obsessive compulsive disorder, dementia, and ADHD</li>
+<li>Disturbances of the circadian rhythm, such as shift work and jet lag, can cause an inability to sleep at some times of the day and excessive sleepiness at other times of the day. Chronic circadian rhythm disorders are characterized by similar symptoms.</li>
+<li>Certain neurological disorders, brain lesions, or a history of traumatic brain injury.</li>
+<li>Medical conditions such as hyperthyroidism and rheumatoid arthritis.</li>
+<li>Abuse of over-the counter or prescription sleep aids (sedative or depressant drugs) can produce rebound insomnia.</li>
+<li>Poor sleep hygiene, e.g., noise or over-consumption of caffeine.</li>
+<li>A rare genetic condition can cause a prion-based, permanent and eventually fatal form of insomnia called fatal familial insomnia.</li>
+<li>Physical exercise. Exercise-induced insomnia is common in athletes in the form of prolonged sleep onset latency.</li>
+</ul>
+Sleep studies using polysomnography have suggested that people who have sleep disruption have elevated nighttime levels of circulating cortisol and adrenocorticotropic hormone. They also have an elevated metabolic rate, which does not occur in people who do not have insomnia but whose sleep is intentionally disrupted during a sleep study. Studies of brain metabolism using positron emission tomography (PET) scans indicate that people with insomnia have higher metabolic rates by night and by day. The question remains whether these changes are the causes or consequences of long-term insomnia.<p></p>
+<h3><span class="mw-headline" id="Substance-induced">Substance-induced</span></h3>
+<h4><span class="mw-headline" id="Alcohol-induced">Alcohol-induced</span></h4>
+
+Alcohol is often used as a form of self-treatment of insomnia to induce sleep. However, alcohol use to induce sleep can be a cause of insomnia. Long-term use of alcohol is associated with a decrease in NREM stage 3 and 4 sleep as well as suppression of REM sleep and REM sleep fragmentation. Frequent moving between sleep stages occurs, with awakenings due to headaches, the need to urinate, dehydration, and excessive sweating. Glutamine rebound also plays a role as when someone is drinking; alcohol inhibits glutamine, one of the body's natural stimulants. When the person stops drinking, the body tries to make up for lost time by producing more glutamine than it needs. The increase in glutamine levels stimulates the brain while the drinker is trying to sleep, keeping him/her from reaching the deepest levels of sleep. Stopping chronic alcohol use can also lead to severe insomnia with vivid dreams. During withdrawal REM sleep is typically exaggerated as part of a rebound effect.<p></p>
+<h4><span class="mw-headline" id="Benzodiazepine-induced">Benzodiazepine-induced</span></h4>
+Like alcohol, benzodiazepines, such as alprazolam, clonazepam, lorazepam and diazepam, are commonly used to treat insomnia in the short-term (both prescribed and self-medicated), but worsen sleep in the long-term. While benzodiazepines can put people to sleep (i.e., inhibit NREM stage 1 and 2 sleep), while asleep, the drugs disrupt sleep architecture: decreasing sleep time, delaying time to REM sleep, and decreasing deep slow-wave sleep (the most restorative part of sleep for both energy and mood).<p></p>
+<h4><span class="mw-headline" id="Opioid-induced">Opioid-induced</span></h4>
+Opioid medications such as hydrocodone, oxycodone, and morphine are used for insomnia that is associated with pain due to their analgesic properties and hypnotic effects. Opioids can fragment sleep and decrease REM and stage 2 sleep. By producing analgesia and sedation, opioids may be appropriate in carefully selected patients with pain-associated insomnia. However, dependence on opioids can lead to long-term sleep disturbances.<p></p>
+<h3><span class="mw-headline" id="Risk_factors">Risk factors</span></h3>
+Insomnia affects people of all age groups but people in the following groups have a higher chance of acquiring insomnia.<p></p>
+<ul>
+<li>Individuals older than 60</li>
+<li>History of mental health disorder including depression, etc.</li>
+<li>Emotional stress</li>
+<li>Working late night shifts</li>
+<li>Traveling through different time zones</li>
+</ul>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span></h2>
+Two main models exists as to the mechanism of insomnia, the cognitive and physiological. The cognitive model suggests rumination and hyperarousal prevent sleep and lead to an episode of insomnia. The physiological model is based upon three major findings in people with insomnia; firstly, increased urinary cortisol and catecholamines have been found suggesting increased activity of the HPA axis and arousal; second increased global cerebral glucose utilization during wakefulness and NREM sleep in people with insomnia; and lastly increased full body metabolism and heart rate in those with insomnia. All these findings taken together suggest a dysregulation of the arousal system, cognitive system and HPA axis all contributing to insomnia. However it is unknown if the hyperarousal is a result of, or cause of insomnia. Altered levels of the inhibitory neurotransmitter GABA have been found, but the results have been inconsistent, and the implications of altered levels of such a ubiquitous neurotransmitter are unknown. Studies on wether or not insomnia is driven by circadian control over sleep or a wake dependent process have been inconsistent, but some literature suggests a dysregulation of the circadian rhythm based off of core temperature.  Increased beta activity and decreased delta wave activity has been observed on electroencephalograms, however the implication of this is unknown.<p></p>
+Around half of post-menopausal women experience sleep disturbances, and generally sleep distrurbance is about twice as common in women as men; this appears to be due in part, but not completely, to changes in hormone levels, especially in and post-menopause.<p></p>
+Changes in sex hormones in both men and women as they age may account in part for increased prevalence of sleep disorders in older people.<p></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+In medicine, insomnia is widely measured using the Athens insomnia scale. It is measured using eight different parameters related to sleep, finally represented as an overall scale which assesses an individual's sleep pattern.<p></p>
+A qualified sleep specialist should be consulted for the diagnosis of any sleep disorder so the appropriate measures can be taken. Past medical history and a physical examination need to be done to eliminate other conditions that could be the cause of insomnia. After all other conditions are ruled out a comprehensive sleep history should be taken. The sleep history should include sleep habits, medications (prescription and non-prescription), alcohol consumption, nicotine and caffeine intake, co-morbid illnesses, and sleep environment. A sleep diary can be used to keep track of the individual's sleep patterns. The diary should include time to bed, total sleep time, time to sleep onset, number of awakenings, use of medications, time of awakening and subjective feelings in the morning. The sleep diary can be replaced or validated by the use of out-patient actigraphy for a week or more, using a non-invasive device that measures movement.<p></p>
+Workers who complain of insomnia should not routinely have polysomnography to screen for sleep disorders. This test may be indicated for patients with symptoms in addition to insomnia, including sleep apnea, obesity, a thick neck diameter, or high-risk fullness of the flesh in the oropharynx. Usually, the test is not needed to make a diagnosis, and insomnia especially for working people can often be treated by changing a job schedule to make time for sufficient sleep and by improving sleep hygiene.<p></p>
+Some patients may need to do an overnight sleep study to determine if insomnia is present. Such a study will commonly involve assessment tools including a polysomnogram and the multiple sleep latency test. Specialists in sleep medicine are qualified to diagnose disorders within the, according to the ICSD, 81 major sleep disorder diagnostic categories. Patients with some disorders, including delayed sleep phase disorder, are often mis-diagnosed with primary insomnia; when a person has trouble getting to sleep and awakening at desired times, but has a normal sleep pattern once asleep, a circadian rhythm disorder is a likely cause.<p></p>
+In many cases, insomnia is co-morbid with another disease, side-effects from medications, or a psychological problem. Approximately half of all diagnosed insomnia is related to psychiatric disorders. In depression in many cases "insomnia should be regarded as a co-morbid condition, rather than as a secondary one;" insomnia typically predates psychiatric symptoms. "In fact, it is possible that insomnia represents a significant risk for the development of a subsequent psychiatric disorder." Insomnia occur in between 60% and 80% of people with depression. This may partly be due to treatment used for depression.<p></p>
+Determination of causation is not necessary for a diagnosis.<p></p>
+<h2><span class="mw-headline" id="Prevention">Prevention</span></h2>
+Going to sleep and waking up at the same time every day can create a steady pattern which may help to prevent or treat insomnia. Avoidance of vigorous exercise and any caffeinated drinks a few hours before going to sleep is recommended, while exercise earlier in the day is beneficial. The bedroom should be cool and dark, and the bed should only be used for sleep and sex. These are some of the points included in what doctors call "sleep hygiene".<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+It is important to identify or rule out medical and psychological causes before deciding on the treatment for insomnia. Cognitive behavioral therapy (CBT) has been found to be as effective as medications for the short-term treatment of chronic insomnia. The beneficial effects, in contrast to those produced by medications, may last well beyond the stopping of therapy. Medications have been used mainly to reduce symptoms in insomnia of short duration; their role in the management of chronic insomnia remains unclear. Several different types of medications are also effective for treating insomnia. However, many doctors do not recommend relying on prescription sleeping pills for long-term use. It is also important to identify and treat other medical conditions that may be contributing to insomnia, such as depression, breathing problems, and chronic pain.<p></p>
+<h3><span class="mw-headline" id="Non-pharmacological">Non-pharmacological</span></h3>
+Non-pharmacological strategies have comparable efficacy to hypnotic medication for insomnia and they may have longer lasting effects. Hypnotic medication is only recommended for short-term use because dependence with rebound withdrawal effects upon discontinuation or tolerance can develop.<p></p>
+Nonpharmacological strategies provide long lasting improvements to insomnia and are recommended as a first line and long-term strategy of management. The strategies include attention to sleep hygiene, stimulus control, behavioral interventions, sleep-restriction therapy, paradoxical intention, patient education and relaxation therapy. Some examples are keeping a journal, restricting the time spent awake in bed, practicing relaxation techniques, and maintaining a regular sleep schedule and a wake-up time. Behavioral therapy can assist a patient in developing new sleep behaviors to improve sleep quality and consolidation. Behavioral therapy may include, learning healthy sleep habits to promote sleep relaxation, undergoing light therapy to help with worry-reduction strategies and regulating the circadian clock.<p></p>
+Music may improve insomnia in adults. EEG biofeedback has demonstrated effectiveness in the treatment of insomnia with improvements in duration as well as quality of sleep. Self-help therapy (defined as a psychological therapy that can be worked through on one's own) may improve sleep quality for adults with insomnia to a small or moderate degree.<p></p>
+Stimulus control therapy is a treatment for patients who have conditioned themselves to associate the bed, or sleep in general, with a negative response. As stimulus control therapy involves taking steps to control the sleep environment, it is sometimes referred interchangeably with the concept of sleep hygiene. Examples of such environmental modifications include using the bed for sleep or sex only, not for activities such as reading or watching television; waking up at the same time every morning, including on weekends; going to bed only when sleepy and when there is a high likelihood that sleep will occur; leaving the bed and beginning an activity in another location if sleep does not result in a reasonably brief period of time after getting into bed (commonly ~20 min); reducing the subjective effort and energy expended trying to fall asleep; avoiding exposure to bright light during nighttime hours, and eliminating daytime naps.<p></p>
+A component of stimulus control therapy is sleep restriction, a technique that aims to match the time spent in bed with actual time spent asleep. This technique involves maintaining a strict sleep-wake schedule, sleeping only at certain times of the day and for specific amounts of time to induce mild sleep deprivation. Complete treatment usually lasts up to 3 weeks and involves making oneself sleep for only a minimum amount of time that they are actually capable of on average, and then, if capable (i.e. when sleep efficiency improves), slowly increasing this amount (~15 min) by going to bed earlier as the body attempts to reset its internal sleep clock. Bright light therapy, which is often used to help early morning wakers reset their natural sleep cycle, can also be used with sleep restriction therapy to reinforce a new wake schedule. Although applying this technique with consistency is difficult, it can have a positive effect on insomnia in motivated patients.<p></p>
+Paradoxical intention is a cognitive reframing technique where the insomniac, instead of attempting to fall asleep at night, makes every effort to stay awake (i.e. essentially stops trying to fall asleep). One theory that may explain the effectiveness of this method is that by not voluntarily making oneself go to sleep, it relieves the performance anxiety that arises from the need or requirement to fall asleep, which is meant to be a passive act. This technique has been shown to reduce sleep effort and performance anxiety and also lower subjective assessment of sleep-onset latency and overestimation of the sleep deficit (a quality found in many insomniacs).<p></p>
+<h4><span class="mw-headline" id="Sleep_hygiene">Sleep hygiene</span></h4>
+Sleep hygiene is a common term for all of the behaviors which relate to the promotion of good sleep. These behaviors are used as the basis of sleep interventions and are the primary focus of sleep education programs. Behaviors include the use of caffeine, nicotine, and alcohol consumption, maximizing the regularity and efficiency of sleep episodes, minimizing medication usage and daytime napping, the promotion of regular exercise, and the facilitation of a positive sleep environment. Exercise can be helpful when establishing a routine for sleep but should not be done close to the time that you are planning on going to sleep. The creation of a positive sleep environment may also be helpful in reducing the symptoms of insomnia. In order to create a positive sleep environment one should remove objects that can cause worry or distressful thoughts from view.<p></p>
+<h4><span class="mw-headline" id="Cognitive_behavioral_therapy">Cognitive behavioral therapy</span></h4>
+
+There is some evidence that cognitive behavioural therapy for insomnia is superior in the long-term to benzodiazepines and the nonbenzodiazepines in the treatment and management of insomnia. In this therapy, patients are taught improved sleep habits and relieved of counter-productive assumptions about sleep. Common misconceptions and expectations that can be modified include: (1) unrealistic sleep expectations (e.g., I need to have 8 hours of sleep each night), (2) misconceptions about insomnia causes (e.g., I have a chemical imbalance causing my insomnia), (3) amplifying the consequences of insomnia (e.g., I cannot do anything after a bad night's sleep), and (4) performance anxiety after trying for so long to have a good night's sleep by controlling the sleep process. Numerous studies have reported positive outcomes of combining cognitive behavioral therapy for insomnia treatment with treatments such as stimulus control and the relaxation therapies. Hypnotic medications are equally effective in the short-term treatment of insomnia but their effects wear off over time due to tolerance. The effects of CBT-I have sustained and lasting effects on treating insomnia long after therapy has been discontinued. The addition of hypnotic medications with CBT-I adds no benefit in insomnia. The long lasting benefits of a course of CBT-I shows superiority over pharmacological hypnotic drugs. Even in the short term when compared to short-term hypnotic medication such as zolpidem (Ambien), CBT-I still shows significant superiority. Thus CBT-I is recommended as a first line treatment for insomnia. Metacognition is also a recent trend in approach to behaviour therapy of insomnia.<p></p>
+<h4><span class="mw-headline" id="Internet_interventions">Internet interventions</span></h4>
+Despite the therapeutic effectiveness and proven success of CBT, treatment availability is significantly limited by a lack of trained clinicians, poor geographical distribution of knowledgeable professionals, and expense. One way to potentially overcome these barriers is to use the Internet to deliver treatment, making this effective intervention more accessible and less costly. The Internet has already become a critical source of health-care and medical information. Although the vast majority of health websites provide general information, there is growing research literature on the development and evaluation of Internet interventions.<p></p>
+These online programs are typically behaviorally-based treatments that have been operationalized and transformed for delivery via the Internet. They are usually highly structured; automated or human supported; based on effective face-to-face treatment; personalized to the user; interactive; enhanced by graphics, animations, audio, and possibly video; and tailored to provide follow-up and feedback.<p></p>
+There is good evidence for the use computer based CBT for insomnia.<p></p>
+<h3><span class="mw-headline" id="Medications">Medications</span></h3>
+Many people with insomnia use sleeping tablets and other sedatives. In some places medications are prescribed in over 95% of cases. They; however, are a second line treatment.<p></p>
+The percentage of adults using a prescription sleep aid increases with age. During 2005–2010, about 4% of U.S. adults aged 20 and over reported that they took prescription sleep aids in the past 30 days. Rates of use were lowest among the youngest age group (those aged 20–39) at about 2%, increased to 6% among those aged 50–59, and reached 7% among those aged 80 and over. More adult women (5.0%) reported using prescription sleep aids than adult men (3.1%). Non-Hispanic white adults reported higher use of sleep aids (4.7%) than non-Hispanic black (2.5%) and Mexican-American (2.0%) adults. No difference was shown between non-Hispanic black adults and Mexican-American adults in use of prescription sleep aids.<p></p>
+<h4><span class="mw-headline" id="Antihistamines">Antihistamines</span></h4>
+As an alternative to taking prescription drugs, some evidence shows that an average person seeking short-term help may find relief by taking over-the-counter antihistamines such as diphenhydramine or doxylamine. Diphenhydramine and doxylamine are widely used in nonprescription sleep aids. They are the most effective over-the-counter sedatives currently available, at least in the United States, and are more sedating than some prescription hypnotics. Antihistamine effectiveness for sleep may decrease over time, and anticholinergic side-effects (such as dry mouth) may also be a drawback with these particular drugs. While addiction does not seem to be an issue with this class of drugs, they can induce dependence and rebound effects upon abrupt cessation of use.<p></p>
+<h4><span class="mw-headline" id="Melatonin">Melatonin</span></h4>
+The evidence for melatonin in treating insomnia is generally poor. There is low quality evidence that it may speed the onset of sleep by 6 minutes. Ramelteon, a melatonin receptor agonist, does not appear to speed the onset of sleep or the amount of sleep a person gets.<p></p>
+Most melatonin drugs have not been tested for longitudinal side effects. Prolonged-release melatonin may improve quality of sleep in older people with minimal side effects.<p></p>
+Studies have also shown that children who are on the Autism spectrum or have learning disabilities, Attention-Deficit Hyperactivity Disorder (ADHD) or related neurological diseases can benefit from the use of melatonin. This is because they often have trouble sleeping due to their disorders. For example, children with ADHD tend to have trouble falling asleep because of their hyperactivity and, as a result, tend to be tired during most of the day. Another cause of insomnia in children with ADHD is the use of stimulants used to treat their disorder. Children who have ADHD then, as well as the other disorders mentioned, may be given melatonin before bedtime in order to help them sleep.<p></p>
+<h4><span class="mw-headline" id="Antidepressants">Antidepressants</span></h4>
+Because insomnia is a common symptom of depression, antidepressants are effective for treating sleep problems whether or not they are associated with depression. While all antidepressants help regulate sleep, some antidepressants such as amitriptyline, doxepin, mirtazapine, and trazodone can have an immediate sedative effect, and are prescribed to treat insomnia. Amitriptyline and doxepin both have antihistaminergic, anticholinergic, and antiadrenergic properties, which contribute to both their therapetuic effects and side effect profiles, while mirtazapine's side effects are primarily antihistaminergic, and trazodone's side-effects are primarily antiadrenergic. Mirtazapine is known to decrease sleep latency (i.e., the time it takes to fall asleep), promoting sleep efficiency and increasing the total amount of sleeping time in people with both depression and insomnia.<p></p>
+Agomelatine, a melatonergic antidepressant with sleep-improving qualities that does not cause daytime drowsiness, is licensed for marketing in the European Union  and TGA Australia. After trials in the United States its development for use there was discontinued in October 2011 by Novartis, who had bought the rights to market it there from the European pharmaceutical company Servier.<p></p>
+<h4><span class="mw-headline" id="Benzodiazepines">Benzodiazepines</span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width: 222px;"><img width="220" height="126" class="thumbimage" alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Normison.jpg/220px-Normison.jpg" data-file-height="1429" data-file-width="2499" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Normison.jpg/330px-Normison.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Normison.jpg/440px-Normison.jpg 2x">
+<div class="thumbcaption">
+<div class="magnify"></div>
+Normison (temazepam) is a benzodiazepine commonly prescribed for insomnia and other sleep disorders.</div>
+</div>
+</div>
+The most commonly used class of hypnotics for insomnia are the benzodiazepines. Benzodiazepines are not significantly better for insomnia than antidepressants. Chronic users of hypnotic medications for insomnia do not have better sleep than chronic insomniacs not taking medications. In fact, chronic users of hypnotic medications have more regular nighttime awakenings than insomniacs not taking hypnotic medications. Many have concluded that these drugs cause an unjustifiable risk to the individual and to public health and lack evidence of long-term effectiveness. It is preferred that hypnotics be prescribed for only a few days at the lowest effective dose and avoided altogether wherever possible, especially in the elderly. Between 1993 and 2010, the prescribing of benzodiazepines to individuals with sleep disorders has decreased from 24% to 11% in the US, coinciding with the first release of nonbenzodiazepines.<p></p>
+The benzodiazepine and nonbenzodiazepine hypnotic medications also have a number of side-effects such as day time fatigue, motor vehicle crashes and other accidents, cognitive impairments and falls and fractures. Elderly people are more sensitive to these side-effects. Some benzodiazepines have demonstrated effectiveness in sleep maintenance in the short term but in the longer term benzodiazepines can lead to tolerance, physical dependence, benzodiazepine withdrawal syndrome upon discontinuation, and long-term worsening of sleep, especially after consistent usage over long periods of time. Benzodiazepines, while inducing unconsciousness, actually worsen sleep as—like alcohol—they promote light sleep while decreasing time spent in deep sleep. A further problem is, with regular use of short-acting sleep aids for insomnia, daytime rebound anxiety can emerge. Although there is little evidence for benefit of benzodiazepines in insomnia compared to other treatments and evidence of major harm, prescriptions have continued to increase. This is likely due to their addictive nature, both due to misuse and because—through their rapid action, tolerance and withdrawal—they can "trick" insomniacs into thinking they are helping with sleep. There is a general awareness that long-term use of benzodiazepines for insomnia in most people is inappropriate and that a gradual withdrawal is usually beneficial due to the adverse effects associated with the long-term use of benzodiazepines and is recommended whenever possible.<p></p>
+Benzodiazepines all bind unselectively to the GABA<sub>A</sub> receptor. Some theorize that certain benzodiazepines (hypnotic benzodiazepines) have significantly higher activity at the a<sub>1</sub> subunit of the GABA<sub>A</sub> receptor compared to other benzodiazepines (for example, triazolam and temazepam have significantly higher activity at the a<sub>1</sub> subunit compared to alprazolam and diazepam, making them superior sedative-hypnotics&nbsp;– alprazolam and diazepam, in turn, have higher activity at the a<sub>2</sub> subunit compared to triazolam and temazepam, making them superior anxiolytic agents). Modulation of the a<sub>1</sub> subunit is associated with sedation, motor impairment, respiratory depression, amnesia, ataxia, and reinforcing behavior (drug-seeking behavior). Modulation of the a<sub>2</sub> subunit is associated with anxiolytic activity and disinhibition. For this reason, certain benzodiazepines may be better suited to treat insomnia than others.<p></p>
+<h4><span class="mw-headline" id="Benzodiazepine-like_medications">Benzodiazepine-like medications</span></h4>
+Drugs that may prove more effective and safer than benzodiazepines for insomnia is an area of active research. Nonbenzodiazepine sedative-hypnotic drugs, such as zolpidem (Ambien), zaleplon, zopiclone (Imovane), and eszopiclone (Lunesta), are a class hypnotic medications that are similar to benzodiazepines in their mechanism of action, and indicated for mild to moderate insomnia. Their effectiveness at improving time to sleeping is slight, and they have similar—though potentially less severe—side effect profiles compared to benzodiazepines.<p></p>
+Suvorexant is FDA approved for insomnia, characterized by difficulties with sleep onset and/or sleep maintenance.<p></p>
+Prescribing of nonbenzodiazepines has seen a general increase since their initial release on the US market in 1992, from 2.3% in 1993 among individuals with sleep disorders to 13.7% in 2010.<p></p>
+<h4><span class="mw-headline" id="Antipsychotics">Antipsychotics</span></h4>
+The use of antipsychotics for insomnia, while common, is not recommended as the evidence does not demonstrate a benefit and the risk of adverse effects is significant. Concerns regarding side effects is greater in the elderly.<p></p>
+<h3><span class="mw-headline" id="Alternative_medicine">Alternative medicine</span></h3>
+Some insomniacs use herbs such as valerian, chamomile, lavender, cannabis, hops, <i>Withania somnifera</i>, and passion-flower. <small>L</small>-Arginine <small>L</small>-aspartate, <i>S</i>-adenosyl-<small>L</small>-homocysteine, and delta sleep-inducing peptide (DSIP) may also be helpful in alleviating insomnia. It is unclear if acupuncture is useful.<p></p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span></h2>
+A survey of 1.1 million residents in the United States found that those that reported sleeping about 7 hours per night had the lowest rates of mortality, whereas those that slept for fewer than 6 hours or more than 8 hours had higher mortality rates. Getting 8.5 or more hours of sleep per night increased the mortality rate by 15%. Severe insomnia&nbsp;– sleeping less than 3.5 hours in women and 4.5 hours in men&nbsp;– is associated with a 15% increase in mortality. However, most of the increase in mortality from severe insomnia was discounted after controlling for co-morbid disorders. After controlling for sleep duration and insomnia, use of sleeping pills was also found to be associated with an increased mortality rate.<p></p>
+The lowest mortality was seen in individuals who slept between six and a half and seven and a half hours per night. Even sleeping only 4.5 hours per night is associated with very little increase in mortality. Thus, mild to moderate insomnia for most people is associated with increased longevity and severe insomnia is associated only with a very small effect on mortality. It is unclear why sleeping longer than 7.5 hours is associated with excess mortality.<p></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width: 292px;"><img width="290" height="128" class="thumbimage" alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Insomnia_world_map_-_DALY_-_WHO2004.svg/290px-Insomnia_world_map_-_DALY_-_WHO2004.svg.png" data-file-height="415" data-file-width="940" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Insomnia_world_map_-_DALY_-_WHO2004.svg/435px-Insomnia_world_map_-_DALY_-_WHO2004.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Insomnia_world_map_-_DALY_-_WHO2004.svg/580px-Insomnia_world_map_-_DALY_-_WHO2004.svg.png 2x">
+<div class="thumbcaption">
+<div class="magnify"></div>
+Disability-adjusted life year for insomnia per 100,000&nbsp;inhabitants in 2004.
+<div class="refbegin columns references-column-count references-column-count-2" style="column-count: 2; -moz-column-count: 2; -webkit-column-count: 2;">
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(179, 179, 179);">&nbsp;</span>&nbsp;no data</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 255, 101);">&nbsp;</span>&nbsp;less than 25</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 242, 0);">&nbsp;</span>&nbsp;25–30.25</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 220, 0);">&nbsp;</span>&nbsp;30.25–36</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 198, 0);">&nbsp;</span>&nbsp;36–41.5</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 176, 0);">&nbsp;</span>&nbsp;41.5–47</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 154, 0);">&nbsp;</span>&nbsp;47–52.5</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 132, 0);">&nbsp;</span>&nbsp;52.5–58</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 110, 0);">&nbsp;</span>&nbsp;58–63.5</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 88, 0);">&nbsp;</span>&nbsp;63.5–69</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 66, 0);">&nbsp;</span>&nbsp;69–74.5</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(255, 44, 0);">&nbsp;</span>&nbsp;74.5–80</div>
+<div class="legend"><span class="legend-color" style="margin: 1px 0px; border: 1px solid black; border-image: none; width: 1.5em; height: 1.5em; text-align: center; color: black; font-size: 100%; display: inline-block; background-color: rgb(203, 0, 0);">&nbsp;</span>&nbsp;more than 80</div>
+</div>
+</div>
+</div>
+</div>
+Between 10% and 30% of adults have insomnia at any given point in time and up to half of people have insomnia in a given year. About 6% of people have insomnia that is not due to another problem and lasts for more than a month. People over the age of 65 are affected more often than younger people. Females are more often affected than males. Insomnia is 40% more common in women than in men.<p></p>
+There are higher rates of insomnia reported among university students compared to the general population.<p></p>
+<h2><span class="mw-headline" id="Society_and_culture">Society and culture</span></h2>
+The topic of insomnia is discussed in many cultural contexts.<p></p>
+The word insomnia is from Latin: <span lang="la" lang="la" xml:lang="la"><i>in</i> + <i>somnus</i></span> "without sleep" and <i>-ia</i> as nominalizing suffix.<p></p>
+The popular press have published stores about people who supposedly never sleep, such as that of Paul Kern and Al Herpin, however these stories are not accurate.<p></p><p></p> 

@@ -1,0 +1,78 @@
+ 
+<b>Cognitive disorders</b> are a category of mental health disorders that primarily affect learning, memory, perception, and problem solving, and include amnesia, dementia, and delirium. While anxiety disorders, mood disorders, and psychotic disorders can also have an effect on cognitive and memory functions, the DSM-IV-TR does not consider these cognitive disorders, because loss of cognitive function is not the primary (causal) symptom. Causes vary between the different types of disorders but most include damage to the memory portions of the brain. Treatments depend on how the disorder is caused. Medication and therapies are the most common treatments; however, for some types of disorders such as certain types of amnesia, treatments can suppress the symptoms but there is currently no cure.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Cognitive mental disorder perspective</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Classifications</span>
+<ul>
+<li class="toclevel-2 tocsection-3"><span class="tocnumber">2.1</span> <span class="toctext">Delirium</span></li>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">2.2</span> <span class="toctext">Dementia</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">2.3</span> <span class="toctext">Amnesia</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">3</span> <span class="toctext">Causes</span>
+<ul>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">3.1</span> <span class="toctext">Delirium</span></li>
+<li class="toclevel-2 tocsection-8"><span class="tocnumber">3.2</span> <span class="toctext">Dementia</span></li>
+<li class="toclevel-2 tocsection-9"><span class="tocnumber">3.3</span> <span class="toctext">Amnesia</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><span class="tocnumber">4</span> <span class="toctext">Treatment</span>
+<ul>
+<li class="toclevel-2 tocsection-11"><span class="tocnumber">4.1</span> <span class="toctext">Delirium</span></li>
+<li class="toclevel-2 tocsection-12"><span class="tocnumber">4.2</span> <span class="toctext">Dementia</span></li>
+<li class="toclevel-2 tocsection-13"><span class="tocnumber">4.3</span> <span class="toctext">Amnesia</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">5</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-15"><span class="tocnumber">6</span> <span class="toctext">Notes</span></li>
+<li class="toclevel-1 tocsection-16"><span class="tocnumber">7</span> <span class="toctext">References</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Cognitive_mental_disorder_perspective">Cognitive mental disorder perspective</span></h2>
+In abnormal psychology, cognitive disorders are mental disorders that develop on the basis of cognitive mental disorder perspective. The cognitive mental disorder perspective is the theory that psychological disorders originate from an interruption, whether short or long, in our basic cognitive functions, i.e. memory processing, perception, problem solving and language. This perspective takes opposition to the psychodynamic mental disorder perspective, behavioral mental disorder perspective, sociocultural mental disorder perspective, interpersonal mental disorder perspective and neurological/biological mental disorder perspective. One pioneer of cognitive disorder perspective is Albert Ellis. In 1962, Ellis proposed that humans develop irrational beliefs/goals about the world; and therefore, create disorders in cognitive abilities. Another pioneer of the cognitive disorder perspective is Aaron Beck. In 1967, Beck designed what is known as the "cognitive model" for emotional disorders, mainly depression. His model showed that a blending of negative cognitive functions about the self, the world, and possible selves lead to cognitive mental disorders.<p></p>
+<h2><span class="mw-headline" id="Classifications">Classifications</span></h2>
+In the <i>Diagnostic and Statistical Manual of Mental Disorders</i> (DSM-IV-TR), which describes 250 disorders and their symptoms, cognitive disorders are classified under a psychological disorder in axis I. Cognitive disorders are described as those with “a significant impairment of cognition or memory that represents a marked deterioration from a previous level of function”. The three main areas outlined by the DSM-IV-TR of cognitive disorders are delirium, dementia, and amnesia. There are many sub categories in each of these areas as well.<p></p>
+<h3><span class="mw-headline" id="Delirium">Delirium</span></h3>
+Delirium is a disorder that makes situational awareness and processing new information very difficult for those diagnosed. It usually has a high rate of onset ranging from minutes to hours and sometimes days, but it does not last for very long, only a few hours to weeks. Delirium can also be accompanied by a shift in attention, mood swings, violent or unordinary behaviors, and hallucinations. It can be caused by a preexisting medical condition. Delirium during a hospital stay can result in a longer stay and more risk of complications and long terms stays.<p></p>
+<h3><span class="mw-headline" id="Dementia">Dementia</span></h3>
+Dementia is known as a genetic or trauma induced disorder that erases part or all of the patient’s memory. It is usually associated with but not restricted to the elderly. It is also usually accompanied by another cognitive dysfunction. For non-reversible causes of dementia such as age, the slow decline of memory and cognition is lifelong. It can be diagnosed by screening tests such as the Mini Mental State Examination (MMSE).<p></p>
+<h3><span class="mw-headline" id="Amnesia">Amnesia</span></h3>
+Amnesia patients have trouble retaining long term memories. Difficulty creating recent term loss of memories is called anterograde amnesia and is caused by damage to the hippocampus part of the brain which is a major part of the memory process. Retrograde amnesia is also caused by damage to the hippocampus but the memories that were encoded or in the process of being encoded in long term memory are erased<p></p>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+<h3><span class="mw-headline" id="Delirium_2">Delirium</span></h3>
+Delirium can be caused by the worsening of previous medical conditions, abuse of medications or drugs, alcohol or drug withdrawals, mental illness, severe pain, immobilization, sleep deprivation and hypnosis.<p></p>
+Other common causes that may increase the risk of delirium include infections of urinary tract, skin and stomach, pneumonia, old age and poor nutrition.<p></p>
+<h3><span class="mw-headline" id="Dementia_2">Dementia</span></h3>
+Dementia can have numerous causes: genetics, brain trauma, stroke, and heart issues. The main causes are diseases such as Alzheimer disease, Parkinson disease, and Huntington disease because they affect or deteriorate brain functions.<p></p>
+<h3><span class="mw-headline" id="Amnesia_2">Amnesia</span></h3>
+Amnesia can be caused by concussions, traumatic brain injuries, post-traumatic stress, and alcoholism. Many problems are caused by damage to major memory encoding parts of the brain such as the hippocampus.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+<h3><span class="mw-headline" id="Delirium_3">Delirium</span></h3>
+Before delirium treatment, the cause must be established. Medication such as antipsychotics or benzodiazepines can help reduce the symptoms for some cases. For alcohol or malnourished cases, vitamin B supplements are recommended and for extreme cases, life-support can be used.<p></p>
+<h3><span class="mw-headline" id="Dementia_3">Dementia</span></h3>
+For dementia cases, studies suggest that diets with high Omega 3 content, low in saturated fats and sugars, along with regular exercise can increase the level of brain plasticity. Other studies have shown that mental exercise such a newly developed “computerized brain training programs” can also help build and maintain targeted specific areas of the brain. These studies have been very successful for those diagnosed with schizophrenia and can improve fluid intelligence, the ability to adapt and deal with new problems or challenges the first time encountered, and in young people, it can still be effective in later life.<p></p>
+<h3><span class="mw-headline" id="Amnesia_3">Amnesia</span></h3>
+Amnesia is very difficult to treat. If it is caused by an underlying cause such as Alzheimer's disease or infections, the cause may be treated but the amnesia may not be.<p></p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li>List of cognitive disorders</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<ol class="references">
+<li id="cite_note-Guerrero-1"><span class="mw-cite-backlink">^       </span> <span class="reference-text"><cite class="citation book">Guerrero, Anthony (2008). <i>Problem-Based Behavioral Science of Medicine</i>. New York: Springer. pp.&nbsp;367–79.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.aufirst=Anthony&amp;rft.aulast=Guerrero&amp;rft.btitle=Problem-Based+Behavioral+Science+of+Medicine&amp;rft.date=2008&amp;rft.genre=book&amp;rft.pages=367-79&amp;rft.place=New+York&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Torpy_Delirium-2"><span class="mw-cite-backlink">^    </span> <span class="reference-text"><cite class="citation journal">Torpy, Janet (2008). "Delirium". <i>The Journal of the American Medical Association</i>. <b>300</b> (19).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.atitle=Delirium&amp;rft.aufirst=Janet&amp;rft.aulast=Torpy&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=19&amp;rft.jtitle=The+Journal+of+the+American+Medical+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=300" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Torpy_dementia-3"><span class="mw-cite-backlink">^   </span> <span class="reference-text"><cite class="citation journal">Torpy, Janet (2010). "Dementia". <i>The Journal of American Medical Association</i>. <b>304</b> (7).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.atitle=Dementia&amp;rft.aufirst=Janet&amp;rft.aulast=Torpy&amp;rft.date=2010&amp;rft.genre=article&amp;rft.issue=7&amp;rft.jtitle=The+Journal+of+American+Medical+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=304" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Cicerelli-4"><span class="mw-cite-backlink">^       </span> <span class="reference-text"><cite class="citation book">Cicerelli, Saundra. <i>Psychology</i>. Upper Saddle River: Pearson Prentice Hal.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.aufirst=Saundra&amp;rft.aulast=Cicerelli&amp;rft.btitle=Psychology&amp;rft.genre=book&amp;rft.place=Upper+Saddle+River&amp;rft.pub=Pearson+Prentice+Hal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Alloy.2C_et_al..2C_2005-5"><span class="mw-cite-backlink">^  </span> <span class="reference-text">Alloy, et al., 2005</span></li>
+<li id="cite_note-McGohan-6"><span class="mw-cite-backlink"><b>^</b></span> <span class="reference-text"><cite class="citation journal">McGohan (2005). "Clinical Updates. Delirium". <i>Journal of Continuing Education in Nursing as it was defined</i>. <b>36</b> (3): 102–103.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.atitle=Clinical+Updates.+Delirium&amp;rft.au=McGohan&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Continuing+Education+in+Nursing+as+it+was+defined&amp;rft.pages=102-103&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+<li id="cite_note-ScottShafer-7"><span class="mw-cite-backlink"><b>^</b></span> <span class="reference-text"><cite class="citation web">"MayoClinic's Review". MayoClinic.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.btitle=MayoClinic%27s+Review&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mayoclinic.org%2Fdiseases-conditions%2Fdelirium%2Fbasics%2Fcauses%2Fcon-20033982&amp;rft.pub=MayoClinic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+<li id="cite_note-Gomez-Pinilla-8"><span class="mw-cite-backlink"><b>^</b></span> <span class="reference-text"><cite class="citation journal">Gomez-Pinilla, Fernando (2011). "The Combined Effects of Exercise and Foods in Preventing Neurological and Cognitive Disorders". <i>Preventive Medicine</i>. <b>52</b>: S75–S80. doi:10.1016/j.ypmed.2011.01.023.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.atitle=The+Combined+Effects+of+Exercise+and+Foods+in+Preventing+Neurological+and+Cognitive+Disorders&amp;rft.aufirst=Fernando&amp;rft.aulast=Gomez-Pinilla&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ypmed.2011.01.023&amp;rft.jtitle=Preventive+Medicine&amp;rft.pages=S75-S80&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52" class="Z3988"><span style="display: none;">&nbsp;</span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<cite class="citation book">Alloy, Lauren; John Riskind; Margaret Manos (October 2005). <i>Abnormal Psychology</i>. McGraw Hill. pp.&nbsp;88–89. ISBN&nbsp;0-07-242298-X.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACognitive+disorder&amp;rft.aufirst=Lauren&amp;rft.au=John+Riskind&amp;rft.aulast=Alloy&amp;rft.au=Margaret+Manos&amp;rft.btitle=Abnormal+Psychology&amp;rft.date=2005-10&amp;rft.genre=book&amp;rft.isbn=0-07-242298-X&amp;rft.pages=88-89&amp;rft.pub=McGraw+Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display: none;">&nbsp;</span></span><p></p><p></p> 

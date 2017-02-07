@@ -1,0 +1,23 @@
+ 
+<b>Caffeine-induced sleep disorder</b> is a psychiatric disorder that results from overconsumption of the stimulant caffeine. "When caffeine is consumed immediately before bedtime or continuously throughout the day, sleep onset may be delayed, total sleep time reduced, normal stages of sleep altered, and the quality of sleep decreased." Caffeine reduces slow-wave sleep in the early part of the sleep cycle and can reduce rapid eye movement sleep later in the cycle. Caffeine increases episodes of wakefulness, and high doses in the late evening can increase sleep onset latency. In elderly people, there is an association between use of medication containing caffeine and difficulty in falling asleep.<p></p>
+The specific criteria for this disorder in the fourth version of the <i>Diagnostic and Statistical Manual of Mental Disorders</i> (DSM-IV) include that there must be a significant inability to sleep which is caused entirely by the physiological effects of caffeine as proven by an examination; if sleeping issues can be accounted for due to a breathing-related sleep disorder, narcolepsy, a circadian rhythm sleep disorder or a mental disorder, then caffeine-induced sleep disorder is not the cause. This condition causes a notable impairment in functioning in sufferers.<p></p>
+<br>
+Excessive ingestion of caffeine can lead to a state of intoxication. This period of intoxication is characterized by restlessness, agitation, excitement, rambling thought or speech, and even insomnia. Even doses of caffeine relating to just one cup of coffee can increase sleep latency and decrease the quality of sleep especially in non-REM deep sleep. A dose of caffeine taken in the morning can have these effects the following night, so one of the main practices of sleep hygiene a person can do is to cease the consumption of caffeine.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Biology of Caffeine</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Study</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biology_of_Caffeine">Biology of Caffeine</span></h2>
+Caffeine enters the bloodstream through the stomach and small intestine and can have a stimulating effect as soon as 15 minutes after consumption. Once it is in the body, caffeine will persist for several hours, and takes about six hours for one half of the caffeine consumed to be eliminated. When caffeine reaches the brain, it increases the secretion of norepinephrine which is related to the “fight or flight” response. The rise in norepinephrine levels increases activity of neurons in areas of the brain and the symptoms resemble those of a panic attack.<p></p>
+Though caffeine can be shown to decrease the quality of sleep, there is no evidence that caffeine affects all people the same way. In fact, some people report no sleep problems despite regularly consuming caffeine. Regular intake of caffeine may be normal for a person so it is understandable how they may still get satisfactory sleep. This finding shows that caffeine interferes with a modulatory mechanism in sleep regulation rather than a fundamental sleep regulatory brain circuit. Ultimately, regular sleep habits are important in overall quality and timing of sleep.<p></p>
+<h2><span class="mw-headline" id="Study">Study</span></h2>
+A study conducted by Nadja Olini, Salome Kurth, and Reto Huber assessed the relationship between cortical maturation and sleep, and further investigate how these parameters are affected by caffeine consumption. They assessed sleep and markers of maturation with electrophysiological recordings, and behavioral and structural readouts in juvenile rats. Their results showed slow wave activity similar to humans in that caffeine treatment exerted short-term stimulating effects and altered the trajectory of slow wave activity. Furthermore, mild caffeine affected sleep and resulted in alterations and maturational parameters. Ultimately, the study showed that caffeine consumption during a critical developmental period shows long-lasting effects on sleep and brain maturation.<p></p><p></p> 

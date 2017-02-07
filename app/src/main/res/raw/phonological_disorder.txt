@@ -1,0 +1,72 @@
+
+
+
+<b>Speech disorders</b> or <b>speech impediments</b> are a type of communication disorder where 'normal' speech is disrupted. This can mean stuttering, lisps, etc. Someone who is unable to speak due to a speech disorder is considered mute.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Classification</span>
+<ul>
+<li class="toclevel-2 tocsection-2"><span class="tocnumber">1.1</span> <span class="toctext">Types of disorder</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">2</span> <span class="toctext">Causes</span></li>
+<li class="toclevel-1 tocsection-4"><span class="tocnumber">3</span> <span class="toctext">Treatment</span></li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">4</span> <span class="toctext">Social effects</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">5</span> <span class="toctext">Language disorders</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">6</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-8"><span class="tocnumber">7</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-9"><span class="tocnumber">8</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Classification">Classification</span></h2>
+Classifying speech into normal and disordered is more problematic than it first seems. By a strict classification, only 5% to 10% of the population has a completely normal manner of speaking (with respect to all parameters) and healthy voice; all others suffer from one disorder or another.<p></p>
+There are three different levels of classification when determining the magnitude and type of a speech disorders and the proper treatment or therapy:<p></p>
+<ol>
+<li>Sounds the patient can produce
+<ol>
+<li>Phonemic – can be produced easily; used meaningfully and constructively</li>
+<li>Phonetic – produced only upon request; not used consistently, meaningfully, or constructively; not used in connected speech</li>
+</ol>
+</li>
+<li>Stimulate sounds
+<ol>
+<li>Easily stimulated</li>
+<li>Stimulate after demonstration and probing (i.e. with a tongue depressor)</li>
+</ol>
+</li>
+<li>Cannot produce the sound
+<ol>
+<li>Cannot be produced voluntarily</li>
+<li>No production ever observed</li>
+</ol>
+</li>
+</ol>
+<h3><span class="mw-headline" id="Types_of_disorder">Types of disorder</span></h3>
+<ul>
+<li>Apraxia of speech may result from stroke or progressive illness, and involves inconsistent production of speech sounds and rearranging of sounds in a word ("potato" may become "topato" and next "totapo"). Production of words becomes more difficult with effort, but common phrases may sometimes be spoken spontaneously without effort.</li>
+<li>Cluttering, a speech and fluency disorder characterized primarily by a rapid rate of speech, which makes speech difficult to understand.</li>
+<li>Developmental verbal dyspraxia also known as childhood apraxia of speech.</li>
+<li>Dysarthria is a weakness or paralysis of speech muscles caused by damage to the nerves or brain. Dysarthria is often caused by strokes, Parkinson's disease, ALS, head or neck injuries, surgical accident, or cerebral palsy.</li>
+<li>Dysprosody is the rarest neurological speech disorder. It is characterized by alterations in intensity, in the timing of utterance segments, and in rhythm, cadence, and intonation of words. The changes to the duration, the fundamental frequency, and the intensity of tonic and atonic syllables of the sentences spoken, deprive an individual's particular speech of its characteristics. The cause of dysprosody is usually associated with neurological pathologies such as brain vascular accidents, cranioencephalic traumatisms, and brain tumors.</li>
+<li>Muteness is complete inability to speak.</li>
+<li>Speech sound disorders involve difficulty in producing specific speech sounds (most often certain consonants, such as /s/ or /r/), and are subdivided into articulation disorders (also called phonetic disorders) and phonemic disorders. Articulation disorders are characterized by difficulty learning to produce sounds physically. Phonemic disorders are characterized by difficulty in learning the sound distinctions of a language, so that one sound may be used in place of many. However, it is not uncommon for a single person to have a mixed speech sound disorder with both phonemic and phonetic components.</li>
+<li>Stuttering affects approximately 1% of the adult population.</li>
+<li>Voice disorders are impairments, often physical, that involve the function of the larynx or vocal resonance.</li>
+</ul>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+In most cases the cause is unknown. However, there are various known causes of speech impediments, such as "hearing loss, neurological disorders, brain injury, intellectual disability, drug abuse, physical impairments such as cleft lip and palate, and vocal abuse or misuse."<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+
+Many of these types of disorders can be treated by speech therapy, but others require medical attention by a doctor in phoniatrics. Other treatments include correction of organic conditions and psychotherapy.<p></p>
+In the United States, school-age children with a speech disorder are often placed in special education programs. Children who struggle to learn to talk often experience persistent communication difficulties in addition to academic struggles. More than 700,000 of the students served in the public schools’ special education programs in the 2000-2001 school year were categorized as having a speech or language impediment. This estimate does not include children who have speech and language impairments secondary to other conditions such as deafness". Many school districts provide the students with speech therapy during school hours, although extended day and summer services may be appropriate under certain circumstances.<p></p>
+Patients will be treated in teams, depending on the type of disorder they have. A team can include SLPs, specialists, family doctors, teachers,and family members.<p></p>
+<h2><span class="mw-headline" id="Social_effects">Social effects</span></h2>
+Suffering from a speech disorder can have negative social effects, especially among young children. Those with a speech disorder can be targets of bullying because of their disorder. The bullying can result in decreased self-esteem.<p></p>
+<h2><span class="mw-headline" id="Language_disorders">Language disorders</span></h2>
+Language disorders are usually considered distinct from speech disorders, even though they are often used synonymously.<p></p>
+Speech disorders refer to problems in producing the sounds of speech or with the quality of voice, where language disorders are usually an impairment of either understanding words or being able to use words and do not have to do with speech production.<p></p><p></p>  

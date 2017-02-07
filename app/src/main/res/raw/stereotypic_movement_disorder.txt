@@ -1,0 +1,45 @@
+
+
+<b>Stereotypic movement disorder</b> (<b>SMD</b>) is a motor disorder with onset in childhood involving repetitive, nonfunctional motor behavior (e.g., hand waving or head banging), that markedly interferes with normal activities or results in bodily injury. The behavior must not be due to the direct effects of a substance or another medical condition. The cause of this disorder is not known.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Classification</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Signs and symptoms</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">3.1</span> <span class="toctext">Differential diagnosis</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></li>
+<li class="toclevel-1 tocsection-6"><span class="tocnumber">5</span> <span class="toctext">Prognosis</span></li>
+<li class="toclevel-1 tocsection-7"><span class="tocnumber">6</span> <span class="toctext">Epidemiology</span></li>
+<li class="toclevel-1 tocsection-8"><span class="tocnumber">7</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-9"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Classification">Classification</span></h2>
+Stereotypic movement disorder is classified in the fifth revision of the <i>Diagnostic and Statistical Manual of Mental Disorders</i> (DSM-5) as a motor disorder, in the category of neurodevelopmental disorders.<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span></h2>
+Common repetitive movements of SMD include head banging, arm waving, hand shaking, rocking and rhythmic movements, self-biting, self-hitting, skin-picking; other stereotypies are thumb-sucking, nail biting, trichotillomania, bruxism and abnormal running or skipping.<p></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+Stereotyped movements are common in infants and young children; if the child is not distressed by movements and daily activities are not impaired, diagnosis is not warranted. When stereotyped behaviors cause significant impairment in functioning, an evaluation for stereotypic movement disorder is warranted. There are no specific tests for diagnosing this disorder, although some tests may be ordered to rule out other conditions. SMD may occur with Lesch-Nyhan syndrome, intellectual disability, and fetal alcohol exposure or as a result of amphetamine intoxication.<p></p>
+When diagnosing stereotypic movement disorder, DSM-5 calls for specification of:<p></p>
+<ul>
+<li>with or without self-injurious behavior;</li>
+<li>association with another known medical condition or environmental factor;</li>
+<li>severity (mild, moderate or severe).</li>
+</ul>
+<h3><span class="mw-headline" id="Differential_diagnosis">Differential diagnosis</span></h3>
+Other conditions which feature repetitive behaviors in the differential diagnosis include autism spectrum disorders, obsessive–compulsive disorder, tic disorders (e.g., Tourette syndrome), and other conditions including dyskinesias.<p></p>
+Stereotypic movement disorder is often misdiagnosed as tics or Tourette syndrome (TS). Unlike the tics of TS, which tend to appear around age six or seven, repetitive movements typically start before age three, are more bilateral than tics, and consist of intense patterns of movement for longer runs than tics. Tics are less likely to be stimulated by excitement. Children with stereotypic movement disorder do not always report being bothered by the movements as a child with tics might.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+There is no consistently effective medication for SMD, and there is little evidence for any effective treatment. In non-autistic or "typically developing children", habit reversal training may be useful. No treatment is an option when movements are not interfering with daily life.<p></p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span></h2>
+Prognosis depends on the severity of the disorder. Recognizing symptoms early can help reduce the risk of self-injury, which can be lessened with medications. Stereotypic movement disorder due to head trauma may be permanent.<p></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span></h2>
+Although not necessary for the diagnosis, individuals with intellectual disability are at higher risk for SMD. It is more common in boys, and can occur at any age.<p></p><p></p>  

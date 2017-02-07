@@ -1,0 +1,137 @@
+ 
+
+
+<b>Schizotypal personality disorder</b> (<b>STPD</b>) or <b>schizotypal disorder</b> is a mental disorder characterized by severe social anxiety, paranoia, and often unconventional beliefs. People with this disorder feel extreme discomfort with maintaining close relationships with people, mainly because they think that their peers harbor negative thoughts towards them, so they avoid forming them. Peculiar speech mannerisms and odd modes of dress are also symptoms of this disorder. Those with STPD may react oddly in conversations, not respond or talk to themselves. Some have a tendency to drift aimlessly and lead an idle, unproductive life.<p></p>
+They frequently interpret situations as being strange or having unusual meaning for them; paranormal and superstitious beliefs are common. Such people frequently seek medical attention for anxiety or depression instead of their personality disorder. Schizotypal personality disorder occurs in approximately 3% of the general population and is more common in males.<p></p>
+The term "<i>schizotype"</i> was first coined by Sandor Rado in 1956 as an abbreviation of <i>"schizophrenic phenotype"</i>. STPD is classified as a cluster A personality disorder ("odd or eccentric disorders") and is considered to be the most impairing disorder in this cluster.<p></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><span class="tocnumber">1</span> <span class="toctext">Causes</span></li>
+<li class="toclevel-1 tocsection-2"><span class="tocnumber">2</span> <span class="toctext">Comorbidity</span></li>
+<li class="toclevel-1 tocsection-3"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span>
+<ul>
+<li class="toclevel-2 tocsection-4"><span class="tocnumber">3.1</span> <span class="toctext">DSM-5</span></li>
+<li class="toclevel-2 tocsection-5"><span class="tocnumber">3.2</span> <span class="toctext">ICD-10</span></li>
+<li class="toclevel-2 tocsection-6"><span class="tocnumber">3.3</span> <span class="toctext">Subtypes</span></li>
+<li class="toclevel-2 tocsection-7"><span class="tocnumber">3.4</span> <span class="toctext">Differential diagnosis</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><span class="tocnumber">4</span> <span class="toctext">Treatment</span>
+<ul>
+<li class="toclevel-2 tocsection-9"><span class="tocnumber">4.1</span> <span class="toctext">Medication</span></li>
+<li class="toclevel-2 tocsection-10"><span class="tocnumber">4.2</span> <span class="toctext">Therapy</span></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><span class="tocnumber">5</span> <span class="toctext">Epidemiology</span></li>
+<li class="toclevel-1 tocsection-12"><span class="tocnumber">6</span> <span class="toctext">See also</span></li>
+<li class="toclevel-1 tocsection-13"><span class="tocnumber">7</span> <span class="toctext">References</span></li>
+<li class="toclevel-1 tocsection-14"><span class="tocnumber">8</span> <span class="toctext">External links</span></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+<b>Genetic</b><p></p>
+Schizotypal personality disorder is widely understood to be a "schizophrenia spectrum" disorder. Rates of schizotypal personality disorder are much higher in relatives of individuals with schizophrenia than in the relatives of people with other mental illnesses or in people without mentally ill relatives. Technically speaking, schizotypal personality disorder may also be considered an "extended phenotype" that helps geneticists track the familial or genetic transmission of the genes that are implicated in schizophrenia. But there is also a genetic connection of STPD to mood disorders and depression in particular.<p></p>
+<b>Social and environmental</b><p></p>
+There is now evidence to suggest that parenting styles, early separation, trauma/maltreatment history (especially early childhood neglect) can lead to the development of schizotypal traits. Neglect or abuse, trauma, or family dysfunction during childhood can increase the risk of developing schizotypal personality disorder. Over time, children learn to interpret social cues and respond appropriately but for unknown reasons this process does not work well for people with this disorder.<p></p>
+Schizotypal personality disorders are characterized by a common attentional impairment in various degrees. A study suggested that attention deficits could serve as a marker of biological susceptibility to schizotypal personality disorder. The reason is that an individual who has difficulties taking in information may find it difficult in complicated social situations where interpersonal cues and attentive communications are essential for quality interaction. This might eventually cause the individual to withdraw from most social interactions, thus leading to asociality.<p></p>
+<h2><span class="mw-headline" id="Comorbidity">Comorbidity</span></h2>
+Schizotypal personality disorder usually co-occurs with major depressive disorder, dysthymia, and generalized social phobia. Furthermore, sometimes schizotypal personality disorder can co-occur with obsessive-compulsive disorder, and its presence appears to affect treatment outcome adversely. The personality disorders that tend to occur most often with schizotypal personality disorder are schizoid, paranoid, avoidant, and borderline.<p></p>
+Some persons with schizotypal personality disorders go on to develop schizophrenia, but most of them do not. Although STPD symptomatology has been studied longitudinally in a number of community samples, the results received do not suggest any significant likelihood of the development of schizophrenia. There are dozens of studies showing that individuals with schizotypal personality disorder score similar to individuals with schizophrenia on a very wide range of neuropsychological tests. Cognitive deficits in patients with schizotypal personality disorder are very similar to, but quantitatively milder than, those for patients with schizophrenia. A 2004 study, however, reported neurological evidence that did "not entirely support the model that SPD is simply an attenuated form of schizophrenia".<p></p>
+In case of methamphetamine use, persons with schizotypal personality disorders are at great risk of developing permanent psychosis.<p></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span></h2>
+<h3><span class="mw-headline" id="DSM-5">DSM-5</span></h3>
+In the American Psychiatric Association's DSM-5, schizotypal personality disorder is defined as a "pervasive pattern of social and interpersonal deficits marked by acute discomfort with, and reduced capacity for, close relationships as well as by cognitive or perceptual distortions and eccentricities of behavior, beginning by early adulthood and present in a variety of contexts."<p></p>
+At least five of the following symptoms must be present: ideas of reference, strange beliefs or magical thinking, abnormal perceptual experiences, strange thinking and speech, paranoia, inappropriate or constricted affect, strange behavior or appearance, lack of close friends, and excessive social anxiety that does not abate and stems from paranoia rather than negative judgments about self. These symptoms must not occur only during the course of a disorder with similar symptoms (such as schizophrenia or autism spectrum disorder).<p></p>
+<h3><span class="mw-headline" id="ICD-10">ICD-10</span></h3>
+The World Health Organization's ICD-10 uses the name <i>schizotypal disorder</i> (F21). It is classified as a clinical disorder associated with schizophrenia, rather than a personality disorder as in DSM-5.<p></p>
+The ICD definition is:<p></p>
+<dl>
+<dd>A disorder characterized by eccentric behavior and anomalies of thinking and affect which resemble those seen in schizophrenia, though no definite and characteristic schizophrenic anomalies have occurred at any stage. There is no dominant or typical disturbance, but any of the following may be present:</dd>
+</dl>
+<dl>
+<dd>
+<ul>
+<li>Inappropriate or constricted affect (the individual appears cold and aloof);</li>
+<li>Behavior or appearance that is odd, eccentric or peculiar;</li>
+<li>Poor rapport with others and a tendency to withdraw socially;</li>
+<li>Odd beliefs or magical thinking, influencing behavior and inconsistent with subcultural norms;</li>
+<li>Suspiciousness or paranoid ideas;</li>
+<li>Obsessive ruminations without inner resistance, often with dysmorphophobic, sexual or aggressive contents;</li>
+<li>Unusual perceptual experiences including somatosensory (bodily) or other illusions, depersonalization or derealization;</li>
+<li>Vague, circumstantial, metaphorical, over-elaborate or stereotyped thinking, manifested by odd speech or in other ways, without gross incoherence;</li>
+<li>Occasional transient quasi-psychotic episodes with intense illusions, auditory or other hallucinations and delusion-like ideas, usually occurring without external provocation.</li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dd>The disorder runs a chronic course with fluctuations of intensity. Occasionally it evolves into overt schizophrenia. There is no definite onset and its evolution and course are usually those of a personality disorder. It is more common in individuals related to people with schizophrenia and is believed to be part of the genetic "spectrum" of schizophrenia.</dd>
+</dl>
+<b>Diagnostic guidelines</b><p></p>
+This diagnostic rubric is not recommended for general use because it is not clearly demarcated either from simple schizophrenia or from schizoid or paranoid personality disorders, or possibly autism and aspergers as currently diagnosed. If the term is used, three or four of the typical features listed above should have been present, continuously or episodically, for at least 2 years. The individual must never have met criteria for schizophrenia itself. A history of schizophrenia in a first-degree relative gives additional weight to the diagnosis but is not a prerequisite.<p></p>
+<b>Includes</b><p></p>
+<dl>
+<dd>
+<ul>
+<li>Borderline schizophrenia</li>
+<li>Latent schizophrenia</li>
+<li>Latent schizophrenic reactions</li>
+<li>Prepsychotic schizophrenia</li>
+<li>Prodromal schizophrenia</li>
+<li>Pseudoneurotic schizophrenia</li>
+<li>Pseudopsychopathic schizophrenia</li>
+<li>Schizotypal personality disorder</li>
+</ul>
+</dd>
+</dl>
+<b>Excludes</b><p></p>
+<dl>
+<dd>
+<ul>
+<li>Schizoid personality disorder</li>
+<li>Asperger's syndrome (although differentiation may be difficult due to significant common symptoms)</li>
+</ul>
+</dd>
+</dl>
+<h3><span class="mw-headline" id="Subtypes">Subtypes</span></h3>
+Theodore Millon proposes two subtypes of schizotypal. Any individual with schizotypal personality disorder may exhibit either one of the following somewhat different subtypes <i>(</i>Note that Millon believes it is rare for a personality with one pure variant, but rather a mixture of one major variant with one or more secondary variants):<p></p>
+<table class="wikitable">
+<tbody><tr>
+<th>Subtype</th>
+<th>Description</th>
+<th>Personality Traits</th>
+</tr>
+<tr>
+<td><b>Insipid schizotypal</b></td>
+<td>A structural exaggeration of the passive-detached pattern. It includes schizoid, depressive, dependent features.</td>
+<td>Sense of strangeness and nonbeing; overtly drab, sluggish, inexpressive; internally bland, barren, indifferent, and insensitive; obscured, vague, and tangential thoughts.</td>
+</tr>
+<tr>
+<td><b>Timorous schizotypal</b></td>
+<td>A structural exaggeration of the active-detached pattern. It includes avoidant, negativistic (passive-aggressive) features.</td>
+<td>Warily apprehensive, watchful, suspicious, guarded, shrinking, deadens excess sensitivity; alienated from self and others; intentionally blocks, reverses, or disqualifies own thoughts.</td>
+</tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Differential_diagnosis">Differential diagnosis</span></h3>
+There is a high rate of comorbidity with other personality disorders. McGlashan et al. (2000) stated that this may be due to overlapping criteria with other personality disorders, such as avoidant personality disorder, paranoid personality disorder and borderline personality disorder.<p></p>
+There are many similarities between the schizotypal and schizoid personalities. Most notable of the similarities is the inability to initiate or maintain relationships (both friendly and romantic). The difference between the two seems to be that those labeled as schizotypal avoid social interaction because of a deep-seated fear of people. The schizoid individuals simply feel no desire to form relationships, because they see no point in sharing their time with others.<p></p>
+Both simple schizophrenia and STPD may share negative symptoms like avolition, impoverished thinking and flat affect. Althoug they can look very similar, the severity usually dinstinguishes them. Also, STPD is characterized by a lifelong pattern without much change whereas simple schizophrenia represents a deterioration.<p></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span></h2>
+<h3><span class="mw-headline" id="Medication">Medication</span></h3>
+STPD is rarely seen as the primary reason for treatment in a clinical setting, but it often occurs as a comorbid finding with other mental disorders. When patients with STPD are prescribed pharmaceuticals, they are most often prescribed the same drugs used to treat patients suffering from schizophrenia including traditional neuroleptics such as haloperidol and thiothixene. In order to decide which type of medication should be used, Paul Markovitz distinguishes two basic groups of schizotypal patients:<p></p>
+<ul>
+<li>Schizotypal patients who appear to be almost schizophrenic in their beliefs and behaviors (aberrant perceptions and cognitions) are usually treated with low doses of antipsychotic medications, e.g. thiothixene. However, it must be mentioned that long-term efficacy of neuroleptics is doubtful.</li>
+<li>For schizotypal patients who are more obsessive-compulsive in their beliefs and behaviors, SSRIs like Sertraline appear to be more effective.</li>
+<li>Lamotrigine, an anti-convulsant, appears to be helpful in dealing with social isolation.</li>
+</ul>
+<h3><span class="mw-headline" id="Therapy">Therapy</span></h3>
+According to Theodore Millon, the schizotypal is one of the easiest personality disorders to identify but one of the most difficult to treat with psychotherapy.Persons with STPD usually consider themselves to be simply eccentric, productive, or nonconformist. As a rule, they underestimate maladaptiveness of their social isolation and perceptual distortions. It is not so easy to gain rapport with people who suffer from STPD due to the fact that increasing familiarity and intimacy usually increase their level of anxiety and discomfort. In most cases they do not respond to informality and humor.<p></p>
+Group therapy is recommended for persons with STPD only if the group is well structured and supportive. Otherwise, it could lead to loose and tangential ideation. Support is especially important for schizotypal patients with predominant paranoid symptoms, because they will have a lot of difficulties even in highly structured groups.<p></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span></h2>
+Reported prevalence of STPD in community studies ranges from 0.6% in a Norwegian sample, to 4.6% in an American sample. A large American study found a lifetime prevalence of 3.9%, with somewhat higher rates among men (4.2%) than women (3.7%). It may be uncommon in clinical populations, with reported rates of 0% to 1.9%.<p></p>
+Together with other Cluster A personality disorders, it is also very common among homeless people.<p></p>
+A University of Colorado Colorado Springs study comparing personality disorders and Myers-Briggs Type Indicator types found that the disorder had a significant correlation with the Introverted (I), Intuitive (N), Thinking (T), and Perceiving (P) preferences.<p></p><p></p> 
