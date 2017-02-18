@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string name="language">
+Язык </string>
+
+     <string name="evaluate">
+Оцените наше приложение </string>
+
+<string name="disorders">
+Расстройства Психики</string>
+
+    <string name="typeToSearch">
+Поиск </string>
+
+    <string name="textsize100">
+Размер текста: 100% </string>
+
+    <string name="textsize">
+Размер текста:</string>
+
+</resources>

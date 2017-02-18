@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="language">
+言語 </string>
+
+    <string name="evaluate">
+アプリケーションの評価</string>
+
+<string name="disorders">
+精神障害 </string>
+
+<string name="typeToSearch">
+検索 </string>
+
+<string name="textsize100">
+Text size: 100% </string>
+
+
+<string name="textsize">
+Text size:</string>
+
+
+
+</resources>

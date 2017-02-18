@@ -1,0 +1,821 @@
+[
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%B0%D1%8F_%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B5%D1%81%D1%81",
+    "file": "ru_adjustment_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Adjustment_disorder",
+    "h1": "Острая реакция на стресс"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+    "file": "ru_anti_social_behaviour",
+    "en_url": "https://en.wikipedia.org/wiki/Anti-social_behaviour",
+    "h1": "Антисоциальность"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%BE%D1%80%D0%B0%D1%84%D0%BE%D0%B1%D0%B8%D1%8F",
+    "file": "ru_agoraphobia",
+    "en_url": "https://en.wikipedia.org/wiki/Agoraphobia",
+    "h1": "Агорафобия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B1%D1%81%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC",
+    "file": "ru_alcohol_withdrawal",
+    "en_url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal",
+    "h1": "Алкогольный абстинентный синдром"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%B7%D1%8B#.D0.90.D0.BB.D0.BA.D0.BE.D0.B3.D0.BE.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.B3.D0.B0.D0.BB.D0.BB.D1.8E.D1.86.D0.B8.D0.BD.D0.BE.D0.B7.D1.8B",
+    "file": "ru_alcoholic_hallucinosis",
+    "en_url": "https://en.wikipedia.org/wiki/Alcoholic_hallucinosis",
+    "h1": "Металкогольные психозы"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C_%D0%90%D0%BB%D1%8C%D1%86%D0%B3%D0%B5%D0%B9%D0%BC%D0%B5%D1%80%D0%B0",
+    "file": "ru_alzheimers_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "h1": "Болезнь Альцгеймера"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+    "file": "ru_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Amnesia",
+    "h1": "Амнезия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%BE%D1%80%D0%B5%D0%BA%D1%81%D0%B8%D1%8F",
+    "file": "ru_anorexia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Anorexia_nervosa",
+    "h1": "Нервная анорексия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+    "file": "ru_anterograde_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Anterograde_amnesia",
+    "h1": "Антероградная амнезия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_antisocial_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Antisocial_personality_disorder",
+    "h1": "Диссоциальное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%B4%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82%D0%B0_%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_attention_deficit_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_disorder",
+    "h1": "Синдром дефицита внимания и гиперактивности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%B4%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82%D0%B0_%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_attention_deficit_hyperactivity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+    "h1": "Синдром дефицита внимания и гиперактивности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%83%D1%82%D0%B8%D0%B7%D0%BC",
+    "file": "ru_autism",
+    "en_url": "https://en.wikipedia.org/wiki/Autism",
+    "h1": "Аутизм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B2%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_avoidant_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Avoidant_personality_disorder",
+    "h1": "Тревожное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC_(%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)",
+    "file": "ru_atelophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Atelophobia",
+    "h1": "Перфекционизм (психология)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%90%D1%81%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%B0",
+    "file": "ru_asperger_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Asperger_syndrome",
+    "h1": "Синдром Аспергера"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B8%D1%82%D1%83%D1%80%D0%B8%D0%B7%D0%BC",
+    "file": "ru_barbiturate_dependence",
+    "en_url": "https://en.wikipedia.org/wiki/Barbiturate_dependence",
+    "h1": "Барбитуризм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B5_(%D1%8D%D0%BC%D0%BE%D1%86%D0%B8%D1%8F)",
+    "file": "ru_bereavement",
+    "en_url": "https://en.wikipedia.org/wiki/Bereavement",
+    "h1": "Горе (эмоция)"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5",
+    "file": "ru_binge_eating_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Binge_eating_disorder",
+    "h1": "Психогенное переедание"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D0%B0%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_bipolar_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Bipolar_disorder",
+    "h1": "Биполярное аффективное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D1%82%D0%B8%D0%BF%D0%B0",
+    "file": "ru_bipolar_ii_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Bipolar_II_disorder",
+    "h1": "Биполярное расстройство второго типа"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BC%D0%BE%D1%80%D1%84%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F",
+    "file": "ru_body_dysmorphic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Body_dysmorphic_disorder",
+    "h1": "Дисморфофобия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_borderline_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Borderline_personality_disorder",
+    "h1": "Пограничное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D0%BB%D0%B8%D0%BC%D0%B8%D1%8F",
+    "file": "ru_bulimia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Bulimia_nervosa",
+    "h1": "Нервная булимия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%82%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC",
+    "file": "ru_catatonic",
+    "en_url": "https://en.wikipedia.org/wiki/Catatonic",
+    "h1": "Кататонический синдром"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D1%82%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC",
+    "file": "ru_catatonia",
+    "en_url": "https://en.wikipedia.org/wiki/Catatonia",
+    "h1": "Кататонический синдром"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%83%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F",
+    "file": "ru_claustrophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Claustrophobia",
+    "h1": "Клаустрофобия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_communication_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Communication_disorder",
+    "h1": "Коммуникативное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%9A%D0%BE%D1%82%D0%B0%D1%80%D0%B0",
+    "file": "ru_cotard_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Cotard_delusion",
+    "h1": "Синдром Котара"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D1%82%D0%B8%D0%BC%D0%B8%D1%8F",
+    "file": "ru_cyclothymia",
+    "en_url": "https://en.wikipedia.org/wiki/Cyclothymia",
+    "h1": "Циклотимия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%B8%D0%B9",
+    "file": "ru_delirium_tremens",
+    "en_url": "https://en.wikipedia.org/wiki/Delirium_tremens",
+    "h1": "Алкогольный делирий"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%B4%D0%B5%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%E2%80%94_%D0%B4%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8",
+    "file": "ru_depersonalization_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depersonalization_disorder",
+    "h1": "Синдром деперсонализации — дереализации"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depressive_disorder",
+    "h1": "Большое депрессивное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+    "file": "ru_derealization",
+    "en_url": "https://en.wikipedia.org/wiki/Derealization",
+    "h1": "Дереализация"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%82%D0%BB%D0%B0%D0%B3",
+    "file": "ru_desynchronosis",
+    "en_url": "https://en.wikipedia.org/wiki/Desynchronosis",
+    "h1": "Джетлаг"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%94%D0%B8%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0",
+    "file": "ru_diogenes_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Diogenes_Syndrome",
+    "h1": "Синдром Диогена"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B0%D0%BA%D1%82",
+    "file": "ru_dispareunia",
+    "en_url": "https://en.wikipedia.org/wiki/Dispareunia",
+    "h1": "Болезненный половой акт"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_dissociative_identity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Dissociative_identity_disorder",
+    "h1": "Диссоциативное расстройство идентичности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D1%8F",
+    "file": "ru_dyslexia",
+    "en_url": "https://en.wikipedia.org/wiki/Dyslexia",
+    "h1": "Дислексия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%BE%D0%B7%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B1%D1%80%D0%B5%D0%B4",
+    "file": "ru_delusional_parasitosis",
+    "en_url": "https://en.wikipedia.org/wiki/Delusional_parasitosis",
+    "h1": "Дерматозойный бред"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BA%D0%BE%D0%BF%D1%80%D0%B5%D0%B7",
+    "file": "ru_encopresis",
+    "en_url": "https://en.wikipedia.org/wiki/Encopresis",
+    "h1": "Энкопрез"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BB%D0%B5%D0%BF%D1%81%D0%B8%D1%8F",
+    "file": "ru_epilepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Epilepsy",
+    "h1": "Эпилепсия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BE%D1%82%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_erotomania",
+    "en_url": "https://en.wikipedia.org/wiki/Erotomania",
+    "h1": "Эротомания"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D1%81%D0%B3%D0%B8%D0%B1%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC",
+    "file": "ru_exhibitionism",
+    "en_url": "https://en.wikipedia.org/wiki/Exhibitionism",
+    "h1": "Эксгибиционизм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%A4%D1%80%D0%B5%D0%B3%D0%BE%D0%BB%D0%B8",
+    "file": "ru_fregoli_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Fregoli_delusion",
+    "h1": "Синдром Фреголи"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D1%84%D1%83%D0%B3%D0%B0",
+    "file": "ru_fugue_state",
+    "en_url": "https://en.wikipedia.org/wiki/Fugue_State",
+    "h1": "Диссоциативная фуга"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%B2%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_generalized_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Generalized_anxiety_disorder",
+    "h1": "Тревожное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D1%81%D1%81",
+    "file": "ru_general_adaptation_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/General_adaptation_syndrome",
+    "h1": "Стресс"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%B4_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D1%8F",
+    "file": "ru_grandiose_delusions",
+    "en_url": "https://en.wikipedia.org/wiki/Grandiose_delusions",
+    "h1": "Бред величия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BB%D1%8E%D1%86%D0%B8%D0%BD%D0%BE%D0%B3%D0%B5%D0%BD%D1%8B",
+    "file": "ru_hallucinogen",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen",
+    "h1": "Галлюциногены"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%81%D0%B8%D1%85%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE,_%D0%B2%D1%8B%D0%B7%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B3%D0%B0%D0%BB%D0%BB%D1%8E%D1%86%D0%B8%D0%BD%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%D0%BC%D0%B8",
+    "file": "ru_hallucinogen_persisting_perception_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen_persisting_perception_disorder",
+    "h1": "Длительное психическое расстройство, вызванное галлюциногенами"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_histrionic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Histrionic_personality_disorder",
+    "h1": "Истерическое расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C_%D0%93%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD%D0%B0",
+    "file": "ru_huntingtons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Huntington%27s_disease",
+    "h1": "Болезнь Гентингтона"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_hypomanic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Hypomanic_episode",
+    "h1": "Гипомания"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BF%D0%BE%D1%85%D0%BE%D0%BD%D0%B4%D1%80%D0%B8%D1%8F",
+    "file": "ru_hypochondriasis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypochondriasis",
+    "h1": "Ипохондрия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%8F",
+    "file": "ru_hysteria",
+    "en_url": "https://en.wikipedia.org/wiki/Hysteria",
+    "h1": "Истерия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0",
+    "file": "ru_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Insomnia",
+    "h1": "Бессонница"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D0%BF%D1%82%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_kleptomania",
+    "en_url": "https://en.wikipedia.org/wiki/Kleptomania",
+    "h1": "Клептомания"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%9A%D0%BE%D1%80%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0",
+    "file": "ru_korsakoffs_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome",
+    "h1": "Синдром Корсакова"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+    "file": "ru_lacunar_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Lacunar_amnesia",
+    "h1": "Амнезия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_major_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+    "h1": "Большое депрессивное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B8%D1%81%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F",
+    "file": "ru_male_erectile_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Male_erectile_disorder",
+    "h1": "Эректильная дисфункция"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC",
+    "file": "ru_manic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Manic_episode",
+    "h1": "Маниакальный синдром"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D0%B8%D1%8F",
+    "file": "ru_mathematics_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Mathematics_disorder",
+    "h1": "Дискалькулия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D0%B0%D0%BD%D1%85%D0%BE%D0%BB%D0%B8%D1%8F",
+    "file": "ru_melancholia",
+    "en_url": "https://en.wikipedia.org/wiki/Melancholia",
+    "h1": "Меланхолия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F",
+    "file": "ru_minor_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Minor_depressive_disorder",
+    "h1": "Малая депрессия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81%D0%BE%D1%84%D0%BE%D0%BD%D0%B8%D1%8F",
+    "file": "ru_misophonia",
+    "en_url": "https://en.wikipedia.org/wiki/Misophonia",
+    "h1": "Мисофония"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0",
+    "file": "ru_mood_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Mood_disorder",
+    "h1": "Аффективные расстройства"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%9C%D1%8E%D0%BD%D1%85%D0%B3%D0%B0%D1%83%D0%B7%D0%B5%D0%BD%D0%B0",
+    "file": "ru_munchausens_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Munchausen%27s_syndrome",
+    "h1": "Синдром Мюнхгаузена"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BA%D0%BE%D0%BB%D0%B5%D0%BF%D1%81%D0%B8%D1%8F",
+    "file": "ru_narcolepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Narcolepsy",
+    "h1": "Нарколепсия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D1%86%D0%B8%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_narcissistic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Narcissistic_personality_disorder",
+    "h1": "Нарциссическое расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D0%B5%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_obsessive_compulsive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_disorder",
+    "h1": "Обсессивно-компульсивное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BD%D0%BA%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_obsessive_compulsive_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_personality_disorder",
+    "h1": "Ананкастное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
+    "file": "ru_oneirophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Oneirophrenia",
+    "h1": "Онейрофрения"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B8%D0%BE%D0%B8%D0%B4%D1%8B",
+    "file": "ru_opioid",
+    "en_url": "https://en.wikipedia.org/wiki/Opioid",
+    "h1": "Опиоиды"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%82%D0%BE%D1%80%D0%B5%D0%BA%D1%81%D0%B8%D1%8F",
+    "file": "ru_orthorexia",
+    "en_url": "https://en.wikipedia.org/wiki/Orthorexia",
+    "h1": "Нервная орторексия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_panic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Panic_disorder",
+    "h1": "Паническое расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_paranoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Paranoid_personality_disorder",
+    "h1": "Параноидное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%BC%D0%BD%D0%B8%D1%8F",
+    "file": "ru_parasomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Parasomnia",
+    "h1": "Парасомния"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C_%D0%9F%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD%D0%B0",
+    "file": "ru_parkinsons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Parkinson%27s_Disease",
+    "h1": "Болезнь Паркинсона"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B4%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_pathological_gambling",
+    "en_url": "https://en.wikipedia.org/wiki/Pathological_gambling",
+    "h1": "Лудомания"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%B4_%D0%BF%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_persecutory_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Persecutory_delusion",
+    "h1": "Бред преследования"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Personality_disorder",
+    "h1": "Расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D0%B7%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9",
+    "file": "ru_pervasive_developmental_disorder_not_otherwise_specified",
+    "en_url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder_not_otherwise_specified",
+    "h1": "Первазивное расстройство развития без дополнительных уточнений"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%B8%D0%B4%D0%B8%D0%BD",
+    "file": "ru_phencyclidine",
+    "en_url": "https://en.wikipedia.org/wiki/Phencyclidine",
+    "h1": "Фенциклидин"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%B1%D0%B8%D1%8F",
+    "file": "ru_phobic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Phobic_disorder",
+    "h1": "Фобия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BA%D1%83%D1%81%D0%B0",
+    "file": "ru_pica_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Pica_(disorder)",
+    "h1": "Извращение вкуса"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%B7",
+    "file": "ru_psychosis",
+    "en_url": "https://en.wikipedia.org/wiki/Psychosis",
+    "h1": "Психоз"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D1%82%D1%80%D0%B0%D0%B2%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D1%80%D0%B5%D1%81%D1%81%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_posttraumatic_stress_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder",
+    "h1": "Посттравматическое стрессовое расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D1%8F%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F",
+    "file": "ru_premature_ejaculation",
+    "en_url": "https://en.wikipedia.org/wiki/Premature_ejaculation",
+    "h1": "Преждевременная эякуляция"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BC%D0%BD%D0%B8%D1%8F",
+    "file": "ru_primary_hypersomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Primary_hypersomnia",
+    "h1": "Идиопатическая гиперсомния"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0",
+    "file": "ru_primary_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Primary_insomnia",
+    "h1": "Бессонница"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+    "file": "ru_psychogenic_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Psychogenic_amnesia",
+    "h1": "Диссоциативная амнезия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%B7",
+    "file": "ru_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Psychotic_disorder",
+    "h1": "Психоз"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_pyromania",
+    "en_url": "https://en.wikipedia.org/wiki/Pyromania",
+    "h1": "Пиромания"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_reactive_attachment_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Reactive_attachment_disorder",
+    "h1": "Реактивное расстройство привязанности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
+    "file": "ru_residual_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Residual_schizophrenia",
+    "h1": "Шизофрения"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BC%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F",
+    "file": "ru_retrograde_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Retrograde_amnesia",
+    "h1": "Ретроградная амнезия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D0%B0%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_schizoaffective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoaffective_disorder",
+    "h1": "Шизоаффективное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D0%B8%D0%B4%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+    "file": "ru_schizoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoid_personality_disorder",
+    "h1": "Шизоидное расстройство личности"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
+    "file": "ru_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "h1": "Шизофрения"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_schizophreniform_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizophreniform_disorder",
+    "h1": "Шизофреноформное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%B7%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_schizotypal_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizotypal_personality_disorder",
+    "h1": "Шизотипическое расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B4%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0",
+    "file": "ru_sedative",
+    "en_url": "https://en.wikipedia.org/wiki/Sedative",
+    "h1": "Седативные средства"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BF%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D0%B5%D0%B2%D0%BE%D0%B3%D0%B0",
+    "file": "ru_separation_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Separation_anxiety_disorder",
+    "h1": "Сепарационная тревога"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%82%D1%81%D1%82%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D1%8C",
+    "file": "ru_severe_mental_retardation",
+    "en_url": "https://en.wikipedia.org/wiki/Severe_mental_retardation",
+    "h1": "Умственная отсталость"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D1%83%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B1%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_shared_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Shared_psychotic_disorder",
+    "h1": "Индуцированное бредовое расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D1%83%D0%B6%D0%B0%D1%81",
+    "file": "ru_sleep_terror_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_terror_disorder",
+    "h1": "Ночной ужас"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%BD%D0%B0%D0%BC%D0%B1%D1%83%D0%BB%D0%B8%D0%B7%D0%BC",
+    "file": "ru_sleepwalking_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleepwalking_disorder",
+    "h1": "Сомнамбулизм"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%B8%D1%87",
+    "file": "ru_sleep_paralysis",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+    "h1": "Сонный паралич"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F",
+    "file": "ru_social_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Social_anxiety_disorder",
+    "h1": "Социофобия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F",
+    "file": "ru_social_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Social_phobia",
+    "h1": "Социофобия"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE",
+    "file": "ru_somatization_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Somatization_disorder",
+    "h1": "Соматизированное расстройство"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D1%81%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F",
+    "file": "ru_somatoform_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Somatoform_disorder",
+    "h1": "Психосоматические заболевания"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%BE%D0%B1%D0%B8%D0%B8",
+    "file": "ru_specific_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Specific_phobia",
+    "h1": "Специфические фобии"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC",
+    "file": "ru_stockholm_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Stockholm_syndrome",
+    "h1": "Стокгольмский синдром"
+  },
+  {
+    "lang": "ru",
+    "url": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B8%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5",
+    "file": "ru_stuttering",
+    "en_url": "https://en.wikipedia.org/wiki/Stuttering",
+    "h1": "Заикание"
+  }
+]

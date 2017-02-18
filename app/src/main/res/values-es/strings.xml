@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+       <string name="language">
+Idioma </string>
+
+    <string name="evaluate">
+Evaluar la aplicación</string>
+
+<string name="disorders">
+Desordenes mentales </string>
+
+<string name="typeToSearch">
+Buscar </string>
+
+<string name="textsize100">
+Text size: 100% </string>
+
+
+<string name="textsize">
+Text size:</string>
+
+
+
+
+</resources>

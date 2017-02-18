@@ -1,0 +1,695 @@
+[
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E7%A4%BE%E6%9C%83%E8%A1%8C%E7%82%BA",
+    "file": "zh_anti_social_behaviour",
+    "en_url": "https://en.wikipedia.org/wiki/Anti-social_behaviour",
+    "h1": "反社會行為"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BB%A3%E5%A0%B4%E6%81%90%E6%87%BC%E7%97%87",
+    "file": "zh_agoraphobia",
+    "en_url": "https://en.wikipedia.org/wiki/Agoraphobia",
+    "h1": "廣場恐懼症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%85%92%E7%B2%BE%E4%BE%9D%E8%B3%B4",
+    "file": "zh_alcohol_dependence",
+    "en_url": "https://en.wikipedia.org/wiki/Alcohol_dependence",
+    "h1": "酒精依賴"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%85%92%E7%B2%BE%E6%88%92%E6%96%B7%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "zh_alcohol_withdrawal",
+    "en_url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal",
+    "h1": "酒精戒斷症候群"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%85",
+    "file": "zh_alzheimers_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "h1": "阿兹海默病"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%B1%E6%86%B6%E7%97%87",
+    "file": "zh_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Amnesia",
+    "h1": "失憶症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%BB%8F%E6%80%A7%E5%8E%8C%E9%A3%9F%E7%97%87",
+    "file": "zh_anorexia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Anorexia_nervosa",
+    "h1": "神经性厌食症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A1%BA%E8%A1%8C%E6%80%A7%E9%81%97%E5%BF%98%E7%97%87",
+    "file": "zh_anterograde_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Anterograde_amnesia",
+    "h1": "顺行性遗忘症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E7%A4%BE%E4%BC%9A%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A2%8D",
+    "file": "zh_antisocial_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Antisocial_personality_disorder",
+    "h1": "反社会人格障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87",
+    "file": "zh_attention_deficit_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_disorder",
+    "h1": "注意力不足過動症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87",
+    "file": "zh_attention_deficit_hyperactivity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+    "h1": "注意力不足過動症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E9%96%89%E7%97%87",
+    "file": "zh_autism",
+    "en_url": "https://en.wikipedia.org/wiki/Autism",
+    "h1": "自閉症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BF%B4%E9%81%BF%E6%80%A7%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A4%99",
+    "file": "zh_avoidant_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Avoidant_personality_disorder",
+    "h1": "迴避性人格障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89",
+    "file": "zh_atelophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Atelophobia",
+    "h1": "完美主义"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "zh_asperger_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Asperger_syndrome",
+    "h1": "亞斯伯格症候群"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%96%AA%E6%85%9F",
+    "file": "zh_bereavement",
+    "en_url": "https://en.wikipedia.org/wiki/Bereavement",
+    "h1": "喪慟"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%97%8F%E4%B9%A6%E7%99%96",
+    "file": "zh_bibliomania",
+    "en_url": "https://en.wikipedia.org/wiki/Bibliomania",
+    "h1": "藏书癖"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%81%8E%E8%83%96%E6%9A%B4%E9%A3%9F%E7%97%87",
+    "file": "zh_binge_eating_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Binge_eating_disorder",
+    "h1": "過胖暴食症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BA%81%E9%AC%B1%E7%97%87",
+    "file": "zh_bipolar_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Bipolar_disorder",
+    "h1": "躁鬱症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BA%AB%E9%AB%94%E7%95%B8%E5%BD%A2%E6%81%90%E6%87%BC%E7%97%87",
+    "file": "zh_body_dysmorphic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Body_dysmorphic_disorder",
+    "h1": "身體畸形恐懼症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BE%B9%E7%BC%98%E6%80%A7%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A2%8D",
+    "file": "zh_borderline_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Borderline_personality_disorder",
+    "h1": "边缘性人格障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%B6%93%E6%80%A7%E6%9A%B4%E9%A3%9F%E7%97%87",
+    "file": "zh_bulimia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Bulimia_nervosa",
+    "h1": "神經性暴食症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B4%A7%E5%BC%A0%E6%80%A7%E6%8A%91%E9%83%81%E9%9A%9C%E7%A2%8D",
+    "file": "zh_catatonic",
+    "en_url": "https://en.wikipedia.org/wiki/Catatonic",
+    "h1": "紧张性抑郁障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B4%A7%E5%BC%A0%E6%80%A7%E6%8A%91%E9%83%81%E9%9A%9C%E7%A2%8D",
+    "file": "zh_catatonia",
+    "en_url": "https://en.wikipedia.org/wiki/Catatonia",
+    "h1": "紧张性抑郁障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%99%9D%E5%A4%9C%E7%AF%80%E5%BE%8B%E6%80%A7%E7%9D%A1%E7%9C%A0%E9%9A%9C%E7%A4%99",
+    "file": "zh_circadian_rhythm_sleep_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Circadian_rhythm_sleep_disorder",
+    "h1": "晝夜節律性睡眠障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%B9%BD%E9%97%AD%E6%81%90%E6%83%A7%E7%97%87",
+    "file": "zh_claustrophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Claustrophobia",
+    "h1": "幽闭恐惧症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%93%81%E8%A1%8C%E9%9A%9C%E7%A2%8D",
+    "file": "zh_conduct_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Conduct_disorder",
+    "h1": "品行障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A7%91%E5%A1%94%E7%88%BE%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "zh_cotard_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Cotard_delusion",
+    "h1": "科塔爾症候群"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%92%B0%E6%80%A7%E6%83%85%E6%84%9F%E7%97%87",
+    "file": "zh_cyclothymia",
+    "en_url": "https://en.wikipedia.org/wiki/Cyclothymia",
+    "h1": "循環性情感症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9C%87%E9%A1%AB%E6%80%A7%E8%AD%AB%E5%A6%84",
+    "file": "zh_delirium_tremens",
+    "en_url": "https://en.wikipedia.org/wiki/Delirium_tremens",
+    "h1": "震顫性譫妄"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%A0%BC%E8%A7%A3%E9%AB%94%E9%9A%9C%E7%A4%99",
+    "file": "zh_depersonalization_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depersonalization_disorder",
+    "h1": "人格解體障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%87%8D%E6%80%A7%E6%8A%91%E9%83%81%E9%9A%9C%E7%A2%8D",
+    "file": "zh_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depressive_disorder",
+    "h1": "重性抑郁障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%B1%E5%AF%A6%E7%97%87",
+    "file": "zh_derealization",
+    "en_url": "https://en.wikipedia.org/wiki/Derealization",
+    "h1": "失實症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%97%B6%E5%B7%AE%E9%97%AE%E9%A2%98",
+    "file": "zh_desynchronosis",
+    "en_url": "https://en.wikipedia.org/wiki/Desynchronosis",
+    "h1": "时差问题"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E4%BA%A4%E7%96%BC%E7%97%9B",
+    "file": "zh_dispareunia",
+    "en_url": "https://en.wikipedia.org/wiki/Dispareunia",
+    "h1": "性交疼痛"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%A7%A3%E9%9B%A2%E6%80%A7%E4%BA%BA%E6%A0%BC%E7%96%BE%E6%82%A3",
+    "file": "zh_dissociative_identity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Dissociative_identity_disorder",
+    "h1": "解離性人格疾患"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%B1%E8%AE%80%E7%97%87",
+    "file": "zh_dyslexia",
+    "en_url": "https://en.wikipedia.org/wiki/Dyslexia",
+    "h1": "失讀症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%99%AB%E7%97%AB",
+    "file": "zh_epilepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Epilepsy",
+    "h1": "癫痫"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%83%85%E6%84%9B%E5%A6%84%E6%83%B3%E5%9E%8B",
+    "file": "zh_erotomania",
+    "en_url": "https://en.wikipedia.org/wiki/Erotomania",
+    "h1": "情愛妄想型"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%9C%B2%E9%AB%94%E7%99%96",
+    "file": "zh_exhibitionism",
+    "en_url": "https://en.wikipedia.org/wiki/Exhibitionism",
+    "h1": "露體癖"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%82%BA%E7%96%BE%E6%82%A3",
+    "file": "zh_factitious_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Factitious_disorder",
+    "h1": "人為疾患"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%B9%BF%E6%B3%9B%E6%80%A7%E7%84%A6%E8%99%91%E7%97%87",
+    "file": "zh_generalized_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Generalized_anxiety_disorder",
+    "h1": "广泛性焦虑症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A3%93%E5%8A%9B_(%E9%86%AB%E5%AD%B8)",
+    "file": "zh_general_adaptation_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/General_adaptation_syndrome",
+    "h1": "壓力 (醫學)"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E5%A4%A7%E7%8B%82",
+    "file": "zh_grandiose_delusions",
+    "en_url": "https://en.wikipedia.org/wiki/Grandiose_delusions",
+    "h1": "自大狂"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%87%B4%E5%B9%BB%E5%89%82",
+    "file": "zh_hallucinogen",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen",
+    "h1": "致幻剂"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%88%B2%E5%8A%87%E5%8C%96%E4%BA%BA%E6%A0%BC%E9%81%95%E5%B8%B8",
+    "file": "zh_histrionic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Histrionic_personality_disorder",
+    "h1": "戲劇化人格違常"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%A8%E4%B8%81%E9%A0%93%E8%88%9E%E8%B9%88%E7%97%87",
+    "file": "zh_huntingtons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Huntington%27s_disease",
+    "h1": "亨丁頓舞蹈症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BD%BB%E5%BA%A6%E7%8B%82%E8%BA%81",
+    "file": "zh_hypomanic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Hypomanic_episode",
+    "h1": "轻度狂躁"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%AD%87%E6%96%AF%E5%BA%95%E9%87%8C",
+    "file": "zh_hysteria",
+    "en_url": "https://en.wikipedia.org/wiki/Hysteria",
+    "h1": "歇斯底里"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%B1%E7%9C%A0",
+    "file": "zh_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Insomnia",
+    "h1": "失眠"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%AB%8A%E7%9B%9C%E7%99%96",
+    "file": "zh_kleptomania",
+    "en_url": "https://en.wikipedia.org/wiki/Kleptomania",
+    "h1": "竊盜癖"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%87%8D%E6%80%A7%E6%8A%91%E9%83%81%E9%9A%9C%E7%A2%8D",
+    "file": "zh_major_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+    "h1": "重性抑郁障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8B%83%E8%B5%B7%E5%8A%9F%E8%83%BD%E9%9A%9C%E7%A2%8D",
+    "file": "zh_male_erectile_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Male_erectile_disorder",
+    "h1": "勃起功能障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%86%82%E9%AC%B1",
+    "file": "zh_melancholia",
+    "en_url": "https://en.wikipedia.org/wiki/Melancholia",
+    "h1": "憂鬱"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%81%90%E9%9F%B3%E7%97%87",
+    "file": "zh_misophonia",
+    "en_url": "https://en.wikipedia.org/wiki/Misophonia",
+    "h1": "恐音症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%83%85%E6%84%9F%E9%9A%9C%E7%A4%99",
+    "file": "zh_mood_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Mood_disorder",
+    "h1": "情感障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%AD%9F%E4%B9%94%E6%A3%AE%E7%BB%BC%E5%90%88%E5%BE%81",
+    "file": "zh_munchausens_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Munchausen%27s_syndrome",
+    "h1": "孟乔森综合征"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%99%BC%E4%BD%9C%E6%80%A7%E5%97%9C%E7%9D%A1%E7%97%85",
+    "file": "zh_narcolepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Narcolepsy",
+    "h1": "發作性嗜睡病"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%BA%E8%BF%AB%E7%97%87",
+    "file": "zh_obsessive_compulsive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_disorder",
+    "h1": "强迫症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%BA%E8%BF%AB%E5%9E%8B%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A2%8D",
+    "file": "zh_obsessive_compulsive_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_personality_disorder",
+    "h1": "强迫型人格障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%B4%89%E7%89%87%E9%A1%9E%E8%97%A5%E7%89%A9",
+    "file": "zh_opioid",
+    "en_url": "https://en.wikipedia.org/wiki/Opioid",
+    "h1": "鴉片類藥物"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%93%81%E7%97%B4%E8%BF%B7%E7%97%87",
+    "file": "zh_orthorexia",
+    "en_url": "https://en.wikipedia.org/wiki/Orthorexia",
+    "h1": "健康食品痴迷症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%81%90%E6%85%8C%E7%97%87",
+    "file": "zh_panic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Panic_disorder",
+    "h1": "恐慌症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A6%84%E6%83%B3%E5%9E%8B%E4%BA%BA%E6%A0%BC%E9%81%95%E5%B8%B8",
+    "file": "zh_paranoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Paranoid_personality_disorder",
+    "h1": "妄想型人格違常"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%B8%95%E9%87%91%E6%A3%AE%E6%B0%8F%E7%97%87",
+    "file": "zh_parkinsons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Parkinson%27s_Disease",
+    "h1": "帕金森氏症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%B3%AD%E5%8D%9A%E6%88%90%E7%99%AE",
+    "file": "zh_pathological_gambling",
+    "en_url": "https://en.wikipedia.org/wiki/Pathological_gambling",
+    "h1": "賭博成癮"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%A2%AB%E5%AE%B3%E5%A6%84%E6%83%B3%E5%9E%8B",
+    "file": "zh_persecutory_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Persecutory_delusion",
+    "h1": "被害妄想型"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A4%99",
+    "file": "zh_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Personality_disorder",
+    "h1": "人格障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BE%85%E5%88%86%E9%A1%9E%E7%9A%84%E5%BB%A3%E6%B3%9B%E6%80%A7%E7%99%BC%E5%B1%95%E9%9A%9C%E7%A4%99",
+    "file": "zh_pervasive_developmental_disorder_not_otherwise_specified",
+    "en_url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder_not_otherwise_specified",
+    "h1": "待分類的廣泛性發展障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%81%90%E6%87%BC%E7%97%87",
+    "file": "zh_phobic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Phobic_disorder",
+    "h1": "恐懼症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%BC%82%E9%A3%9F%E7%99%96",
+    "file": "zh_pica_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Pica_(disorder)",
+    "h1": "异食癖"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%80%9D%E8%A6%BA%E5%A4%B1%E8%AA%BF",
+    "file": "zh_psychosis",
+    "en_url": "https://en.wikipedia.org/wiki/Psychosis",
+    "h1": "思覺失調"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%99%BC%E9%9F%B3%E5%95%8F%E9%A1%8C",
+    "file": "zh_phonological_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Phonological_disorder",
+    "h1": "發音問題"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%89%B5%E5%82%B7%E5%BE%8C%E5%A3%93%E5%8A%9B%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "zh_posttraumatic_stress_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder",
+    "h1": "創傷後壓力症候群"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%97%A9%E7%99%BC%E6%80%A7%E5%B0%84%E7%B2%BE",
+    "file": "zh_premature_ejaculation",
+    "en_url": "https://en.wikipedia.org/wiki/Premature_ejaculation",
+    "h1": "早發性射精"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%B1%E7%9C%A0",
+    "file": "zh_primary_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Primary_insomnia",
+    "h1": "失眠"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%80%9D%E8%A6%BA%E5%A4%B1%E8%AA%BF",
+    "file": "zh_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Psychotic_disorder",
+    "h1": "思覺失調"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87",
+    "file": "zh_residual_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Residual_schizophrenia",
+    "h1": "精神分裂症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%80%86%E8%A1%8C%E6%80%A7%E5%A4%B1%E6%86%B6%E7%97%87",
+    "file": "zh_retrograde_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Retrograde_amnesia",
+    "h1": "逆行性失憶症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%88%8D%E7%BB%BC%E5%90%88%E7%97%87",
+    "file": "zh_rumination_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Rumination_syndrome",
+    "h1": "反刍综合症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%88%86%E8%A3%82%E6%83%85%E6%84%9F%E6%80%A7%E9%9A%9C%E7%A2%8D",
+    "file": "zh_schizoaffective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoaffective_disorder",
+    "h1": "分裂情感性障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%A1%9E%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E5%9E%8B%E4%BA%BA%E6%A0%BC%E9%81%95%E5%B8%B8",
+    "file": "zh_schizoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoid_personality_disorder",
+    "h1": "類精神分裂型人格違常"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87",
+    "file": "zh_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "h1": "精神分裂症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%88%86%E8%A3%82%E6%80%A7%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A4%99",
+    "file": "zh_schizotypal_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizotypal_personality_disorder",
+    "h1": "分裂性人格障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%AD%A3%E8%8A%82%E6%80%A7%E6%83%85%E7%BB%AA%E5%A4%B1%E8%B0%83",
+    "file": "zh_seasonal_affective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Seasonal_affective_disorder",
+    "h1": "季节性情绪失调"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%8E%AE%E9%9D%9C%E5%8A%91",
+    "file": "zh_sedative",
+    "en_url": "https://en.wikipedia.org/wiki/Sedative",
+    "h1": "鎮靜劑"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%80%A7%E7%BC%84%E9%BB%98%E7%97%87",
+    "file": "zh_selective_mutism",
+    "en_url": "https://en.wikipedia.org/wiki/Selective_mutism",
+    "h1": "选择性缄默症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%99%BA%E8%83%BD%E9%9A%9C%E7%A4%99",
+    "file": "zh_severe_mental_retardation",
+    "en_url": "https://en.wikipedia.org/wiki/Severe_mental_retardation",
+    "h1": "智能障礙"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E4%BA%8C%E8%81%94%E6%80%A7%E7%B2%BE%E7%A5%9E%E7%97%85",
+    "file": "zh_shared_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Shared_psychotic_disorder",
+    "h1": "二联性精神病"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%9D%A1%E7%9C%A0%E9%9A%9C%E7%A2%8D",
+    "file": "zh_sleep_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_disorder",
+    "h1": "睡眠障碍"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%9C%E9%A9%9A",
+    "file": "zh_sleep_terror_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_terror_disorder",
+    "h1": "夜驚"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%A2%A6%E6%B8%B8%E7%97%87",
+    "file": "zh_sleepwalking_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleepwalking_disorder",
+    "h1": "梦游症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%9D%A1%E7%9C%A0%E7%98%AB%E7%97%AA%E7%97%87",
+    "file": "zh_sleep_paralysis",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+    "h1": "睡眠瘫痪症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%87%BC%E7%97%87",
+    "file": "zh_social_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Social_anxiety_disorder",
+    "h1": "社交恐懼症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%87%BC%E7%97%87",
+    "file": "zh_social_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Social_phobia",
+    "h1": "社交恐懼症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E8%BA%AB%E5%BF%83%E6%80%A7%E7%96%BE%E7%97%85",
+    "file": "zh_somatoform_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Somatoform_disorder",
+    "h1": "身心性疾病"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E7%89%B9%E6%AE%8A%E6%81%90%E6%83%A7%E7%97%87",
+    "file": "zh_specific_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Specific_phobia",
+    "h1": "特殊恐惧症"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "zh_stockholm_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Stockholm_syndrome",
+    "h1": "斯德哥爾摩症候群"
+  },
+  {
+    "lang": "zh",
+    "url": "https://zh.wikipedia.org/wiki/%E5%8F%A3%E5%90%83",
+    "file": "zh_stuttering",
+    "en_url": "https://en.wikipedia.org/wiki/Stuttering",
+    "h1": "口吃"
+  }
+]

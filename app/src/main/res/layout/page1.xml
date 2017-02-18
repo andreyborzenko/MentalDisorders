@@ -1,15 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:weightSum="2">
+    android:layout_height="match_parent" android:weightSum="100">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+
+        >
+
+        <ImageButton
+            android:background="@drawable/return1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/button_back" />
+
+
+        <TextView
+            android:text="@string/textsize100"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:id="@+id/size2"
+            android:textSize="20dp"
+            android:gravity="center_vertical"
+
+            android:textAlignment="center"/>
+
+        <ImageButton
+            android:background="@drawable/plus52"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/button_plus2"
+            android:layout_gravity="center_vertical"/>
+
+        <ImageButton
+            android:background="@drawable/minus52"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/button_minus2"
+            android:layout_gravity="center_vertical"
+            />
+
+        <ImageButton
+            android:background="@drawable/invert"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/button_invert"
+            android:layout_marginLeft="4dp"
+            android:layout_gravity="center_vertical"
+            />
+
+
+    </LinearLayout>
+
+
     <WebView
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:id="@+id/vwData"
-        android:layout_weight="2">
-
-
+        android:layout_weight="80">
     </WebView>
 
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:layout_below="@+id/webView"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/reLay1"
+        android:layout_height="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+    </RelativeLayout>
 
 </LinearLayout>

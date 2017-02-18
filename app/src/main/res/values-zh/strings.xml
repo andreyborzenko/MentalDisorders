@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="language">
+語言 </string>
+
+    <string name="evaluate">
+評估應用程序</string>
+
+<string name="disorders">
+精神錯亂 </string>
+
+<string name="typeToSearch">
+搜索 </string>
+
+<string name="textsize100">
+Text size: 100% </string>
+
+
+<string name="textsize">
+Text size:</string>
+
+
+
+
+
+</resources>

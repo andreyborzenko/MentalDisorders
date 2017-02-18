@@ -1,44 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
+
+    android:paddingBottom="0dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<LinearLayout
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="andy.mentaldisorders.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="fill_parent"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
+    android:layout_marginTop="@dimen/appBarHeight"
+    android:layout_height="match_parent"
+    android:weightSum="10"
+
+        >
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="40dp"
+            android:layout_height="wrap_content"
+
+
             android:inputType="textPersonName"
-            android:queryHint="..."
+            android:hint="@string/typeToSearch"
             android:id="@+id/editText" />
 
         <ListView
+            android:layout_height="0dp"
+            android:layout_weight="10"
 
-            android:choiceMode="singleChoice"
-            android:listSelector="#666666"
+            android:listSelector="@android:color/transparent"
+
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:id="@+id/mainListView1"
             >
 
         </ListView>
 
-    </LinearLayout>
 
 
-</RelativeLayout>
+</LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal|bottom"
+            android:id="@+id/reLay"
+            android:layout_height="wrap_content"
+            >
+
+        </RelativeLayout>
+
+
+</FrameLayout>
+
+

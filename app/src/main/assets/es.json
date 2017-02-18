@@ -1,0 +1,933 @@
+[
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Reacci%C3%B3n_de_estr%C3%A9s_agudo",
+    "file": "es_acute_stress_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Acute_stress_disorder",
+    "h1": "Reacción de estrés agudo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_adaptaci%C3%B3n",
+    "file": "es_adjustment_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Adjustment_disorder",
+    "h1": "Trastorno de adaptación"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Comportamiento_antisocial",
+    "file": "es_anti_social_behaviour",
+    "en_url": "https://en.wikipedia.org/wiki/Anti-social_behaviour",
+    "h1": "Comportamiento antisocial"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Agorafobia",
+    "file": "es_agoraphobia",
+    "en_url": "https://en.wikipedia.org/wiki/Agoraphobia",
+    "h1": "Agorafobia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia_del_alcohol",
+    "file": "es_alcohol_withdrawal",
+    "en_url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal",
+    "h1": "Síndrome de abstinencia del alcohol"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Enfermedad_de_Alzheimer",
+    "file": "es_alzheimers_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "h1": "Enfermedad de Alzheimer"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Amnesia",
+    "file": "es_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Amnesia",
+    "h1": "Amnesia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Anorexia_nerviosa",
+    "file": "es_anorexia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Anorexia_nervosa",
+    "h1": "Anorexia nerviosa"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Amnesia_anter%C3%B3grada",
+    "file": "es_anterograde_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Anterograde_amnesia",
+    "h1": "Amnesia anterógrada"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_antisocial_de_la_personalidad",
+    "file": "es_antisocial_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Antisocial_personality_disorder",
+    "h1": "Trastorno antisocial de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_por_d%C3%A9ficit_de_atenci%C3%B3n_con_hiperactividad",
+    "file": "es_attention_deficit_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_disorder",
+    "h1": "Trastorno por déficit de atención con hiperactividad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_por_d%C3%A9ficit_de_atenci%C3%B3n_con_hiperactividad",
+    "file": "es_attention_deficit_hyperactivity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+    "h1": "Trastorno por déficit de atención con hiperactividad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Autismo",
+    "file": "es_autism",
+    "en_url": "https://en.wikipedia.org/wiki/Autism",
+    "h1": "Autismo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_la_personalidad_por_evitaci%C3%B3n",
+    "file": "es_avoidant_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Avoidant_personality_disorder",
+    "h1": "Trastorno de la personalidad por evitación"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Perfeccionismo",
+    "file": "es_atelophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Atelophobia",
+    "h1": "Perfeccionismo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Asperger",
+    "file": "es_asperger_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Asperger_syndrome",
+    "h1": "Síndrome de Asperger"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Dependencia_de_las_benzodiazepinas",
+    "file": "es_benzodiazepine_dependence",
+    "en_url": "https://en.wikipedia.org/wiki/Benzodiazepine_dependence",
+    "h1": "Dependencia de las benzodiazepinas"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_abstinencia_de_las_benzodiazepinas",
+    "file": "es_benzodiazepine_withdrawal",
+    "en_url": "https://en.wikipedia.org/wiki/Benzodiazepine_withdrawal",
+    "h1": "Síndrome de abstinencia de las benzodiazepinas"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Duelo_(psicolog%C3%ADa)",
+    "file": "es_bereavement",
+    "en_url": "https://en.wikipedia.org/wiki/Bereavement",
+    "h1": "Duelo (psicología)"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Biblioman%C3%ADa",
+    "file": "es_bibliomania",
+    "en_url": "https://en.wikipedia.org/wiki/Bibliomania",
+    "h1": "Bibliomanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_por_atrac%C3%B3n",
+    "file": "es_binge_eating_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Binge_eating_disorder",
+    "h1": "Trastorno por atracón"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_bipolar",
+    "file": "es_bipolar_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Bipolar_disorder",
+    "h1": "Trastorno bipolar"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_dism%C3%B3rfico_corporal",
+    "file": "es_body_dysmorphic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Body_dysmorphic_disorder",
+    "h1": "Trastorno dismórfico corporal"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_l%C3%ADmite_de_la_personalidad",
+    "file": "es_borderline_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Borderline_personality_disorder",
+    "h1": "Trastorno límite de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_psic%C3%B3tico_breve",
+    "file": "es_brief_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Brief_psychotic_disorder",
+    "h1": "Trastorno psicótico breve"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Bulimia",
+    "file": "es_bulimia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Bulimia_nervosa",
+    "h1": "Bulimia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Catatonia_(s%C3%ADndrome)",
+    "file": "es_catatonic",
+    "en_url": "https://en.wikipedia.org/wiki/Catatonic",
+    "h1": "Catatonia (síndrome)"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Catatonia_(s%C3%ADndrome)",
+    "file": "es_catatonia",
+    "en_url": "https://en.wikipedia.org/wiki/Catatonia",
+    "h1": "Catatonia (síndrome)"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Claustrofobia",
+    "file": "es_claustrophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Claustrophobia",
+    "h1": "Claustrofobia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_cognitivo",
+    "file": "es_cognitive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Cognitive_disorder",
+    "h1": "Trastorno cognitivo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_la_comunicaci%C3%B3n",
+    "file": "es_communication_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Communication_disorder",
+    "h1": "Trastorno de la comunicación"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Cotard",
+    "file": "es_cotard_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Cotard_delusion",
+    "h1": "Síndrome de Cotard"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Ciclotimia",
+    "file": "es_cyclothymia",
+    "en_url": "https://en.wikipedia.org/wiki/Cyclothymia",
+    "h1": "Ciclotimia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Del%C3%ADrium_tr%C3%A9mens",
+    "file": "es_delirium_tremens",
+    "en_url": "https://en.wikipedia.org/wiki/Delirium_tremens",
+    "h1": "Delírium trémens"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_despersonalizaci%C3%B3n",
+    "file": "es_depersonalization_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depersonalization_disorder",
+    "h1": "Trastorno de despersonalización"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_depresivo_mayor",
+    "file": "es_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depressive_disorder",
+    "h1": "Trastorno depresivo mayor"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Desrealizaci%C3%B3n",
+    "file": "es_derealization",
+    "en_url": "https://en.wikipedia.org/wiki/Derealization",
+    "h1": "Desrealización"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Dermatiloman%C3%ADa",
+    "file": "es_dermatillomania",
+    "en_url": "https://en.wikipedia.org/wiki/Dermatillomania",
+    "h1": "Dermatilomanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Jet_lag",
+    "file": "es_desynchronosis",
+    "en_url": "https://en.wikipedia.org/wiki/Desynchronosis",
+    "h1": "Jet lag"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Dispraxia",
+    "file": "es_developmental_coordination_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Developmental_coordination_disorder",
+    "h1": "Dispraxia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Di%C3%B3genes",
+    "file": "es_diogenes_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Diogenes_Syndrome",
+    "h1": "Síndrome de Diógenes"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Dispareunia",
+    "file": "es_dispareunia",
+    "en_url": "https://en.wikipedia.org/wiki/Dispareunia",
+    "h1": "Dispareunia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_identidad_disociativo",
+    "file": "es_dissociative_identity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Dissociative_identity_disorder",
+    "h1": "Trastorno de identidad disociativo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Dispraxia",
+    "file": "es_dyspraxia",
+    "en_url": "https://en.wikipedia.org/wiki/Dyspraxia",
+    "h1": "Dispraxia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Dislexia",
+    "file": "es_dyslexia",
+    "en_url": "https://en.wikipedia.org/wiki/Dyslexia",
+    "h1": "Dislexia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_la_conducta_alimentaria_no_especificado",
+    "file": "es_ednos",
+    "en_url": "https://en.wikipedia.org/wiki/EDNOS",
+    "h1": "Trastorno de la conducta alimentaria no especificado"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Delirio_de_parasitosis",
+    "file": "es_delusional_parasitosis",
+    "en_url": "https://en.wikipedia.org/wiki/Delusional_parasitosis",
+    "h1": "Delirio de parasitosis"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Encopresis_infantil",
+    "file": "es_encopresis",
+    "en_url": "https://en.wikipedia.org/wiki/Encopresis",
+    "h1": "Encopresis infantil"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Epilepsia",
+    "file": "es_epilepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Epilepsy",
+    "h1": "Epilepsia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Erotoman%C3%ADa",
+    "file": "es_erotomania",
+    "en_url": "https://en.wikipedia.org/wiki/Erotomania",
+    "h1": "Erotomanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Exhibicionismo",
+    "file": "es_exhibitionism",
+    "en_url": "https://en.wikipedia.org/wiki/Exhibitionism",
+    "h1": "Exhibicionismo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_facticio",
+    "file": "es_factitious_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Factitious_disorder",
+    "h1": "Trastorno facticio"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Fr%C3%A9goli",
+    "file": "es_fregoli_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Fregoli_delusion",
+    "h1": "Síndrome de Frégoli"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Estado_de_fuga",
+    "file": "es_fugue_state",
+    "en_url": "https://en.wikipedia.org/wiki/Fugue_State",
+    "h1": "Estado de fuga"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Ganser",
+    "file": "es_ganser_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Ganser_syndrome",
+    "h1": "Síndrome de Ganser"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_ansiedad_generalizada",
+    "file": "es_generalized_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Generalized_anxiety_disorder",
+    "h1": "Trastorno de ansiedad generalizada"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Estr%C3%A9s",
+    "file": "es_general_adaptation_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/General_adaptation_syndrome",
+    "h1": "Estrés"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Megaloman%C3%ADa",
+    "file": "es_grandiose_delusions",
+    "en_url": "https://en.wikipedia.org/wiki/Grandiose_delusions",
+    "h1": "Megalomanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Alucin%C3%B3geno",
+    "file": "es_hallucinogen",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen",
+    "h1": "Alucinógeno"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_perceptivo_persistente_por_alucin%C3%B3genos",
+    "file": "es_hallucinogen_persisting_perception_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen_persisting_perception_disorder",
+    "h1": "Trastorno perceptivo persistente por alucinógenos"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_histri%C3%B3nico_de_la_personalidad",
+    "file": "es_histrionic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Histrionic_personality_disorder",
+    "h1": "Trastorno histriónico de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Enfermedad_de_Huntington",
+    "file": "es_huntingtons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Huntington%27s_disease",
+    "h1": "Enfermedad de Huntington"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Hipoman%C3%ADa",
+    "file": "es_hypomanic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Hypomanic_episode",
+    "h1": "Hipomanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Hipocondr%C3%ADa",
+    "file": "es_hypochondriasis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypochondriasis",
+    "h1": "Hipocondría"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Histeria",
+    "file": "es_hysteria",
+    "en_url": "https://en.wikipedia.org/wiki/Hysteria",
+    "h1": "Histeria"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Insomnio",
+    "file": "es_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Insomnia",
+    "h1": "Insomnio"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_explosivo_intermitente",
+    "file": "es_intermittent_explosive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Intermittent_explosive_disorder",
+    "h1": "Trastorno explosivo intermitente"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Cleptoman%C3%ADa",
+    "file": "es_kleptomania",
+    "en_url": "https://en.wikipedia.org/wiki/Kleptomania",
+    "h1": "Cleptomanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Korsakoff",
+    "file": "es_korsakoffs_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome",
+    "h1": "Síndrome de Korsakoff"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_depresivo_mayor",
+    "file": "es_major_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+    "h1": "Trastorno depresivo mayor"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Episodio_depresivo_mayor",
+    "file": "es_major_depressive_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Major_depressive_episode",
+    "h1": "Episodio depresivo mayor"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Enso%C3%B1aci%C3%B3n_excesiva",
+    "file": "es_maladaptive_daydreaming",
+    "en_url": "https://en.wikipedia.org/wiki/Maladaptive_Daydreaming",
+    "h1": "Ensoñación excesiva"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Disfunci%C3%B3n_er%C3%A9ctil",
+    "file": "es_male_erectile_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Male_erectile_disorder",
+    "h1": "Disfunción eréctil"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Man%C3%ADa",
+    "file": "es_manic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Manic_episode",
+    "h1": "Manía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Discalculia",
+    "file": "es_mathematics_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Mathematics_disorder",
+    "h1": "Discalculia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Melancol%C3%ADa_en_el_pasado",
+    "file": "es_melancholia",
+    "en_url": "https://en.wikipedia.org/wiki/Melancholia",
+    "h1": "Melancolía en el pasado"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Misofon%C3%ADa",
+    "file": "es_misophonia",
+    "en_url": "https://en.wikipedia.org/wiki/Misophonia",
+    "h1": "Misofonía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastornos_del_estado_de_%C3%A1nimo",
+    "file": "es_mood_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Mood_disorder",
+    "h1": "Trastornos del estado de ánimo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_M%C3%BCnchhausen",
+    "file": "es_munchausens_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Munchausen%27s_syndrome",
+    "h1": "Síndrome de Münchhausen"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Narcolepsia",
+    "file": "es_narcolepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Narcolepsy",
+    "h1": "Narcolepsia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_narcisista_de_la_personalidad",
+    "file": "es_narcissistic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Narcissistic_personality_disorder",
+    "h1": "Trastorno narcisista de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_alimentaci%C3%B3n_nocturna",
+    "file": "es_night_eating_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Night_eating_syndrome",
+    "h1": "Síndrome de alimentación nocturna"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_obsesivo-compulsivo",
+    "file": "es_obsessive_compulsive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_disorder",
+    "h1": "Trastorno obsesivo-compulsivo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_obsesivo-compulsivo_de_la_personalidad",
+    "file": "es_obsessive_compulsive_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_personality_disorder",
+    "h1": "Trastorno obsesivo-compulsivo de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Oneirofrenia",
+    "file": "es_oneirophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Oneirophrenia",
+    "h1": "Oneirofrenia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Opioide",
+    "file": "es_opioid",
+    "en_url": "https://en.wikipedia.org/wiki/Opioid",
+    "h1": "Opioide"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_negativista_desafiante",
+    "file": "es_oppositional_defiant_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Oppositional_defiant_disorder",
+    "h1": "Trastorno negativista desafiante"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Ortorexia",
+    "file": "es_orthorexia",
+    "en_url": "https://en.wikipedia.org/wiki/Orthorexia",
+    "h1": "Ortorexia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Ondina",
+    "file": "es_ondines_curse",
+    "en_url": "https://en.wikipedia.org/wiki/Ondine%27s_curse",
+    "h1": "Síndrome de Ondina"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_por_dolor",
+    "file": "es_pain_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Pain_disorder",
+    "h1": "Trastorno por dolor"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_p%C3%A1nico",
+    "file": "es_panic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Panic_disorder",
+    "h1": "Trastorno de pánico"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_paranoide_de_la_personalidad",
+    "file": "es_paranoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Paranoid_personality_disorder",
+    "h1": "Trastorno paranoide de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Parasomnia",
+    "file": "es_parasomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Parasomnia",
+    "h1": "Parasomnia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Enfermedad_de_Parkinson",
+    "file": "es_parkinsons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Parkinson%27s_Disease",
+    "h1": "Enfermedad de Parkinson"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Ludopat%C3%ADa",
+    "file": "es_pathological_gambling",
+    "en_url": "https://en.wikipedia.org/wiki/Pathological_gambling",
+    "h1": "Ludopatía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Delirio_persecutorio",
+    "file": "es_persecutory_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Persecutory_delusion",
+    "h1": "Delirio persecutorio"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_personalidad",
+    "file": "es_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Personality_disorder",
+    "h1": "Trastorno de personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_generalizado_del_desarrollo_no_especificado",
+    "file": "es_pervasive_developmental_disorder_not_otherwise_specified",
+    "en_url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder_not_otherwise_specified",
+    "h1": "Trastorno generalizado del desarrollo no especificado"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Fenciclidina",
+    "file": "es_phencyclidine",
+    "en_url": "https://en.wikipedia.org/wiki/Phencyclidine",
+    "h1": "Fenciclidina"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Fobia",
+    "file": "es_phobic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Phobic_disorder",
+    "h1": "Fobia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Pica_(enfermedad)",
+    "file": "es_pica_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Pica_(disorder)",
+    "h1": "Pica (enfermedad)"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Psicosis",
+    "file": "es_psychosis",
+    "en_url": "https://en.wikipedia.org/wiki/Psychosis",
+    "h1": "Psicosis"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_por_estr%C3%A9s_postraum%C3%A1tico",
+    "file": "es_posttraumatic_stress_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder",
+    "h1": "Trastorno por estrés postraumático"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Eyaculaci%C3%B3n_precoz",
+    "file": "es_premature_ejaculation",
+    "en_url": "https://en.wikipedia.org/wiki/Premature_ejaculation",
+    "h1": "Eyaculación precoz"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Insomnio",
+    "file": "es_primary_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Primary_insomnia",
+    "h1": "Insomnio"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Amnesia_disociativa",
+    "file": "es_psychogenic_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Psychogenic_amnesia",
+    "h1": "Amnesia disociativa"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Psicosis",
+    "file": "es_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Psychotic_disorder",
+    "h1": "Psicosis"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Piroman%C3%ADa",
+    "file": "es_pyromania",
+    "en_url": "https://en.wikipedia.org/wiki/Pyromania",
+    "h1": "Piromanía"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_reactivo_del_apego",
+    "file": "es_reactive_attachment_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Reactive_attachment_disorder",
+    "h1": "Trastorno reactivo del apego"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Esquizofrenia",
+    "file": "es_residual_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Residual_schizophrenia",
+    "h1": "Esquizofrenia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Amnesia_retr%C3%B3grada",
+    "file": "es_retrograde_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Retrograde_amnesia",
+    "h1": "Amnesia retrógrada"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_esquizoafectivo",
+    "file": "es_schizoaffective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoaffective_disorder",
+    "h1": "Trastorno esquizoafectivo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_esquizoide_de_la_personalidad",
+    "file": "es_schizoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoid_personality_disorder",
+    "h1": "Trastorno esquizoide de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Esquizofrenia",
+    "file": "es_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "h1": "Esquizofrenia"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_esquizofreniforme",
+    "file": "es_schizophreniform_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizophreniform_disorder",
+    "h1": "Trastorno esquizofreniforme"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_esquizot%C3%ADpico_de_la_personalidad",
+    "file": "es_schizotypal_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizotypal_personality_disorder",
+    "h1": "Trastorno esquizotípico de la personalidad"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_afectivo_estacional",
+    "file": "es_seasonal_affective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Seasonal_affective_disorder",
+    "h1": "Trastorno afectivo estacional"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Sedante",
+    "file": "es_sedative",
+    "en_url": "https://en.wikipedia.org/wiki/Sedative",
+    "h1": "Sedante"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Mutismo_selectivo",
+    "file": "es_selective_mutism",
+    "en_url": "https://en.wikipedia.org/wiki/Selective_mutism",
+    "h1": "Mutismo selectivo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_ansiedad_por_separaci%C3%B3n",
+    "file": "es_separation_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Separation_anxiety_disorder",
+    "h1": "Trastorno de ansiedad por separación"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Discapacidad_intelectual",
+    "file": "es_severe_mental_retardation",
+    "en_url": "https://en.wikipedia.org/wiki/Severe_mental_retardation",
+    "h1": "Discapacidad intelectual"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_psic%C3%B3tico_compartido",
+    "file": "es_shared_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Shared_psychotic_disorder",
+    "h1": "Trastorno psicótico compartido"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_del_sue%C3%B1o",
+    "file": "es_sleep_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_disorder",
+    "h1": "Trastorno del sueño"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Terror_nocturno",
+    "file": "es_sleep_terror_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_terror_disorder",
+    "h1": "Terror nocturno"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Sonambulismo",
+    "file": "es_sleepwalking_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleepwalking_disorder",
+    "h1": "Sonambulismo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_sue%C3%B1o",
+    "file": "es_sleep_paralysis",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+    "h1": "Parálisis del sueño"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Fobia_social",
+    "file": "es_social_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Social_anxiety_disorder",
+    "h1": "Fobia social"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Fobia_social",
+    "file": "es_social_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Social_phobia",
+    "h1": "Fobia social"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_somatizaci%C3%B3n",
+    "file": "es_somatization_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Somatization_disorder",
+    "h1": "Trastorno de somatización"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_somatomorfo",
+    "file": "es_somatoform_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Somatoform_disorder",
+    "h1": "Trastorno somatomorfo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Trastorno_de_movimientos_estereot%C3%ADpicos",
+    "file": "es_stereotypic_movement_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Stereotypic_movement_disorder",
+    "h1": "Trastorno de movimientos estereotípicos"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo",
+    "file": "es_stockholm_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Stockholm_syndrome",
+    "h1": "Síndrome de Estocolmo"
+  },
+  {
+    "lang": "es",
+    "url": "https://es.wikipedia.org/wiki/Tartamudez",
+    "file": "es_stuttering",
+    "en_url": "https://en.wikipedia.org/wiki/Stuttering",
+    "h1": "Tartamudez"
+  }
+]

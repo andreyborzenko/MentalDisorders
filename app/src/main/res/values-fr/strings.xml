@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="disorders">
+Trouble psychique </string>
+    <string name="evaluate">
+Évaluer l\'application </string>
+    <string name="language">
+La langue </string>
+
+<string name="typeToSearch">
+Сhercher
+ </string>
+
+    <string name="textsize100">
+La taille du texte: 100% </string>
+
+
+<string name="textsize">
+La taille du texte:</string>
+
+</resources>

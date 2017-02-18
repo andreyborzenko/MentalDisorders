@@ -1,0 +1,814 @@
+[
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%80%A5%E6%80%A7%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E9%9A%9C%E5%AE%B3",
+    "file": "ja_acute_stress_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Acute_stress_disorder",
+    "h1": "急性ストレス障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%81%A9%E5%BF%9C%E9%9A%9C%E5%AE%B3",
+    "file": "ja_adjustment_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Adjustment_disorder",
+    "h1": "適応障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%8D%E7%A4%BE%E4%BC%9A%E7%9A%84%E8%A1%8C%E5%8B%95",
+    "file": "ja_anti_social_behaviour",
+    "en_url": "https://en.wikipedia.org/wiki/Anti-social_behaviour",
+    "h1": "反社会的行動"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%A0%B4%E6%81%90%E6%80%96%E7%97%87",
+    "file": "ja_agoraphobia",
+    "en_url": "https://en.wikipedia.org/wiki/Agoraphobia",
+    "h1": "広場恐怖症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E4%B9%B1%E7%94%A8",
+    "file": "ja_alcohol_abuse",
+    "en_url": "https://en.wikipedia.org/wiki/Alcohol_abuse",
+    "h1": "アルコール乱用"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E9%9B%A2%E8%84%B1%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_alcohol_withdrawal",
+    "en_url": "https://en.wikipedia.org/wiki/Alcohol_withdrawal",
+    "h1": "アルコール離脱症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E5%B9%BB%E8%A6%9A%E7%97%87",
+    "file": "ja_alcoholic_hallucinosis",
+    "en_url": "https://en.wikipedia.org/wiki/Alcoholic_hallucinosis",
+    "h1": "アルコール幻覚症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%84%E3%83%8F%E3%82%A4%E3%83%9E%E3%83%BC%E7%97%85",
+    "file": "ja_alzheimers_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "h1": "アルツハイマー病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%81%A5%E5%BF%98",
+    "file": "ja_amnesia",
+    "en_url": "https://en.wikipedia.org/wiki/Amnesia",
+    "h1": "健忘"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E6%80%A7%E7%84%A1%E9%A3%9F%E6%AC%B2%E7%97%87",
+    "file": "ja_anorexia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Anorexia_nervosa",
+    "h1": "神経性無食欲症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%8D%E7%A4%BE%E4%BC%9A%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_antisocial_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Antisocial_personality_disorder",
+    "h1": "反社会性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E6%AC%A0%E9%99%A5%E3%83%BB%E5%A4%9A%E5%8B%95%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_attention_deficit_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_disorder",
+    "h1": "注意欠陥・多動性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E6%AC%A0%E9%99%A5%E3%83%BB%E5%A4%9A%E5%8B%95%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_attention_deficit_hyperactivity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+    "h1": "注意欠陥・多動性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E9%96%89%E7%97%87",
+    "file": "ja_autism",
+    "en_url": "https://en.wikipedia.org/wiki/Autism",
+    "h1": "自閉症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%9E%E9%81%BF%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_avoidant_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Avoidant_personality_disorder",
+    "h1": "回避性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AE%8C%E7%92%A7%E4%B8%BB%E7%BE%A9",
+    "file": "ja_atelophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Atelophobia",
+    "h1": "完璧主義"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%AC%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_asperger_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Asperger_syndrome",
+    "h1": "アスペルガー症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%93%E3%83%84%E3%83%BC%E3%83%AB%E9%85%B8%E7%B3%BB%E4%BE%9D%E5%AD%98%E7%97%87",
+    "file": "ja_barbiturate_dependence",
+    "en_url": "https://en.wikipedia.org/wiki/Barbiturate_dependence",
+    "h1": "バルビツール酸系依存症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%BE%E3%82%B8%E3%82%A2%E3%82%BC%E3%83%94%E3%83%B3%E4%BE%9D%E5%AD%98%E7%97%87",
+    "file": "ja_benzodiazepine_dependence",
+    "en_url": "https://en.wikipedia.org/wiki/Benzodiazepine_dependence",
+    "h1": "ベンゾジアゼピン依存症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%BE%E3%82%B8%E3%82%A2%E3%82%BC%E3%83%94%E3%83%B3%E8%96%AC%E7%89%A9%E4%B9%B1%E7%94%A8",
+    "file": "ja_benzodiazepine_misuse",
+    "en_url": "https://en.wikipedia.org/wiki/Benzodiazepine_misuse",
+    "h1": "ベンゾジアゼピン薬物乱用"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%BE%E3%82%B8%E3%82%A2%E3%82%BC%E3%83%94%E3%83%B3%E9%9B%A2%E8%84%B1%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_benzodiazepine_withdrawal",
+    "en_url": "https://en.wikipedia.org/wiki/Benzodiazepine_withdrawal",
+    "h1": "ベンゾジアゼピン離脱症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%80%E3%81%A1%E3%82%83%E9%A3%9F%E3%81%84%E9%9A%9C%E5%AE%B3",
+    "file": "ja_binge_eating_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Binge_eating_disorder",
+    "h1": "むちゃ食い障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%8C%E6%A5%B5%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_bipolar_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Bipolar_disorder",
+    "h1": "双極性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E9%86%9C%E5%BD%A2%E9%9A%9C%E5%AE%B3",
+    "file": "ja_body_dysmorphic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Body_dysmorphic_disorder",
+    "h1": "身体醜形障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_borderline_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Borderline_personality_disorder",
+    "h1": "境界性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E6%80%A7%E5%A4%A7%E9%A3%9F%E7%97%87",
+    "file": "ja_bulimia_nervosa",
+    "en_url": "https://en.wikipedia.org/wiki/Bulimia_nervosa",
+    "h1": "神経性大食症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A6%82%E6%97%A5%E3%83%AA%E3%82%BA%E3%83%A0%E7%9D%A1%E7%9C%A0%E9%9A%9C%E5%AE%B3",
+    "file": "ja_circadian_rhythm_sleep_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Circadian_rhythm_sleep_disorder",
+    "h1": "概日リズム睡眠障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%96%89%E6%89%80%E6%81%90%E6%80%96%E7%97%87",
+    "file": "ja_claustrophobia",
+    "en_url": "https://en.wikipedia.org/wiki/Claustrophobia",
+    "h1": "閉所恐怖症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E9%9A%9C%E5%AE%B3",
+    "file": "ja_cognitive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Cognitive_disorder",
+    "h1": "認知障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_communication_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Communication_disorder",
+    "h1": "コミュニケーション障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A1%8C%E7%82%BA%E9%9A%9C%E5%AE%B3",
+    "file": "ja_conduct_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Conduct_disorder",
+    "h1": "行為障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B0%97%E5%88%86%E5%BE%AA%E7%92%B0%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_cyclothymia",
+    "en_url": "https://en.wikipedia.org/wiki/Cyclothymia",
+    "h1": "気分循環性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%8C%AF%E6%88%A6%E3%81%9B%E3%82%93%E5%A6%84",
+    "file": "ja_delirium_tremens",
+    "en_url": "https://en.wikipedia.org/wiki/Delirium_tremens",
+    "h1": "振戦せん妄"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A4%E7%97%85",
+    "file": "ja_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Depressive_disorder",
+    "h1": "うつ病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%9A%AE%E8%86%9A%E3%82%80%E3%81%97%E3%82%8A%E7%97%87",
+    "file": "ja_dermatillomania",
+    "en_url": "https://en.wikipedia.org/wiki/Dermatillomania",
+    "h1": "皮膚むしり症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%99%82%E5%B7%AE%E3%81%BC%E3%81%91",
+    "file": "ja_desynchronosis",
+    "en_url": "https://en.wikipedia.org/wiki/Desynchronosis",
+    "h1": "時差ぼけ"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E9%81%94%E6%80%A7%E5%8D%94%E8%AA%BF%E9%81%8B%E5%8B%95%E9%9A%9C%E5%AE%B3",
+    "file": "ja_developmental_coordination_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Developmental_coordination_disorder",
+    "h1": "発達性協調運動障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A7%A3%E9%9B%A2%E6%80%A7%E5%90%8C%E4%B8%80%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_dissociative_identity_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Dissociative_identity_disorder",
+    "h1": "解離性同一性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E9%81%94%E6%80%A7%E5%8D%94%E8%AA%BF%E9%81%8B%E5%8B%95%E9%9A%9C%E5%AE%B3",
+    "file": "ja_dyspraxia",
+    "en_url": "https://en.wikipedia.org/wiki/Dyspraxia",
+    "h1": "発達性協調運動障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%A2",
+    "file": "ja_dyslexia",
+    "en_url": "https://en.wikipedia.org/wiki/Dyslexia",
+    "h1": "ディスレクシア"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%AE%9A%E4%B8%8D%E8%83%BD%E3%81%AE%E6%91%82%E9%A3%9F%E9%9A%9C%E5%AE%B3",
+    "file": "ja_ednos",
+    "en_url": "https://en.wikipedia.org/wiki/EDNOS",
+    "h1": "特定不能の摂食障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%82%93%E3%81%8B%E3%82%93",
+    "file": "ja_epilepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Epilepsy",
+    "h1": "てんかん"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AD%E3%83%88%E3%83%9E%E3%83%8B%E3%82%A2",
+    "file": "ja_erotomania",
+    "en_url": "https://en.wikipedia.org/wiki/Erotomania",
+    "h1": "エロトマニア"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%9C%B2%E5%87%BA%E7%97%87",
+    "file": "ja_exhibitionism",
+    "en_url": "https://en.wikipedia.org/wiki/Exhibitionism",
+    "h1": "露出症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%99%9A%E5%81%BD%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_factitious_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Factitious_disorder",
+    "h1": "虚偽性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%82%B4%E3%83%AA%E3%81%AE%E9%8C%AF%E8%A6%9A",
+    "file": "ja_fregoli_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Fregoli_delusion",
+    "h1": "フレゴリの錯覚"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%8B%98%E7%A6%81%E5%8F%8D%E5%BF%9C",
+    "file": "ja_ganser_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Ganser_syndrome",
+    "h1": "拘禁反応"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%A8%E8%88%AC%E6%80%A7%E4%B8%8D%E5%AE%89%E9%9A%9C%E5%AE%B3",
+    "file": "ja_generalized_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Generalized_anxiety_disorder",
+    "h1": "全般性不安障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9_(%E7%94%9F%E4%BD%93)",
+    "file": "ja_general_adaptation_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/General_adaptation_syndrome",
+    "h1": "ストレス (生体)"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B9%BB%E8%A6%9A%E5%89%A4",
+    "file": "ja_hallucinogen",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen",
+    "h1": "幻覚剤"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%83%E3%82%AF_(%E8%96%AC%E7%89%A9)",
+    "file": "ja_hallucinogen_persisting_perception_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Hallucinogen_persisting_perception_disorder",
+    "h1": "フラッシュバック (薬物)"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%BC%94%E6%8A%80%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_histrionic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Histrionic_personality_disorder",
+    "h1": "演技性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%81%E3%83%B3%E3%83%88%E3%83%B3%E7%97%85",
+    "file": "ja_huntingtons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Huntington%27s_disease",
+    "h1": "ハンチントン病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BB%BD%E8%BA%81%E7%97%85",
+    "file": "ja_hypomanic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Hypomanic_episode",
+    "h1": "軽躁病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BF%83%E6%B0%97%E7%97%87",
+    "file": "ja_hypochondriasis",
+    "en_url": "https://en.wikipedia.org/wiki/Hypochondriasis",
+    "h1": "心気症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC",
+    "file": "ja_hysteria",
+    "en_url": "https://en.wikipedia.org/wiki/Hysteria",
+    "h1": "ヒステリー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%9C%A0%E7%97%87",
+    "file": "ja_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Insomnia",
+    "h1": "不眠症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%AA%83%E7%9B%97%E7%97%87",
+    "file": "ja_kleptomania",
+    "en_url": "https://en.wikipedia.org/wiki/Kleptomania",
+    "h1": "窃盗症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%82%B5%E3%82%B3%E3%83%95%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_korsakoffs_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome",
+    "h1": "コルサコフ症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A4%E7%97%85",
+    "file": "ja_major_depressive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+    "h1": "うつ病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8B%83%E8%B5%B7%E4%B8%8D%E5%85%A8",
+    "file": "ja_male_erectile_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Male_erectile_disorder",
+    "h1": "勃起不全"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BA%81%E7%97%85",
+    "file": "ja_manic_episode",
+    "en_url": "https://en.wikipedia.org/wiki/Manic_episode",
+    "h1": "躁病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%BC",
+    "file": "ja_melancholia",
+    "en_url": "https://en.wikipedia.org/wiki/Melancholia",
+    "h1": "メランコリー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BD%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2",
+    "file": "ja_misophonia",
+    "en_url": "https://en.wikipedia.org/wiki/Misophonia",
+    "h1": "ミソフォニア"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%B0%97%E5%88%86%E9%9A%9C%E5%AE%B3",
+    "file": "ja_mood_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Mood_disorder",
+    "h1": "気分障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%92%E3%83%8F%E3%82%A6%E3%82%BC%E3%83%B3%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_munchausens_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Munchausen%27s_syndrome",
+    "h1": "ミュンヒハウゼン症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%AC%E3%83%97%E3%82%B7%E3%83%BC",
+    "file": "ja_narcolepsy",
+    "en_url": "https://en.wikipedia.org/wiki/Narcolepsy",
+    "h1": "ナルコレプシー"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%9B%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_narcissistic_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Narcissistic_personality_disorder",
+    "h1": "自己愛性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BC%B7%E8%BF%AB%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_obsessive_compulsive_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_disorder",
+    "h1": "強迫性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BC%B7%E8%BF%AB%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_obsessive_compulsive_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Obsessive-compulsive_personality_disorder",
+    "h1": "強迫性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%94%E3%82%AA%E3%82%A4%E3%83%89",
+    "file": "ja_opioid",
+    "en_url": "https://en.wikipedia.org/wiki/Opioid",
+    "h1": "オピオイド"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%8D%E6%8A%97%E6%8C%91%E6%88%A6%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_oppositional_defiant_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Oppositional_defiant_disorder",
+    "h1": "反抗挑戦性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%88%E3%83%AC%E3%82%AD%E3%82%B7%E3%82%A2",
+    "file": "ja_orthorexia",
+    "en_url": "https://en.wikipedia.org/wiki/Orthorexia",
+    "h1": "オルトレキシア"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%85%88%E5%A4%A9%E6%80%A7%E4%B8%AD%E6%9E%A2%E6%80%A7%E8%82%BA%E8%83%9E%E4%BD%8E%E6%8F%9B%E6%B0%97%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_ondines_curse",
+    "en_url": "https://en.wikipedia.org/wiki/Ondine%27s_curse",
+    "h1": "先天性中枢性肺胞低換気症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8B%E3%83%83%E3%82%AF%E9%9A%9C%E5%AE%B3",
+    "file": "ja_panic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Panic_disorder",
+    "h1": "パニック障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A6%84%E6%83%B3%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_paranoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Paranoid_personality_disorder",
+    "h1": "妄想性パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3%E7%97%85",
+    "file": "ja_parkinsons_disease",
+    "en_url": "https://en.wikipedia.org/wiki/Parkinson%27s_Disease",
+    "h1": "パーキンソン病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%B3%E3%83%96%E3%83%AB%E4%BE%9D%E5%AD%98%E7%97%87",
+    "file": "ja_pathological_gambling",
+    "en_url": "https://en.wikipedia.org/wiki/Pathological_gambling",
+    "h1": "ギャンブル依存症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A2%AB%E5%AE%B3%E5%A6%84%E6%83%B3",
+    "file": "ja_persecutory_delusion",
+    "en_url": "https://en.wikipedia.org/wiki/Persecutory_delusion",
+    "h1": "被害妄想"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Personality_disorder",
+    "h1": "パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%AE%9A%E4%B8%8D%E8%83%BD%E3%81%AE%E5%BA%83%E6%B1%8E%E6%80%A7%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3",
+    "file": "ja_pervasive_developmental_disorder_not_otherwise_specified",
+    "en_url": "https://en.wikipedia.org/wiki/Pervasive_developmental_disorder_not_otherwise_specified",
+    "h1": "特定不能の広汎性発達障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%82%B8%E3%83%B3",
+    "file": "ja_phencyclidine",
+    "en_url": "https://en.wikipedia.org/wiki/Phencyclidine",
+    "h1": "フェンサイクリジン"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%81%90%E6%80%96%E7%97%87",
+    "file": "ja_phobic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Phobic_disorder",
+    "h1": "恐怖症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%95%B0%E9%A3%9F%E7%97%87",
+    "file": "ja_pica_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Pica_(disorder)",
+    "h1": "異食症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E7%97%85",
+    "file": "ja_psychosis",
+    "en_url": "https://en.wikipedia.org/wiki/Psychosis",
+    "h1": "精神病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E9%9A%9C%E5%AE%B3",
+    "file": "ja_phonological_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Phonological_disorder",
+    "h1": "言語障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E7%9A%84%E8%99%90%E5%BE%85",
+    "file": "ja_physical_abuse",
+    "en_url": "https://en.wikipedia.org/wiki/Physical_abuse",
+    "h1": "身体的虐待"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%BF%83%E7%9A%84%E5%A4%96%E5%82%B7%E5%BE%8C%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E9%9A%9C%E5%AE%B3",
+    "file": "ja_posttraumatic_stress_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder",
+    "h1": "心的外傷後ストレス障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A9%E6%BC%8F",
+    "file": "ja_premature_ejaculation",
+    "en_url": "https://en.wikipedia.org/wiki/Premature_ejaculation",
+    "h1": "早漏"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E7%99%BA%E6%80%A7%E9%81%8E%E7%9C%A0%E7%97%87",
+    "file": "ja_primary_hypersomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Primary_hypersomnia",
+    "h1": "特発性過眠症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%9C%A0%E7%97%87",
+    "file": "ja_primary_insomnia",
+    "en_url": "https://en.wikipedia.org/wiki/Primary_insomnia",
+    "h1": "不眠症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E7%97%85",
+    "file": "ja_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Psychotic_disorder",
+    "h1": "精神病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%81%AB%E7%99%96",
+    "file": "ja_pyromania",
+    "en_url": "https://en.wikipedia.org/wiki/Pyromania",
+    "h1": "放火癖"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BF%9C%E6%80%A7%E6%84%9B%E7%9D%80%E9%9A%9C%E5%AE%B3",
+    "file": "ja_reactive_attachment_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Reactive_attachment_disorder",
+    "h1": "反応性愛着障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E7%97%87",
+    "file": "ja_residual_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Residual_schizophrenia",
+    "h1": "統合失調症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E6%84%9F%E6%83%85%E9%9A%9C%E5%AE%B3",
+    "file": "ja_schizoaffective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoaffective_disorder",
+    "h1": "統合失調感情障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%82%BE%E3%82%A4%E3%83%89%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_schizoid_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizoid_personality_disorder",
+    "h1": "スキゾイドパーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E7%97%87",
+    "file": "ja_schizophrenia",
+    "en_url": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "h1": "統合失調症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E5%A4%B1%E8%AA%BF%E5%9E%8B%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_schizotypal_personality_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Schizotypal_personality_disorder",
+    "h1": "統合失調型パーソナリティ障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%AD%A3%E7%AF%80%E6%80%A7%E6%83%85%E5%8B%95%E9%9A%9C%E5%AE%B3",
+    "file": "ja_seasonal_affective_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Seasonal_affective_disorder",
+    "h1": "季節性情動障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%8E%AE%E9%9D%99%E8%96%AC",
+    "file": "ja_sedative",
+    "en_url": "https://en.wikipedia.org/wiki/Sedative",
+    "h1": "鎮静薬"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A0%B4%E9%9D%A2%E7%B7%98%E9%BB%99%E7%97%87",
+    "file": "ja_selective_mutism",
+    "en_url": "https://en.wikipedia.org/wiki/Selective_mutism",
+    "h1": "場面緘黙症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%88%86%E9%9B%A2%E4%B8%8D%E5%AE%89%E9%9A%9C%E5%AE%B3",
+    "file": "ja_separation_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Separation_anxiety_disorder",
+    "h1": "分離不安障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E7%9A%84%E9%9A%9C%E5%AE%B3",
+    "file": "ja_severe_mental_retardation",
+    "en_url": "https://en.wikipedia.org/wiki/Severe_mental_retardation",
+    "h1": "知的障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E6%84%9F%E5%BF%9C%E7%B2%BE%E7%A5%9E%E7%97%85",
+    "file": "ja_shared_psychotic_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Shared_psychotic_disorder",
+    "h1": "感応精神病"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%9D%A1%E7%9C%A0%E9%9A%9C%E5%AE%B3",
+    "file": "ja_sleep_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_disorder",
+    "h1": "睡眠障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%A4%9C%E9%A9%9A%E7%97%87",
+    "file": "ja_sleep_terror_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_terror_disorder",
+    "h1": "夜驚症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%9D%A1%E7%9C%A0%E6%99%82%E9%81%8A%E8%A1%8C%E7%97%87",
+    "file": "ja_sleepwalking_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Sleepwalking_disorder",
+    "h1": "睡眠時遊行症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E7%B8%9B%E3%82%8A",
+    "file": "ja_sleep_paralysis",
+    "en_url": "https://en.wikipedia.org/wiki/Sleep_paralysis",
+    "h1": "金縛り"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E4%B8%8D%E5%AE%89%E9%9A%9C%E5%AE%B3",
+    "file": "ja_social_anxiety_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Social_anxiety_disorder",
+    "h1": "社交不安障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E4%B8%8D%E5%AE%89%E9%9A%9C%E5%AE%B3",
+    "file": "ja_social_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Social_phobia",
+    "h1": "社交不安障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E8%A1%A8%E7%8F%BE%E6%80%A7%E9%9A%9C%E5%AE%B3",
+    "file": "ja_somatoform_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Somatoform_disorder",
+    "h1": "身体表現性障害"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%AE%9A%E3%81%AE%E6%81%90%E6%80%96%E7%97%87",
+    "file": "ja_specific_phobia",
+    "en_url": "https://en.wikipedia.org/wiki/Specific_phobia",
+    "h1": "特定の恐怖症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0%E7%97%87%E5%80%99%E7%BE%A4",
+    "file": "ja_stockholm_syndrome",
+    "en_url": "https://en.wikipedia.org/wiki/Stockholm_syndrome",
+    "h1": "ストックホルム症候群"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%83%E9%9F%B3%E7%97%87",
+    "file": "ja_stuttering",
+    "en_url": "https://en.wikipedia.org/wiki/Stuttering",
+    "h1": "吃音症"
+  },
+  {
+    "lang": "ja",
+    "url": "https://ja.wikipedia.org/wiki/%E7%89%A9%E8%B3%AA%E9%96%A2%E9%80%A3%E9%9A%9C%E5%AE%B3",
+    "file": "ja_substance_related_disorder",
+    "en_url": "https://en.wikipedia.org/wiki/Substance-related_disorder",
+    "h1": "物質関連障害"
+  }
+]
