@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:weightSum="100">
+    android:layout_height="match_parent"
+>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
 
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="10"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+
 
         >
 
@@ -15,16 +26,39 @@
             android:background="@drawable/return1"
             android:layout_width="50dp"
             android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
             android:id="@+id/button_back" />
 
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
 
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+
+            >
+
+
+
+        <ImageButton
+            android:background="@drawable/minus52"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/button_minus2"
+            android:layout_gravity="center_vertical"
+            />
         <TextView
-            android:text="@string/textsize100"
-            android:layout_width="150dp"
+            android:text="100%"
+            android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/size2"
             android:textSize="20dp"
             android:gravity="center_vertical"
+            android:textColor="#ffffff"
 
             android:textAlignment="center"/>
 
@@ -35,46 +69,52 @@
             android:id="@+id/button_plus2"
             android:layout_gravity="center_vertical"/>
 
-        <ImageButton
-            android:background="@drawable/minus52"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:id="@+id/button_minus2"
-            android:layout_gravity="center_vertical"
-            />
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
 
         <ImageButton
             android:background="@drawable/invert"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:id="@+id/button_invert"
-            android:layout_marginLeft="4dp"
-            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="right"
+
             />
 
 
     </LinearLayout>
 
 
+
+
+
+
+
     <WebView
         android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_height="match_parent"
+
         android:id="@+id/vwData"
-        android:layout_weight="80">
+>
     </WebView>
 
+    </LinearLayout>
 
     <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_weight="10"
-        android:layout_below="@+id/webView"
-        android:layout_centerHorizontal="true"
+        android:layout_width="320dp"
+        android:gravity="center_horizontal|bottom"
         android:id="@+id/reLay1"
-        android:layout_height="0dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
+        android:layout_height="50dp"
+        android:layout_gravity="bottom|center"
+        >
 
     </RelativeLayout>
 
-</LinearLayout>
+</FrameLayout>

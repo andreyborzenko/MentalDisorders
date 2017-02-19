@@ -16,7 +16,7 @@ public enum SupportedLocale {
     SPANISH("Español","ES"),
     PORTUGESE("Português","PT"),
     JAPANESE("日本語","JA"),
-  //  HINDI("हिन्दी","HI"),
+    HINDI("हिन्दी","HI"),
     ;
 
     private final String resourceName;

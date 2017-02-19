@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="language">
+भाषा </string>
+
+    <string name="evaluate">
+आवेदन का मूल्यांकन </string>
+
+<string name="disorders">
+मानसिक विकार </string>
+
+<string name="typeToSearch">
+खोज </string>
+
+
+
+</resources>

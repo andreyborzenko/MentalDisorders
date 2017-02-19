@@ -13,5 +13,6 @@ public class LocaleApplication extends Application {
     public void onCreate() {
         super.onCreate();
         LocaleHelper.onCreate(this);
+
     }
 }

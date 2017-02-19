@@ -2,6 +2,7 @@ package andy.mentaldisorders;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
@@ -23,7 +24,9 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
 
+import static android.graphics.Color.BLACK;
 import static android.graphics.Color.WHITE;
+
 
 /**
  * Created by chach on 2017-02-01.
@@ -35,9 +38,14 @@ public class Page1 extends Activity {
      */
     private int page;
     private static int sizeWeb;
+    private static int sizeW;
     private AdView adView;
     public int size2 = 100;
     public WebSettings webSettings;
+    public static int backcol;
+    public WebView vwData;
+    public String value;
+    public String text;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -73,13 +81,17 @@ public class Page1 extends Activity {
 
         ImageButton minus2 = (ImageButton) findViewById(R.id.button_minus2);
 
-
-
+        final SharedPreferences page1Prefs2 = getSharedPreferences("page2", 0);
+        sizeW = page1Prefs2.getInt("sizeWeb", 100);
 
         final TextView sizeText2 = (TextView) findViewById(R.id.size2);
 
+        sizeText2.setText(sizeW + "%");
+
+
+
         page = getIntent().getIntExtra("text", 0);
-        sizeWeb = getIntent().getIntExtra("size", 100);
+    //    sizeWeb = getIntent().getIntExtra("size", 100);
 
         minus2.setOnClickListener(new View.OnClickListener() {
 
@@ -87,7 +99,7 @@ public class Page1 extends Activity {
                                       public void onClick(View v) {
 
                                           size2 = size2 - 10;
-                                          sizeText2.setText(getString(R.string.textsize) + size2 + "%");
+                                          sizeText2.setText(size2 + "%");
 
                                           if (size2 == 40) {
 
@@ -96,6 +108,9 @@ public class Page1 extends Activity {
 
                                           sizeWeb = size2;
                                           webSettings.setTextZoom(sizeWeb);
+                                          final SharedPreferences page1Prefs2 = getSharedPreferences("page2", 0);
+                                          page1Prefs2.edit().putInt("sizeWeb", sizeWeb).commit();
+
                                       }
                                   }
         );
@@ -106,7 +121,7 @@ public class Page1 extends Activity {
                                      public void onClick(View v) {
 
                                          size2 = size2 + 10;
-                                         sizeText2.setText(getString(R.string.textsize) + size2 + "%");
+                                         sizeText2.setText(size2 + "%");
 
                                          if (size2 == 160) {
 
@@ -114,7 +129,8 @@ public class Page1 extends Activity {
                                          }
                                          sizeWeb = size2;
                                          webSettings.setTextZoom(sizeWeb);
-
+                                         final SharedPreferences page1Prefs2 = getSharedPreferences("page2", 0);
+                                         page1Prefs2.edit().putInt("sizeWeb", sizeWeb).commit();
                                      }
                                  }
         );
@@ -187,6 +203,18 @@ public class Page1 extends Activity {
             }
 
 
+
+
+
+//       TextView textView = (TextView) findViewById(R.id.textViewer);
+//            textView.setText(Html.fromHtml(value));
+            final SharedPreferences page1Prefs = getSharedPreferences("page1", 0);
+
+             backcol = page1Prefs.getInt("backColor", WHITE);
+
+            reLay1.setBackgroundColor(backcol);
+
+
             final String value = sb.toString();
 
             final String text = "<html><head>"
@@ -197,14 +225,22 @@ public class Page1 extends Activity {
                     + "</body></html>";
 
 
-//       TextView textView = (TextView) findViewById(R.id.textViewer);
-//            textView.setText(Html.fromHtml(value));
+            if (backcol == WHITE) {
+                vwData.loadData(value, "text/html", "utf-8");
 
-            reLay1.setBackgroundColor(WHITE);
+
+
+            } else {
+                vwData.loadData(text, "text/html", "utf-8");
+
+
+            }
+
+
 
             webSettings = vwData.getSettings();
             webSettings.setJavaScriptEnabled(true);
-            webSettings.setTextZoom(sizeWeb);
+     //       webSettings.setTextZoom(sizeWeb);
             webSettings.setAllowFileAccess(true);
             if (Build.VERSION.SDK_INT >= 16) {
                 webSettings.setAllowFileAccessFromFileURLs(true);
@@ -218,7 +254,7 @@ public class Page1 extends Activity {
             //webSettings.setA
             //         webSettings.setLoadWithOverviewMode(true);
             //        webSettings.setUseWideViewPort(true);
-            vwData.loadData(value, "text/html", "utf-8");
+      //      vwData.loadData(value, "text/html", "utf-8");
 
 
 
@@ -318,10 +354,14 @@ public class Page1 extends Activity {
                                               if (colorId == WHITE) {
                                                   vwData.loadData(text, "text/html", "utf-8");
                                                   reLay1.setBackgroundColor(Color.BLACK);
+
+
+                                                  page1Prefs.edit().putInt("backColor", BLACK).commit();
+
                                               } else {
                                                   vwData.loadData(value, "text/html", "utf-8");
                                                   reLay1.setBackgroundColor(WHITE);
-
+                                                  page1Prefs.edit().putInt("backColor", WHITE).commit();
                                               }
 
 
@@ -333,6 +373,24 @@ public class Page1 extends Activity {
 
         }
     }
+
+
+ //  @Override
+ //  protected void onResume() {
+ //      super.onResume();
+ //      backcol = page1Prefs.getInt("backColor", WHITE);
+
+ //      if (backcol == WHITE) {
+ //          vwData.loadData(value, "text/html", "utf-8");
+
+
+
+ //      } else {
+ //          vwData.loadData(text, "text/html", "utf-8");
+
+
+ //      }
+ //  }
 
     @Override
     public void onBackPressed() {

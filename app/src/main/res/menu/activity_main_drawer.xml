@@ -2,15 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group >
-        <item
-            android:id="@+id/text_size"
-            android:icon="@drawable/text1"
-            android:title="Change text size"
-            />
-        <item
-            android:id="@+id/like_app"
-            android:icon="@drawable/like"
-            android:title="Like the app" />
+
         <item
             android:id="@+id/other_apps"
             android:icon="@drawable/ic_menu_slideshow"

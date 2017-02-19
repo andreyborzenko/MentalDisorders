@@ -4,17 +4,17 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.View;
@@ -22,6 +22,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.Spinner;
@@ -44,9 +45,15 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Locale;
 
+import static android.graphics.Color.BLACK;
+import static android.graphics.Color.WHITE;
+
 public class MainActivity extends AppCompatActivity
          {
-    Toolbar toolbar;
+
+
+
+
              ArrayAdapter<String> adapter;
              EditText editsearch;
              JSONArray result;
@@ -58,22 +65,28 @@ public class MainActivity extends AppCompatActivity
              ArrayList<SupportedLocale> locales = new ArrayList<>();
              public  String assetJson =  String.format("%s.json", LocaleHelper.getLanguage(MainActivity.this)).toLowerCase();
             public SharedPreferences p;
+            public static LinearLayout shtick;
 
 
+             public static int  backcol1;
              public  ArrayList<HashMap<String, String>> formList = new ArrayList<HashMap<String, String>>();
              String disordersArrayFull[];
              @Override
     protected void onCreate(Bundle savedInstanceState) {
                  LocaleHelper.applyLocale(this);
                  super.onCreate(savedInstanceState);
+
                  setContentView(R.layout.activity_main);
 
+                 final DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+                 ImageButton sett = (ImageButton) findViewById(R.id.sett);
 
-       //          pos = p.getInt("position", 0);
-       //         size = p.getInt("size", 100);
-
-      //            assetJson = p.getString("assetJson","en.json");
-      //           adapter.notifyDataSetChanged();
+                 sett.setOnClickListener(new View.OnClickListener() {
+                     @Override
+                     public void onClick(View v) {
+                         drawer.openDrawer(Gravity.LEFT);
+                     }
+                 });
 
 
                  final RelativeLayout reLay = (RelativeLayout) findViewById(R.id.reLay);
@@ -88,13 +101,9 @@ public class MainActivity extends AppCompatActivity
                  final RelativeLayout.LayoutParams adViewParams = new RelativeLayout.LayoutParams(
                          AdView.LayoutParams.WRAP_CONTENT,
                          AdView.LayoutParams.WRAP_CONTENT);
-                 // align bottom
+
                  adViewParams.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
-                 // align center
-               //  adViewParams.addRule(RelativeLayout.CENTER_IN_PARENT, RelativeLayout.TRUE);
 
-
-                 // reLay.addView(adView, adViewParams);
                  adView.setAdUnitId("ca-app-pub-2783112053927174/9499143242");
                  adView.setAdSize(AdSize.BANNER);
                  adView.loadAd(adRequest);
@@ -109,19 +118,13 @@ public class MainActivity extends AppCompatActivity
                          }
                      }
                  });
-                 adView.setBackgroundColor(Color.BLACK);
+                 adView.setBackgroundColor(BLACK);
                  adView.setBackgroundColor(0);
 
 
-            /*     ArrayList<String> languages = new ArrayList<String>();
-                 languages.add("Language");
-                 languages.add("English");
-                 languages.add("Русский");
-                 languages.add("Deutsche");
-                 languages.add("Française");*/
                 final Spinner spinner = (Spinner) findViewById(R.id.spinner);
 
-                 spinner.setAdapter(new ArrayAdapter<SupportedLocale>(this,android.R.layout.simple_spinner_dropdown_item, SupportedLocale.values()));
+                 spinner.setAdapter(new ArrayAdapter<SupportedLocale>(this,android.R.layout.simple_selectable_list_item, SupportedLocale.values()));
 
 
                  for(SupportedLocale loc:SupportedLocale.values()) {
@@ -146,62 +149,6 @@ public class MainActivity extends AppCompatActivity
 
                              startActivity(intent1);
                          }
-/*
-
-                         switch (pos) {
-                             case 1:
-
-                                 setLocale("en");
-
-                                 assetJson = "en.json";
-
-                                 finish();
-                                 startActivity(intent1);
-                                 break;
-
-                             case 2:
-                                 setLocale("ru");
-                                 assetJson = "ru.json";
-
-                                 finish();
-                                 startActivity(intent1);
-
-                                 break;
-
-
-
-                             case 3:
-                                 setLocale("de");
-                                 assetJson = "de.json";
-                                 finish();
-                                 startActivity(intent1);
-
-                                 break;
-
-
-
-                             case 4:
-                                 setLocale("fr");
-                                 assetJson = "fr.json";
-                                 finish();
-                                 startActivity(intent1);
-
-                                 break;
-                         }
-
-
-
-                         SharedPreferences p = PreferenceManager.getDefaultSharedPreferences(MainActivity.this);
-
-                         p.edit().putString("selected_locale", locale).commit();
-
-                         p.edit().putString("assetJson", assetJson).commit();
-
-                         p.edit().putInt("position", pos).commit();
-
-
-                         adapter.notifyDataSetChanged();
-*/
 
 
                      }
@@ -250,63 +197,92 @@ public class MainActivity extends AppCompatActivity
 
                //  disordersArrayFull = new HashSet<String>(Arrays.asList(disordersArrayFull)).toArray(new String[0]);
 
-        //         Collections.sort(Arrays.asList(disordersArrayFull), String.CASE_INSENSITIVE_ORDER);
+               final SharedPreferences prefsMain = getSharedPreferences("prefsmain", 0);
+
+               backcol1 = prefsMain.getInt("backColor", WHITE);
+
+                final LinearLayout shtick = (LinearLayout) findViewById(R.id.shtick);
 
 
-Collections.sort(Arrays.asList(disordersArrayFull), new Comparator<String>() {
-    @Override
-    public int compare(String s, String t1) {
-        return -s.compareToIgnoreCase(t1);
-    }
-});
 
+                 shtick.setBackgroundColor(backcol1);
+                 final  ImageButton sort = (ImageButton) findViewById(R.id.sort);
 
-                 adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, disordersArrayFull){
+                 if (backcol1 == WHITE) {
 
-                 /*    private Filter customFilter = new Filter(){
+                     Collections.sort(Arrays.asList(disordersArrayFull), String.CASE_INSENSITIVE_ORDER);
+                     sort.setImageResource(R.drawable.sortaz);
 
+                 } else {
+
+                     Collections.sort(Arrays.asList(disordersArrayFull), new Comparator<String>() {
                          @Override
-                         protected FilterResults performFiltering(CharSequence charSequence) {
-                             ArrayList<String> filtered = new ArrayList<>();
-                             FilterResults fResults= new FilterResults();
-                             for(String s:disordersArrayFull){
-                                 if(s.startsWith(charSequence.toString())){
-                                     filtered.add(s);
-                                 }
-                             }
-                             fResults.count=filtered.size();
-                             fResults.values=filtered;
-                             return fResults;
+                         public int compare(String s, String t1) {
+                             return -s.compareToIgnoreCase(t1);
                          }
+                     });
 
-                         @Override
-                         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
-                             ArrayList<String> filtered = (ArrayList<String>) filterResults.values;
-                             while(!adapter.isEmpty())
-                             adapter.remove(adapter.getItem(0));
-                             adapter.addAll(filtered);
-                             adapter.notifyDataSetChanged();
-                         }
-                     };
-                     @NonNull
+                     sort.setImageResource(R.drawable.sortza);
+                 }
+
+
+                 adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, disordersArrayFull){};
+
+
+
+
+
+
+                 sort.setOnClickListener(new View.OnClickListener() {
+
+
+
                      @Override
-                     public Filter getFilter() {
-                         return customFilter;
-                     }*/
-                 };
+                     public void onClick(View view) {
+//
+                         ColorDrawable viewCol = (ColorDrawable) shtick.getBackground();
+                         int colorIde = viewCol.getColor();
+
+
+                         if (colorIde == WHITE) {
+//
+                             Collections.sort(Arrays.asList(disordersArrayFull), new Comparator<String>() {
+                                 @Override
+                                 public int compare(String s, String t1) {
+                                     return -s.compareToIgnoreCase(t1);
+                                 }
+                             });
+                             sort.setImageResource(R.drawable.sortza);
+                             adapter.notifyDataSetChanged();
+                             shtick.setBackgroundColor(BLACK);
+                             SharedPreferences prefsMain = getSharedPreferences("prefsmain", 0);
+                             prefsMain.edit().putInt("backColor", BLACK).commit();
+//
+//
+                         } else {
+//
+                             Collections.sort(Arrays.asList(disordersArrayFull), String.CASE_INSENSITIVE_ORDER);
+                             sort.setImageResource(R.drawable.sortaz);
+                             adapter.notifyDataSetChanged();
+                             shtick.setBackgroundColor(Color.WHITE);
+                             SharedPreferences prefsMain = getSharedPreferences("prefsmain", 0);
+                             prefsMain.edit().putInt("backColor", WHITE).commit();
+                         }
+//
+//
+//
+                     }
+                 });
+
+
+
+
 
 
 
 
                  final ListView listView = (ListView) findViewById(R.id.mainListView1);
                  listView.setAdapter(adapter);
-                 toolbar = (Toolbar) findViewById(R.id.toolbar);
-                 setSupportActionBar(toolbar);
-                getSupportActionBar().setDisplayShowTitleEnabled(true);
-                 getSupportActionBar().setTitle(getString(R.string.disorders));
-
-
-
 
 
 
@@ -369,21 +345,28 @@ Collections.sort(Arrays.asList(disordersArrayFull), new Comparator<String>() {
                  });
 
 
-                 getSupportActionBar().setDisplayUseLogoEnabled(false);
+           //      getSupportActionBar().setDisplayUseLogoEnabled(false);
               //   getSupportActionBar().setDisplayShowTitleEnabled(false);
 
 
                  // Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
                  // setSupportActionBar(toolbar);
 
-                 DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-                 ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                         this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-                 drawer.setDrawerListener(toggle);
-                 toggle.syncState();
 
-                 getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-                 toolbar.setNavigationIcon(R.drawable.settings52);
+
+
+          //      ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+          //              this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+
+           //      drawer.setDrawerListener(toggle);
+           //      toggle.syncState();
+
+
+
+
+          //       getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+            //     toolbar.setNavigationIcon(R.drawable.settings48);
+
               //   toolbar.setLogo(R.drawable.disorder);
 
 
@@ -536,11 +519,40 @@ Collections.sort(Arrays.asList(disordersArrayFull), new Comparator<String>() {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.main, menu);
-
-
-
         return true;
     }
 
+        //     @Override
+        //     public boolean onOptionsItemSelected(MenuItem item) {
+        //         switch (item.getItemId()) {
+        //             case R.id.action_settings:
+//
+//
+//
+        //                 Collections.sort(Arrays.asList(disordersArrayFull), new Comparator<String>() {
+        //                     @Override
+        //                     public int compare(String s, String t1) {
+        //                         return -s.compareToIgnoreCase(t1);
+        //                     }
+        //                 });
+//
+//
+        //                 return true;
+        //             case R.id.action_settings2:
+//
+//
+        //                 Collections.sort(Arrays.asList(disordersArrayFull), String.CASE_INSENSITIVE_ORDER);
+//
+        //                 return true;
+//
+        //             default:
+        //        //         Collections.sort(Arrays.asList(disordersArrayFull), String.CASE_INSENSITIVE_ORDER);
+//
+        //                 return super.onOptionsItemSelected(item);
+        //         }
+        //     }
 
-}
+
+
+
+         }

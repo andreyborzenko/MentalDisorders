@@ -41,7 +41,7 @@ public class LocaleHelper {
         localeMap.put("ES",SupportedLocale.SPANISH);
         localeMap.put("PT",SupportedLocale.PORTUGESE);
         localeMap.put("JA",SupportedLocale.JAPANESE);
-    //    localeMap.put("HI",SupportedLocale.HINDI);
+        localeMap.put("HI",SupportedLocale.HINDI);
 
 
 
